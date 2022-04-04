@@ -1,1 +1,17 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+title: Quality-Diversity optimisation algorithms
+description: This webpage intends to list papers related to QD algorithms, links to tutorials and workshops, and pointers to existing implementations of QD algorithms.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+include:
+  - CONTRIBUTING.md
+  - index.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md

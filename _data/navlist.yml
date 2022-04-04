@@ -1,0 +1,19 @@
+docs:
+
+- pagetitle: About
+  url: /
+
+- pagetitle: Papers
+  url: /papers
+
+- pagetitle: Related works
+  url: /relatedworks
+
+- pagetitle: Tutorials
+  url: /tutorials
+
+- pagetitle: Workshop
+  url: /workshop
+
+- pagetitle: Libraries
+  url: /libraries  

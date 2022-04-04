@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# About
 
-You can use the [editor on GitHub](https://github.com/tensegrity-robotics/tensegrity-robotics.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+A fascinating aspect of natural evolution is its ability to produce a *diversity* of organisms that are all high performing in their niche. By contrast, the main artificial evolution algorithms are focused on pure optimization, that is, finding a *single* high-performing solution. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Quality-Diversity optimization (or illumination) is a new type of evolutionary algorithm that aims at generating large collections of diverse solutions that are all high-performing. This concept was introduced by the ``Generative and Developmental Systems`` community between 2011 (Lehman & Stanley, 2011) and 2015 (Mouret & Clune, 2015) with the ``Novelty Search with Local Competition`` and ``MAP-Elites`` evolutionary algorithms. The main differences with multi-modal optimization algorithms are that (1) Quality Diversity typically works in the behavioral space (or feature space), and not in the genotypic space, and (2) Quality Diversity attempts to fill the whole behavior space, even if the niche is not a peak in the fitness landscape. In less than 4 years, about 70 papers have been written about quality diversity, many of them in the GECCO community (a non exhaustive list is available [here](/papers)).
 
-### Markdown
+The collections of solutions obtained by Quality Diversity algorithms open many new applications for evolutionary computation. In robotics, it was used to create repertoires of behaviors (Cully & Mouret, 2016), to allow robots to adapt to damage in a few minutes (Cully & et al. 2015); in engineering, it can be used to propose a diversity of optimized aerodynamic shapes (Gaier & et al., 2018); they were also recently used in video games (Khalifa & et al., 2018) and for Workforce Scheduling and Routing Problems (WSRP) (Urquhart & Hart, 2018).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Main Contributors
+- Antoine Cully, Imperial College London.
+- Jean-Baptiste Mouret, INRIA.
+- Stephane Doncieux, Sorbonne University. 
 
-```markdown
-Syntax highlighted code block
+The list of papers has been completed with references from the [list](https://github.com/DanieleGravina/divergence-and-quality-diversity) made by Daniele Gravina
 
-# Header 1
-## Header 2
-### Header 3
+# Contributing
 
-- Bulleted
-- List
+This website is maintained by the research community. If you wish to add or change something on the website, please feel free to create a pull request that implements the changes.
+The sources of the website are available [here](https://github.com/quality-diversity/quality-diversity.github.io).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tensegrity-robotics/tensegrity-robotics.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
