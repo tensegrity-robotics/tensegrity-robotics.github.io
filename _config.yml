@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Quality-Diversity optimisation algorithms
-description: This webpage intends to list papers related to QD algorithms, links to tutorials and workshops, and pointers to existing implementations of QD algorithms.
+title: Tensegrity Robotics
+description: This webpage is meant to list papers related to Tensegrity Robotics, and provide links to tutorials and workshops, and pointers to existing Tensegrity Projects.
 plugins:
   - jekyll-relative-links
 relative_links:
