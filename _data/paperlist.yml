@@ -56,11 +56,10 @@ papers:
    - robotics, medical
   abstract: "In this article a multi-segmented planar tensegrity mechanism was presented. This mechanism has a three-segment structure with each segment residing on top of another. The size of the segments may decrease proportionally from base to top, resulting in a tapered shape from base to tip like an elephant trunk. The system was mechanically formulated as having linear springs and cables functioning as actuators. The singularities, as well as the stability of the parallel mechanism, were analyzed by using the principle of minimum energy. Optimization was also done to obtain the greatest angular deflection for a segment according to a ratio between the size of the base and the moving platform of the robotic system. The result of this work is a family of mechanisms that can generate the same workspace for different stability properties."
   pdfurl: "https://arxiv.org/abs/2204.01312"
-bibtex: |
-      " @article{khanzode2022stacked,
-  title={Stacked Tensegrity Mechanism for Medical Application},
-  author={Khanzode, Dhruva and Jha, Ranjan and Duchalais, Emilie and Chablat, Damien},
-  journal={arXiv preprint arXiv:2204.01312},
-  year={2022}
-}
+  bibtex: |
+           " @article{khanzode2022stacked,
+           title={Stacked Tensegrity Mechanism for Medical Application},
+           author={Khanzode, Dhruva and Jha, Ranjan and Duchalais, Emilie and Chablat, Damien},
+           journal={arXiv preprint arXiv:2204.01312},
+           year={2022} }"
 
