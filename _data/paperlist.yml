@@ -63,3 +63,10 @@ papers:
            journal={arXiv preprint arXiv:2204.01312},
            year={2022} }"
 
+- title: "Design and Modeling Framework for DexTeR: Dexterous Continuum Tensegrity Manipulator"
+  authors:
+  - "Cole Woods"
+  - "Vishesh Vikas"
+  year: 2023
+  abstract: "The field of tensegrity faces challenges in design to facilitate efficient fabrication, and modeling due to the antagonistic nature of tension and compression elements. The research presents design methodology, and modeling framework for a human-spine inspired Dexterous continuum Tensegrity manipulatoR (DexTeR). DexTeR is a continuum manipulator that comprises of an assembly of “vertebra” modules fabricated using two curved links and 12 strings, and actuated using motor-tendon actuators. The fabrication methodology involves the construction of the equivalent graph of the module and finding the Euler path that traverses every edge of the graph exactly once. The vertices and edges of the graph correspond to the holes and strings or links of the mechanism. Unlike traditional rigid manipulators, the design results in centralization of the majority of the weight of the actuators at the base with negligible effect on the manipulator dynamics. For the first time in literature, we fabricate a tensegrity manipulator that is assembled using ten modules to conceptually validate the time and cost efficiency of the approach. A dynamic model of a vertebra module is presented using the Euler–Newton approach with screw theory representation. Each rigid link is represented using a screw, a six-dimensional vector with components of angular rotation, and linear translation. The nonlinearity in the system arises from the discontinuous behavior of the strings and the `closed-chain` nature of the mechanism. The behavior of the strings is piece-wise continuous to model their slack, compliant, or tension states.
+  pdfurl: "https://asmedigitalcollection.asme.org/mechanismsrobotics/article/15/3/031006/1159759?casa_token=LbepHDjKKfsAAAAA:wZYSKf5A468ChuBtScz13OclkPcTWh5fF10y2358-8xUC8NpiGw6MG6CWeR20SQ7CZfo-9A"
