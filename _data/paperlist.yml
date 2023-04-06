@@ -1,5 +1,29 @@
 papers:
 
+- title: " Jumping locomotion system based on a multistable tensegrity structure" 
+  authors:
+   - Philipp Schorr
+   - Lena Zentner
+   - Klaus Zimmerman
+   - Valter Böhm
+  year: 2021
+  tags:
+   - robotics
+   - multistable
+  abstract: "Multistable tensegrity structures are a new interesting class of compliant prestressed structures. Due to their beneficial properties, these structures are attractive for robotic applications. In this paper a gripper is introduced, which is based on a mechanical compliant, multistable tensegrity structure. The underlying tensegrity structure of the considered gripper is investigated in detail. The influence of the member parameters on the existence of multiple states of self-equilibrium and the mechanical compliance is discussed with the help of static geometric nonlinear analyses, based on the Finite Element Method. The dynamical behaviour of the structure, during the change between the equilibrium configurations, is considered. Therefor the dynamical equations of motion are derived. Then gripper arms are added to the tensegrity structure to obtain a gripper. Different actuation principles for the gripper are discussed. Additionally, a prototype of the gripper has been built and is presented, as well as, selected experimental results."
+  bibtex:
+       "
+       @article{schorr2021jumping,
+  title={Jumping locomotion system based on a multistable tensegrity structure},
+  author={Schorr, Philipp and Zentner, Lena and Zimmermann, Klaus and B{\"o}hm, Valter},
+  journal={Mechanical systems and signal processing},
+  volume={152},
+  pages={107384},
+  year={2021},
+  publisher={Elsevier}
+}
+       "
+
 - title: "Behavioral Repertoires for Soft Tensegrity Robots"
   authors:
    - Kyle Doney
