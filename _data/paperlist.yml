@@ -25,74 +25,297 @@ papers:
        "
 
 - title: "Behavioral Repertoires for Soft Tensegrity Robots"
-  authors:
-   - Kyle Doney
-   - Aikaterini Petridou
-   - Jacob Karaul
-   - Ali Khan
-   -  Geoffrey Liu
-   - John Rieffel
-  year: 2020
-  tags:
-   - robotics
-  pdfurl: "https://arxiv.org/pdf/2009.10864.pdf"
-  abstract: "Mobile soft robots offer compelling applications in fields ranging from urban search and rescue to planetary exploration. A critical challenge of soft robotic control is that the nonlinear dynamics imposed by soft materials often result in complex behaviors that are counter-intuitive and hard to model or predict. As a consequence, most behaviors for mobile soft robots are discovered through empirical trial and error and handtuning. A second challenge is that soft materials are difficult to simulate with high fidelity - leading to a significant reality gap when trying to discover or optimize new behaviors. In this work we employ a Quality Diversity Algorithm running model-free on a physical soft tensegrity robot that autonomously generates a behavioral repertoire with no a priori knowledge of the robot’s dynamics, and minimal human intervention. The resulting behavior repertoire displays a diversity of unique locomotive gaits useful for a variety of tasks. These results help provide a road map for increasing the behavioral capabilities of mobile soft robots through real-world automation."
-  bibtex: 
-          "
-         @article{doney2020behavioral,
-          title={Behavioral Repertoires for Soft Tensegrity Robots},
-          author={Doney, Kyle and Petridou, Aikaterini and Karaul, Jacob and Khan, Ali and Liu, Geoffrey and Rieffel, John},
-          journal={arXiv preprint arXiv:2009.10864},
-          year={2020}} 
-          "
-          
+ authors:
+  - Kyle Doney
+  - Aikaterini Petridou
+  - Jacob Karaul
+  - Ali Khan
+  - Geoffrey Liu
+  - John Rieffel
+ year: 2020
+ tags:
+  - robotics
+ pdfurl: "https://arxiv.org/pdf/2009.10864.pdf"
+ abstract: "Mobile soft robots offer compelling applications in fields ranging from urban search and rescue to planetary exploration. A critical challenge of soft robotic control is that the nonlinear dynamics imposed by soft materials often result in complex behaviors that are counter-intuitive and hard to model or predict. As a consequence, most behaviors for mobile soft robots are discovered through empirical trial and error and handtuning. A second challenge is that soft materials are difficult to simulate with high fidelity - leading to a significant reality gap when trying to discover or optimize new behaviors. In this work we employ a Quality Diversity Algorithm running model-free on a physical soft tensegrity robot that autonomously generates a behavioral repertoire with no a priori knowledge of the robot’s dynamics, and minimal human intervention. The resulting behavior repertoire displays a diversity of unique locomotive gaits useful for a variety of tasks. These results help provide a road map for increasing the behavioral capabilities of mobile soft robots through real-world automation."
+ bibtex:
+         "
+        @article{doney2020behavioral,
+         title={Behavioral Repertoires for Soft Tensegrity Robots},
+         author={Doney, Kyle and Petridou, Aikaterini and Karaul, Jacob and Khan, Ali and Liu, Geoffrey and Rieffel, John},
+         journal={arXiv preprint arXiv:2009.10864},
+         year={2020}}
+         "
+        
 - title: "Seeking Quality Diversity in Evolutionary Co-design of Morphology and Control of Soft Tensegrity Modular Robots"
-  authors:
-   - "Enrico Zardini"
-   - "Davide Zappetti"
-   - "Davide Zambrano"
-   - "Giovanni Iacca"
-   - "Dario Floreano"
-  year: 2021
-  tags:
-   - robotics
-  abstract: "Designing optimal soft modular robots is difficult, due to non-trivial interactions between morphology and controller. Evolutionary algorithms (EAs), combined with physical simulators, represent a valid tool to overcome this issue. In this work, we investigate algorithmic solutions to improve the Quality Diversity of co-evolved designs of Tensegrity Soft Modular Robots (TSMRs) for two robotic tasks, namely goal reaching and squeezing trough a narrow passage. To this aim, we use three different EAs, i.e., MAP-Elites and two custom algorithms: one based on Viability Evolution (ViE) and NEAT (ViE-NEAT), the other named Double Map MAP-Elites (DM-ME) and devised to seek diversity while co-evolving robot morphologies and neural network (NN)-based controllers. In detail, DM-ME extends MAP-Elites in that it uses two distinct feature maps, referring to morphologies and controllers respectively, and integrates a mechanism to automatically define the NN-related feature descriptor. Considering the fitness, in the goal-reaching task ViE-NEAT outperforms MAP-Elites and results equivalent to DM-ME. Instead, when considering diversity in terms of 'illumination' of the feature space, DM-ME outperforms the other two algorithms on both tasks, providing a richer pool of possible robotic designs, whereas ViE-NEAT shows comparable performance to MAP-Elites on goal reaching, although it does not exploit any map."
-  pdfurl: "https://arxiv.org/pdf/2104.12175"
-  bibtex: |
-          "@inproceedings{zardini2021seeking,
-           title={Seeking Quality Diversity in Evolutionary Co-design of Morphology and Control of Soft Tensegrity Modular Robots},
-           author={Zardini, Enrico and Zappetti, Davide and Zambrano, Davide and Iacca, Giovanni and Floreano, Dario},
-           booktitle={Genetic and Evolutionary Computation Conference},
-           year={2021}
-           }
-          "
+ authors:
+  - Enrico Zardini
+  - Davide Zappetti
+  - Davide Zambrano
+  - Giovanni Iacca
+  - Dario Floreano
+ year: 2021
+ tags:
+  - robotics
+ abstract: "Designing optimal soft modular robots is difficult, due to non-trivial interactions between morphology and controller. Evolutionary algorithms (EAs), combined with physical simulators, represent a valid tool to overcome this issue. In this work, we investigate algorithmic solutions to improve the Quality Diversity of co-evolved designs of Tensegrity Soft Modular Robots (TSMRs) for two robotic tasks, namely goal reaching and squeezing trough a narrow passage. To this aim, we use three different EAs, i.e., MAP-Elites and two custom algorithms: one based on Viability Evolution (ViE) and NEAT (ViE-NEAT), the other named Double Map MAP-Elites (DM-ME) and devised to seek diversity while co-evolving robot morphologies and neural network (NN)-based controllers. In detail, DM-ME extends MAP-Elites in that it uses two distinct feature maps, referring to morphologies and controllers respectively, and integrates a mechanism to automatically define the NN-related feature descriptor. Considering the fitness, in the goal-reaching task ViE-NEAT outperforms MAP-Elites and results equivalent to DM-ME. Instead, when considering diversity in terms of 'illumination' of the feature space, DM-ME outperforms the other two algorithms on both tasks, providing a richer pool of possible robotic designs, whereas ViE-NEAT shows comparable performance to MAP-Elites on goal reaching, although it does not exploit any map."
+ pdfurl: "https://arxiv.org/pdf/2104.12175"
+ bibtex: |
+         "@inproceedings{zardini2021seeking,
+          title={Seeking Quality Diversity in Evolutionary Co-design of Morphology and Control of Soft Tensegrity Modular Robots},
+          author={Zardini, Enrico and Zappetti, Davide and Zambrano, Davide and Iacca, Giovanni and Floreano, Dario},
+          booktitle={Genetic and Evolutionary Computation Conference},
+          year={2021}
+          }
+         "
 
 
 
 - title: "Stacked Tensegrity Mechanism for Medical Application"
-  authors:
-  - "Dhruva Khanzode "
-  - "Ranjan Jha"
-  - "Emilie Duchalais"
-  - "Damien Chablat"
-  year: 2022
-  tags:
-   - robotics, medical
-  abstract: "In this article a multi-segmented planar tensegrity mechanism was presented. This mechanism has a three-segment structure with each segment residing on top of another. The size of the segments may decrease proportionally from base to top, resulting in a tapered shape from base to tip like an elephant trunk. The system was mechanically formulated as having linear springs and cables functioning as actuators. The singularities, as well as the stability of the parallel mechanism, were analyzed by using the principle of minimum energy. Optimization was also done to obtain the greatest angular deflection for a segment according to a ratio between the size of the base and the moving platform of the robotic system. The result of this work is a family of mechanisms that can generate the same workspace for different stability properties."
-  pdfurl: "https://arxiv.org/abs/2204.01312"
-  bibtex: |
-           " @article{khanzode2022stacked,
-           title={Stacked Tensegrity Mechanism for Medical Application},
-           author={Khanzode, Dhruva and Jha, Ranjan and Duchalais, Emilie and Chablat, Damien},
-           journal={arXiv preprint arXiv:2204.01312},
-           year={2022} }"
+ authors:
+ - "Dhruva Khanzode "
+ - "Ranjan Jha"
+ - "Emilie Duchalais"
+ - "Damien Chablat"
+ year: 2022
+ tags:
+  - robotics
+  - medical
+ abstract: "In this article a multi-segmented planar tensegrity mechanism was presented. This mechanism has a three-segment structure with each segment residing on top of another. The size of the segments may decrease proportionally from base to top, resulting in a tapered shape from base to tip like an elephant trunk. The system was mechanically formulated as having linear springs and cables functioning as actuators. The singularities, as well as the stability of the parallel mechanism, were analyzed by using the principle of minimum energy. Optimization was also done to obtain the greatest angular deflection for a segment according to a ratio between the size of the base and the moving platform of the robotic system. The result of this work is a family of mechanisms that can generate the same workspace for different stability properties."
+ pdfurl: "https://arxiv.org/abs/2204.01312"
+ bibtex: |
+          " @article{khanzode2022stacked,
+          title={Stacked Tensegrity Mechanism for Medical Application},
+          author={Khanzode, Dhruva and Jha, Ranjan and Duchalais, Emilie and Chablat, Damien},
+          journal={arXiv preprint arXiv:2204.01312},
+          year={2022} }"
+
 
 - title: "Design and Modeling Framework for DexTeR: Dexterous Continuum Tensegrity Manipulator"
-  authors:
-  - "Cole Woods"
-  - "Vishesh Vikas"
-  year: 2023
-  tags:
-  - robotics
-  abstract: "The field of tensegrity faces challenges in design to facilitate efficient fabrication, and modeling due to the antagonistic nature of tension and compression elements. The research presents design methodology, and modeling framework for a human-spine inspired Dexterous continuum Tensegrity manipulatoR (DexTeR)."
-  pdfurl: "https://asmedigitalcollection.asme.org/mechanismsrobotics/article/15/3/031006/1159759?casa_token=LbepHDjKKfsAAAAA:wZYSKf5A468ChuBtScz13OclkPcTWh5fF10y2358-8xUC8NpiGw6MG6CWeR20SQ7CZfo-9A"
+ authors:
+ - Cole Woods
+ - Vishesh Vikas
+ year: 2023
+ tags:
+ - robotics
+ abstract: "The field of tensegrity faces challenges in design to facilitate efficient fabrication, and modeling due to the antagonistic nature of tension and compression elements. The research presents design methodology, and modeling framework for a human-spine inspired Dexterous continuum Tensegrity manipulatoR (DexTeR)."
+ pdfurl: "https://asmedigitalcollection.asme.org/mechanismsrobotics/article/15/3/031006/1159759?casa_token=LbepHDjKKfsAAAAA:wZYSKf5A468ChuBtScz13OclkPcTWh5fF10y2358-8xUC8NpiGw6MG6CWeR20SQ7CZfo-9A"
+ bibtex: |
+         "@article{10.1115/1.4056959,
+         author = {Woods, Cole and Vikas, Vishesh},
+         title = "{Design and Modeling Framework for DexTeR: Dexterous Continuum Tensegrity Manipulator}",
+         journal = {Journal of Mechanisms and Robotics},
+         volume = {15},
+         number = {3},
+         year = {2023},
+         month = {03},
+         abstract = "{The field of tensegrity faces challenges in design to facilitate efficient fabrication, and modeling due to the antagonistic nature of tension and compression elements. The research presents design methodology, and modeling framework for a human-spine inspired Dexterous continuum Tensegrity manipulatoR (DexTeR). DexTeR is a continuum manipulator that comprises of an assembly of “vertebra” modules fabricated using two curved links and 12 strings, and actuated using motor-tendon actuators. The fabrication methodology involves the construction of the equivalent graph of the module and finding the Euler path that traverses every edge of the graph exactly once. The vertices and edges of the graph correspond to the holes and strings or links of the mechanism. Unlike traditional rigid manipulators, the design results in centralization of the majority of the weight of the actuators at the base with negligible effect on the manipulator dynamics. For the first time in literature, we fabricate a tensegrity manipulator that is assembled using ten modules to conceptually validate the time and cost efficiency of the approach. A dynamic model of a vertebra module is presented using the Euler–Newton approach with screw theory representation. Each rigid link is represented using a screw, a six-dimensional vector with components of angular rotation, and linear translation. The nonlinearity in the system arises from the discontinuous behavior of the strings and the “closed-chain” nature of the mechanism. The behavior of the strings is piece-wise continuous to model their slack, compliant, or tension states.}",
+         issn = {1942-4302},
+         doi = {10.1115/1.4056959},
+         note = {031006}"
+
+
+- title: "DuCTT: A tensegrity robot for exploring duct systems"
+ authors:
+ - Jeffrey Friesen
+ - Alexandra Pogue
+ - Thomas Bewley
+ - Mauricia de Oliveira
+ - Robert Skelton
+ - Vytas Sunspiral
+ year: 2014
+ tags:
+ - robotics
+ - kinematics
+ - ducts
+ abstract: "A robot with the ability to traverse complex duct systems requires a large range of controllable motions as well as the ability to grip the duct walls in vertical shafts. We present a tensegrity robot with two linked tetrahedral frames, each containing a linear actuator, connected by a system of eight actuated cables. The robot climbs by alternately wedging each tetrahedron within the duct and moving one tetrahedron relative to the other. We first introduce our physical prototype, called DuCTT (Duct Climbing Tetrahedral Tensegrity). We next discuss the inverse kinematic control strategy used to actuate the robot and analyze the controller's capabilities within a physics simulation. Finally, we discuss the hardware prototype and compare its performance with simulation."
+ pdfurl: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6907473
+ bibtex: |
+         " @INPROCEEDINGS{6907473,
+           author={Friesen, Jeffrey and Pogue, Alexandra and Bewley, Thomas and de Oliveira, Mauricio and Skelton, Robert and Sunspiral, Vytas},
+           booktitle={2014 IEEE International Conference on Robotics and Automation (ICRA)},
+           title={DuCTT: A tensegrity robot for exploring duct systems},
+           year={2014}, 
+           volume={},
+           number={},
+           pages={4222-4228},
+           doi={10.1109/ICRA.2014.6907473}} "
+
+title: "Adaptive and Resilient Soft Tensegrity Robots"
+authors:
+	- John Rieffel
+	- Jean-Baptiste Mouret
+year: 2018
+tags:
+	- tensegrity
+	- Bayesian optimization
+	- vibration
+	- resonance
+abstract: "Living organisms intertwine soft (e.g., muscle) and hard (e.g., bones) materials, giving them an intrinsic flexibility and resiliency often lacking in conventional rigid robots. The emerging field of soft robotics seeks to harness these same properties to create resilient machines. The nature of soft materials, however, presents considerable challenges to aspects of design, construction, and control—and up until now, the vast majority of gaits for soft robots have been hand-designed through empirical trial-and-error. This article describes an easy-to-assemble tensegrity-based soft robot capable of highly dynamic locomotive gaits and demonstrating structural and behavioral resilience in the face of physical damage. Enabling this is the use of a machine learning algorithm able to discover effective gaits with a minimal number of physical trials. These results lend further credence to soft-robotic approaches that seek to harness the interaction of complex material dynamics to generate a wealth of dynamical behaviors."
+pdfpurl: "https://www.liebertpub.com/doi/epdf/10.1089/soro.2017.0066"
+bibtext: "
+	@article{doi:10.1089/soro.2017.0066,
+	title = {Adaptive and Resilient Soft Tensegrity Robots},
+	author = {Rieffel, John and Mouret, Jean-Baptiste},
+	journal = {Soft Robotics},
+	volume = {5},
+	number = {3},
+	pages = {318-329},
+	year = {2018}
+"
+
+
+
+title: "Optimizing Tensegrity Gaits Using Bayesian Optimization"
+authors:
+	- James Boggs
+year: 2018
+tags:
+	- tensegrity
+	- robotics 
+	- optimization 
+	- control systems
+	- Bayesian optimization
+abstract: "We design and implement a new, modular, more complex tensegrity robot featuring data collection and wireless communication and operation as well as necessary accompanying research infrastructure. We then utilize this new tensegrity to assess previous research on using Bayesian optimization to generate effective forward gaits for tensegrity robots. Ultimately, we affirm the conclusions of previous researchers, demonstrating that Bayesian optimization is statistically significantly (p < 0:05) more effective at discovering useful gaits than random search. We also identify several flaws in our new system and identify means of addressing them, paving the way for more effective future research."
+pdfurl: "https://digitalworks.union.edu/cgi/viewcontent.cgi?article=2219&context=theses"
+bibtex: "
+	@inproceedings{Boggs2018OptimizingTG,
+  	title={Optimizing Tensegrity Gaits Using Bayesian Optimization},
+  	author={James Boggs},
+  	year={2018}
+}
+"
+
+
+
+
+
+title: "A Better Way to Construct Tensegrities: Planar Embeddings Inform Tensegrity Assembly"
+authors:
+	- Elizabeth Anne Ricci
+year: 2018
+tags: 
+	- tensegrity
+	- planar embedding
+	- construction 
+	- soft robot
+abstract: "Although seemingly simple, tensegrity structures are complex in nature which makes them both ideal for use in robotics and difficult to construct. We work to develop a protocol for constructing tensegrities more easily. We consider attaching a tensegrity's springs to the appropriate locations on some planar arrangement of attached struts. Once all of the elements of the structure are connected, we release the struts and allow the tensegrity to find its equilibrium position. This will allow for more rapid tensegrity construction. We develop a black-box that given some tensegrity returns a flat-pack, or the information needed to perform this physical construction."
+pdfurl: "https://digitalworks.union.edu/cgi/viewcontent.cgi?article=1986&context=theses"
+bibtex: "
+	@inproceedings{Ricci2018ABW,
+	title={A Better Way to Construct Tensegrities: Planar Embeddings Inform Tensegrity Assembly},
+	author={Elizabeth A. Ricci},
+	year={2018}
+}
+"
+
+
+
+
+title: "Designing a Wireless PCB Tensegrity Strut"
+authors:
+	- Mitchell Clifford
+year: 2018
+tags:
+	- Printed Circuit Board
+	- Wireless 
+	- Modular 
+	- PCB
+	- Tensegrity
+	- Strut
+abstract: "Tensegrity robots are a form of soft robotics useful because their form stabilization is based on internal tension rather than gravity. This type of stabilization allows their structure to deform but still return to their original shape regardless of environment. The challenge with Tensegrity robots is creating a control system that allows them to locomote freely. This proposed design will create a battery powered wireless strut fabricated from PCB for the Tensegrity robot that is self-powered, is able to send and receive data, and can control a DC vibration motor. The goal is to control the dynamics of the tensegrity through the vibrations of the struts in order to allow the robot to locomote. The parts were selected based on their ability to control the motor, as well as send vibration data to a control computer wirelessly. This will allow better implementation for the genetic algorithms used. The prototype PCB strut withstood structural tests, however, because of improper tools, little of the design was validated. Despite this, the use of PCB positively impacted the size and durability of each strut and will be a useful material for further testing."
+pdfurl: "https://digitalworks.union.edu/cgi/viewcontent.cgi?article=2155&context=theses"
+bibtex: 
+
+
+
+
+
+title: "Exploring the Behavior Repertoire of a Wireless Vibrationally Actuated Tensegrity Robot"
+authors:
+	- Zongliang Ji
+year: 2019
+tags:
+tags:
+	- artificial intelligence
+	- machine learning
+	- soft robotics
+	- algorithms
+abstract: "Soft robotics is an emerging field of research due to its potential to explore and operate in unstructured, rugged, and dynamic environments. However, the properties that make soft robots compelling also make them difficult to robustly control. Here at Union, we developed the world’s first wireless soft tensegrity robot. The goal of my thesis is to explore effective and efficient methods to explore the diverse behavior our tensegrity robot. We will achieve that by applying state-of-art machine learning technique and a novelty search algorithm."
+pdfurl: "https://digitalworks.union.edu/cgi/viewcontent.cgi?article=3336&context=theses"
+bibtex: 
+
+
+
+
+title: "Development of a Fully Instrumented, Resonant Tensegrity Strut"
+authors:
+	- Kentara Barhydt
+year: 2018"
+tags:
+	- Tensegrity, 
+	- Resonance
+	- Generic Algorithms
+	- Strut
+	- Robot
+abstract: "A tensegrity is a structure composed of a series of rigid members connected in static equilibrium by tensile elements. A vibrating tensegrity robot is an underactuated system in which a set of its struts are vibrated at certain frequency combinations to achieve various locomotive gaits. Evolutionary robotics research lead by Professor John Rieffel focuses on exploiting the complex dynamics of tensegrity structures to control locomotion in vibrating tensegrity robots by finding desired gaits using genetic algorithms. A current hypothesis of interest is that the optimal locomotive gaits of a vibrating tensegrity exist at its resonant frequencies.
+
+In order to observe this potential phenomenon, a fully instrumented tensegrity strut module capable of actuating the resonant modes of a vibrating tensegrity and observing the dynamics of its individual struts was developed. The strut consists of a laser-cut acrylic base, a custom DC vibration motor, a 6-axis IMU with onboard data collection, and Bluetooth connectivity for wireless control. Single strut vibration was theoretically modeled and validated against the experimentally observed dynamics. The final iteration of this design successfully actuated the resonant modes of the tensegrity and achieved sufficient motion capture capabilities with a sampling rate of 425 Hz. Additionally, experimental testing with the strut revealed a new frequency-locking phenomenon present in the frequency response of the strut’s vibration."
+pdfurl: "https://digitalworks.union.edu/cgi/viewcontent.cgi?article=2180&context=theses"
+bibtex: 
+
+- title: "Growing and Evolving Soft Robots"
+-  authors:
+	- John Rieffel
+  - Davis Knox
+  - Schuyler Smith
+  - Barry Trimmer
+-  year: 2014
+-  tags: 
+- abstract: "Completely soft and flexible robots offer to revolutionize fields ranging from search and rescue to endoscopic surgery. One of the outstanding challenges in this burgeoning field is the chicken-and-egg problem of body-brain design: Development of locomotion requires the preexistence of a locomotion-capable body, and development of a location-capable body requires the preexistence of a locomotive gait. This problem is compounded by the high degree of coupling between the material properties of a soft body (such as stiffness or damping coefficients) and the effectiveness of a gait. This article synthesizes four years of research into soft robotics, in particular describing three approaches to the co-discovery of soft robot morphology and control. In the first, muscle placement and firing patterns are coevolved for a fixed body shape with fixed material properties. In the second, the material properties of a simulated soft body coevolve alongside locomotive gaits, with body shape and muscle placement fixed. In the third, a developmental encoding is used to scalably grow elaborate soft body shapes from a small seed structure. Considerations of the simulation time and the challenges of physically implementing soft robots in the real world are discussed."
+pdfurl: "https://direct.mit.edu/artl/article-abstract/20/1/143/2774/Growing-and-Evolving-Soft-Robots"
+bibtex:
+
+- title: Automated discovery and optimization of large irregular tensegrity structures
+- authors: 
+  - John Rieffel
+  - Francisco 
+  - Valero-Cuevas
+  - Hod Lipson
+- year: 2009
+- abstract: “Tensegrities consist of disjoint struts connected by tensile strings which maintain shape due to pre-stress stability. Because of their rigidity, foldability and deployability, tensegrities are becoming increasingly popular in engineering. Unfortunately few effective analytical methods for discovering tensegrity geometries exist. We introduce an evolutionary algorithm which produces large tensegrity structures, and demonstrate its efficacy and scalability relative to previous methods. A generative representation allows the discovery of underlying structural patterns. These techniques have produced the largest and most complex irregular tensegrities known in the field, paving the way toward novel solutions ranging from space antennas to soft robotics.”
+- tags: 
+  - Tensegrity
+  - Smart structures 
+  - Genetic algorithm
+  - Map L-system
+- pdfurl: https://www.sciencedirect.com/science/article/abs/pii/S0045794908002575
+- bibtex: 
+
+- title: Evolving Soft Robotic Locomotion in PhysX
+- authors: 
+  - John Rieffel
+  - Frank Saunders
+  - Shilpa Nadimpalli
+  - Harvey Zhou
+  - Soha Hassoun
+  - Jason Rife
+  - Barry Trimmer
+- year: 2009
+- abstract: "Given the complexity of the problem, genetic algorithms are one of the more promising methods of discovering control schemes for soft robotics. Since physically embodied evolution is time consuming and expensive, an outstanding challenge lies in developing fast and suitably realistic simulations in which to evolve soft robot gaits. We describe two parallel methods of using NVidia's PhysX, a hardware-accelerated (GPGPU) physics engine, in order to evolve and optimize soft bodied gaits. The first method involves the evolution of open-loop gaits using a reduced-order lumped parameter model. The second method involves harnessing PhysX's soft-bodied material simulation capabilites. In each case we discuss the the challenges and possibilities involved in using the PhysX for evolutionary soft robotics."
+- tags:
+  - caterpillar
+  - soft robot
+  - PhysX
+- pdfurl: https://doi.org/10.1145/1570256.1570351
+- bibtex: 
+
+- title: Mechanism as Mind, What Tensegrities and Caterpillars Can Teach Us about Soft Robotics
+- authors:
+  - John Rieffel
+  - Barry Trimmer
+  - Hod Lipson
+- year: 2008
+- abstract: “With recent advances in materials, interest is being applied to the idea of robots with few if any rigid parts, able to substantially deform themselves in order to flow around, and even through objects. In order to accomplish these goals in an efficient and affordable manner, space and power will be at a premium, and so soft robots will most likely be both underactuated and under-controlled. One approach to actuation and control lies in embodying portions of both tasks within the structural dynamics of the robot itself. Such ”morphological computation” is known to exist throughout the biological world, from the behavior of cellular cytoskeletons up to the tendinous network of the human hand. Here we present two examples of morphological computation - one from biology, the manduca sexta caterpillar, and one from engineering, a modular tensegrity tower - and explore how ideas from these realms can be applied toward locomotion and control of a highly articulate, under-controlled, soft robot.”
+- tags:
+- pdfurl: https://www.researchgate.net/profile/Barry-Trimmer/publication/228680289_Mechanism_as_mind_what_tensegrities_and_caterpillars_can_teach_us_about_soft_robotics/links/00463520a7b8a61a49000000/Mechanism-as-mind-what-tensegrities-and-caterpillars-can-teach-us-about-soft-robotics.pdf
+bibtex:
+
