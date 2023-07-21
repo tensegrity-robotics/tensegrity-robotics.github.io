@@ -1,5 +1,33 @@
 papers:
 
+
+- title: "6N-DoF Pose Tracking for Tensegrity Robots"
+  authors:
+   - Shiyang Lu
+   - William R Johnson III 
+   - Kun Wang 
+   - Xiaonan Huang 
+   - Joran Booth 
+   - Rebecca Kramer-Bottiglio 
+   - Kostas Bekris
+  year: 2022
+  tags:
+    - robotics
+  abstract: "Tensegrity robots, which are composed of compressive elements (rods) and flexible tensile elements (e.g., cables), have a variety of advantages, including flexibility, low weight, and resistance to mechanical impact. Nevertheless, the hybrid soft-rigid nature of these robots also complicates the ability to localize and track their state. This work aims to address what has been recognized as a grand challenge in this domain, i.e., the state estimation of tensegrity robots through a marker-less, vision-based method, as well as novel, on-board sensors that can measure the length of the robot’s cables. In particular, an iterative optimization process is proposed to track the 6-DoF pose of each rigid element of a tensegrity robot from an RGB-D video as well as endcap distance measurements from the cable sensors. To ensure that the pose estimates of rigid elements are physically feasible, i.e., they are not resulting in collisions between rods or with the environment, physical constraints are introduced during the optimization. Real-world experiments are performed with a 3-bar tensegrity robot, which performs locomotion gaits. Given ground truth data from a motion capture system, the proposed method achieves less than 1 cm translation error and 3 degrees rotation error, which significantly outperforms alternatives. At the same time, the approach can provide accurate pose estimation throughout the robot’s motion, while motion capture often fails due to occlusions."
+
+  bibtex:
+   "
+    @inproceedings{lu20226n,
+    title={6N-DoF Pose Tracking for Tensegrity Robots},
+    author={Lu, Shiyang and Johnson III, William R and Wang, Kun and Huang, Xiaonan and Booth, Joran and Kramer-Bottiglio, Rebecca and Bekris, Kostas},
+    booktitle={The International Symposium of Robotics Research},
+    pages={136--152},
+    year={2022},
+    organization={Springer}
+  
+   "
+
+
 - title: " Jumping locomotion system based on a multistable tensegrity structure" 
   authors:
    - Philipp Schorr
