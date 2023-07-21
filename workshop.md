@@ -2,6 +2,10 @@
 
 An archive of the workshop series we've been running since 2018
 
+* [RoboSoft 2022](https://muse.union.edu/tensegrity/)
+* [ICRA 2019](https://muse.union.edu/tensegrity/icra-2019/)
+* [RoboSoft 2018](https://muse.union.edu/robosoft-tensegrity-workshop/)
+
 ## RoboSoft 2022 (Virtual)
 
 Edinburg, Scotland, April 4, 2022
