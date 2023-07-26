@@ -1,5 +1,19 @@
 papers:
 
+- authors:
+  - Ziying Cao
+  - Ani Luo
+  - Yaming Feng
+  - Heping Liu
+  bibtex: "@article{Cao_2023,\n\tdoi = {10.1108/ec-11-2022-0667},\n\turl = {https://doi.org/10.1108%2Fec-11-2022-0667},\n\
+    \tyear = 2023,\n\tmonth = {jun},\n\tpublisher = {Emerald},\n\tvolume = {40},\n\
+    \tnumber = {5},\n\tpages = {1084--1100},\n\tauthor = {Ziying Cao and Ani Luo and\
+    \ Yaming Feng and Heping Liu},\n\ttitle = {Minimal mass of prismatic tensegrity\
+    \ structures},\n\tjournal = {Engineering Computations}\n}"
+  pdfurl: http://dx.doi.org/10.1108/ec-11-2022-0667
+  title: Minimal mass of prismatic tensegrity structures
+  year: 2023
+
 
 - title: "6N-DoF Pose Tracking for Tensegrity Robots"
   authors:
