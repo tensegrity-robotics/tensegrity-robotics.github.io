@@ -1,6 +1,18 @@
 papers:
 
 - authors:
+  - Kaila M. Roffman
+  - George A. Lesieutre
+  bibtex: "@article{Roffman_2023,\n\tdoi = {10.1061/jaeeez.aseng-4578},\n\turl = {https://doi.org/10.1061%2Fjaeeez.aseng-4578},\n\
+    \tyear = 2023,\n\tmonth = {sep},\n\tpublisher = {American Society of Civil Engineers\
+    \ ({ASCE})},\n\tvolume = {36},\n\tnumber = {5},\n\tauthor = {Kaila M. Roffman\
+    \ and George A. Lesieutre},\n\ttitle = {Shape Change Analysis and Design of Cylindrical\
+    \ Tensegrity Booms},\n\tjournal = {Journal of Aerospace Engineering}\n}"
+  pdfurl: http://dx.doi.org/10.1061/jaeeez.aseng-4578
+  title: Shape Change Analysis and Design of Cylindrical Tensegrity Booms
+  year: 2023
+
+- authors:
   - Ziying Cao
   - Ani Luo
   - Yaming Feng
