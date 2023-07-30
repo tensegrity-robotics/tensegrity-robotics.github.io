@@ -1,6 +1,22 @@
 papers:
 
 - authors:
+  - Valentin Gomez-Jauregui
+  - Angela Carrillo-Rodriguez
+  - Cristina Manchado
+  - Pedro Lastra-Gonzalez
+  bibtex: "@article{Gomez_Jauregui_2023,\n\tdoi = {10.3390/app13158669},\n\turl =\
+    \ {https://doi.org/10.3390%2Fapp13158669},\n\tyear = 2023,\n\tmonth = {jul},\n\
+    \tpublisher = {{MDPI} {AG}},\n\tvolume = {13},\n\tnumber = {15},\n\tpages = {8669},\n\
+    \tauthor = {Valentin Gomez-Jauregui and Angela Carrillo-Rodriguez and Cristina\
+    \ Manchado and Pedro Lastra-Gonzalez},\n\ttitle = {Tensegrity Applications to\
+    \ Architecture, Engineering and Robotics: A Review},\n\tjournal = {Applied Sciences}\n\
+    }"
+  pdfurl: http://dx.doi.org/10.3390/app13158669
+  title: 'Tensegrity Applications to Architecture, Engineering and Robotics: A Review'
+  year: 2023
+
+- authors:
   - Kaila M. Roffman
   - George A. Lesieutre
   bibtex: "@article{Roffman_2023,\n\tdoi = {10.1061/jaeeez.aseng-4578},\n\turl = {https://doi.org/10.1061%2Fjaeeez.aseng-4578},\n\
