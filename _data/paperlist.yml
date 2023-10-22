@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Qi Yang
+  - Ze Yu
+  - Binbin Lian
+  - Tao Sun
+  bibtex: "@incollection{Yang_2023,\n\tdoi = {10.1007/978-981-99-6483-3_27},\n\turl\
+    \ = {https://doi.org/10.1007%2F978-981-99-6483-3_27},\n\tyear = 2023,\n\tpublisher\
+    \ = {Springer Nature Singapore},\n\tpages = {308--322},\n\tauthor = {Qi Yang and\
+    \ Ze Yu and Binbin Lian and Tao Sun},\n\ttitle = {A Modular Tensegrity Mobile\
+    \ Robot with Multi-locomotion Modes},\n\tbooktitle = {Intelligent Robotics and\
+    \ Applications}\n}"
+  pdfurl: http://dx.doi.org/10.1007/978-981-99-6483-3_27
+  title: A Modular Tensegrity Mobile Robot with Multi-locomotion Modes
+  year: 2023
+
+- authors:
   - Valentin Gomez-Jauregui
   - Angela Carrillo-Rodriguez
   - Cristina Manchado
