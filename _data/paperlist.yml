@@ -1,6 +1,26 @@
 papers:
 
 - authors:
+  - Dunwen Wei
+  - Ximing Wei
+  - Zhichao Zhang
+  - Tao Gao
+  - Xiaojuan Mo
+  - Tom Verstraten
+  - Bram Vanderborght
+  - Dianbiao Dong
+  bibtex: "@article{Wei_2023,\n\tdoi = {10.1109/tmrb.2023.3321628},\n\turl = {https://doi.org/10.1109%2Ftmrb.2023.3321628},\n\
+    \tyear = 2023,\n\tpublisher = {Institute of Electrical and Electronics Engineers\
+    \ ({IEEE})},\n\tpages = {1--1},\n\tauthor = {Dunwen Wei and Ximing Wei and Zhichao\
+    \ Zhang and Tao Gao and Xiaojuan Mo and Tom Verstraten and Bram Vanderborght and\
+    \ Dianbiao Dong},\n\ttitle = {Bionic Ankle Tensegrity Exoskeleton with Considerable\
+    \ Load Bearing Capability},\n\tjournal = {{IEEE} Transactions on Medical Robotics\
+    \ and Bionics}\n}"
+  pdfurl: http://dx.doi.org/10.1109/tmrb.2023.3321628
+  title: Bionic Ankle Tensegrity Exoskeleton with Considerable Load Bearing Capability
+  year: 2023
+
+- authors:
   - Qi Yang
   - Ze Yu
   - Binbin Lian
