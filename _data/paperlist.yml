@@ -1,6 +1,29 @@
 papers:
 
 - authors:
+  - Kun Wang
+  - William R. Johnson
+  - Shiyang Lu
+  - Xiaonan Huang
+  - Joran Booth
+  - Rebecca Kramer-Bottiglio
+  - Mridul Aanjaneya
+  - Kostas Bekris
+  bibtex: ' @inproceedings{Wang_2023, title={Real2Sim2Real Transfer for Control of
+    Cable-Driven Robots Via a Differentiable Physics Engine}, url={http://dx.doi.org/10.1109/iros55552.2023.10341811},
+    DOI={10.1109/iros55552.2023.10341811}, booktitle={2023 IEEE/RSJ International
+    Conference on Intelligent Robots and Systems (IROS)}, publisher={IEEE}, author={Wang,
+    Kun and Johnson, William R. and Lu, Shiyang and Huang, Xiaonan and Booth, Joran
+    and Kramer-Bottiglio, Rebecca and Aanjaneya, Mridul and Bekris, Kostas}, year={2023},
+    month=oct }
+
+    '
+  pdfurl: http://dx.doi.org/10.1109/iros55552.2023.10341811
+  title: Real2Sim2Real Transfer for Control of Cable-Driven Robots Via a Differentiable
+    Physics Engine
+  year: 2023
+
+- authors:
   - Dunwen Wei
   - Ximing Wei
   - Zhichao Zhang
