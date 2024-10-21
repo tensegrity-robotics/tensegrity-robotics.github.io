@@ -1,4 +1,4 @@
-# Website for Quality-Diversity optimisation algorithms
+# Website for Tensegrity Robotics
 
 Website: https://tensegrity-robotics.github.io
 
