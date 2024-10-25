@@ -1,6 +1,23 @@
 papers:
 
 - authors:
+  - Victor Paiva
+  - Luis Silva-Teixeira
+  - Jaime Izuka
+  - Eduardo Okabe
+  - Paulo Kurka
+  bibtex: ' @article{Paiva_2024, title={A form-finding method for deployable tensegrity
+    arms and inverse kinematics}, ISSN={1572-9648}, url={http://dx.doi.org/10.1007/s11012-024-01880-5},
+    DOI={10.1007/s11012-024-01880-5}, journal={Meccanica}, publisher={Springer Science
+    and Business Media LLC}, author={Paiva, Victor and Silva-Teixeira, Luis and Izuka,
+    Jaime and Okabe, Eduardo and Kurka, Paulo}, year={2024}, month=sep }
+
+    '
+  pdfurl: http://dx.doi.org/10.1007/s11012-024-01880-5
+  title: A form-finding method for deployable tensegrity arms and inverse kinematics
+  year: 2024
+
+- authors:
   - Jiahui Luo
   - Longqing Ge
   - Xiaoming Xu
