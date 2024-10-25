@@ -1,6 +1,26 @@
 papers:
 
 - authors:
+  - Bingxing Chen
+  - Jie Zhang
+  - Qiuxu Meng
+  - Zongxing Lu
+  - Chong Zhao
+  - Hongzhou Jiang
+  bibtex: ' @article{Chen_2024, title={A dynamic model of tensegrity robotic fish
+    considering soft fish skin and tail}, ISSN={1573-269X}, url={http://dx.doi.org/10.1007/s11071-024-10136-6},
+    DOI={10.1007/s11071-024-10136-6}, journal={Nonlinear Dynamics}, publisher={Springer
+    Science and Business Media LLC}, author={Chen, Bingxing and Zhang, Jie and Meng,
+    Qiuxu and Lu, Zongxing and Zhao, Chong and Jiang, Hongzhou}, year={2024}, month=oct
+    }
+
+    '
+  pdfurl: http://dx.doi.org/10.1007/s11071-024-10136-6
+  title: A dynamic model of tensegrity robotic fish considering soft fish skin and
+    tail
+  year: 2024
+
+- authors:
   - Tianxiao Mao
   - Hua Deng
   - Hongchuang Liu
