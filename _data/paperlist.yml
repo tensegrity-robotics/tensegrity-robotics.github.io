@@ -1,6 +1,25 @@
 papers:
 
 - authors:
+  - Jiahui Luo
+  - Longqing Ge
+  - Xiaoming Xu
+  - Xiaodong Liu
+  - Ziwei Zhuang
+  - Lulu Han
+  - ZhiGang Wu
+  bibtex: " @article{Luo_2024, title={Stability Conditions and Stiffness Variability\
+    \ of General Tensegrity Systems with Kinematic Joints}, ISSN={1942-4310}, url={http://dx.doi.org/10.1115/1.4066745},\
+    \ DOI={10.1115/1.4066745}, journal={Journal of Mechanisms and Robotics}, publisher={ASME\
+    \ International}, author={Luo, Jiahui and Ge, Longqing and Xu, Xiaoming and Liu,\
+    \ Xiaodong and Zhuang, Ziwei and Han, Lulu and Wu, ZhiGang}, year={2024}, month=sep,\
+    \ pages={1\u201328} }\n"
+  pdfurl: http://dx.doi.org/10.1115/1.4066745
+  title: Stability Conditions and Stiffness Variability of General Tensegrity Systems
+    with Kinematic Joints
+  year: 2024
+
+- authors:
   - Bingxing Chen
   - Jie Zhang
   - Qiuxu Meng
