@@ -1,6 +1,20 @@
 papers:
 
 - authors:
+  - "Francisco Carre\xF1o"
+  - Mark A. Post
+  bibtex: " @article{Carre_o_2018, title={Design of a novel wheeled tensegrity robot:\
+    \ a comparison of tensegrity concepts and a prototype for travelling air ducts},\
+    \ volume={5}, ISSN={2197-3768}, url={http://dx.doi.org/10.1186/s40638-018-0084-8},\
+    \ DOI={10.1186/s40638-018-0084-8}, number={1}, journal={Robotics and Biomimetics},\
+    \ publisher={Springer Science and Business Media LLC}, author={Carre\xF1o, Francisco\
+    \ and Post, Mark A.}, year={2018}, month=may }\n"
+  pdfurl: http://dx.doi.org/10.1186/s40638-018-0084-8
+  title: 'Design of a novel wheeled tensegrity robot: a comparison of tensegrity concepts
+    and a prototype for travelling air ducts'
+  year: 2018
+
+- authors:
   - Kun Wang
   - William R. Johnson
   - Shiyang Lu
