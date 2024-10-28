@@ -1,6 +1,76 @@
 papers:
 
 - authors:
+  - Victor Paiva
+  - Luis Silva-Teixeira
+  - Jaime Izuka
+  - Eduardo Okabe
+  - Paulo Kurka
+  bibtex: ' @article{Paiva_2024, title={A form-finding method for deployable tensegrity
+    arms and inverse kinematics}, ISSN={1572-9648}, url={http://dx.doi.org/10.1007/s11012-024-01880-5},
+    DOI={10.1007/s11012-024-01880-5}, journal={Meccanica}, publisher={Springer Science
+    and Business Media LLC}, author={Paiva, Victor and Silva-Teixeira, Luis and Izuka,
+    Jaime and Okabe, Eduardo and Kurka, Paulo}, year={2024}, month=sep }
+
+    '
+  pdfurl: http://dx.doi.org/10.1007/s11012-024-01880-5
+  title: A form-finding method for deployable tensegrity arms and inverse kinematics
+  year: 2024
+
+- authors:
+  - Jiahui Luo
+  - Longqing Ge
+  - Xiaoming Xu
+  - Xiaodong Liu
+  - Ziwei Zhuang
+  - Lulu Han
+  - ZhiGang Wu
+  bibtex: " @article{Luo_2024, title={Stability Conditions and Stiffness Variability\
+    \ of General Tensegrity Systems with Kinematic Joints}, ISSN={1942-4310}, url={http://dx.doi.org/10.1115/1.4066745},\
+    \ DOI={10.1115/1.4066745}, journal={Journal of Mechanisms and Robotics}, publisher={ASME\
+    \ International}, author={Luo, Jiahui and Ge, Longqing and Xu, Xiaoming and Liu,\
+    \ Xiaodong and Zhuang, Ziwei and Han, Lulu and Wu, ZhiGang}, year={2024}, month=sep,\
+    \ pages={1\u201328} }\n"
+  pdfurl: http://dx.doi.org/10.1115/1.4066745
+  title: Stability Conditions and Stiffness Variability of General Tensegrity Systems
+    with Kinematic Joints
+  year: 2024
+
+- authors:
+  - Bingxing Chen
+  - Jie Zhang
+  - Qiuxu Meng
+  - Zongxing Lu
+  - Chong Zhao
+  - Hongzhou Jiang
+  bibtex: ' @article{Chen_2024, title={A dynamic model of tensegrity robotic fish
+    considering soft fish skin and tail}, ISSN={1573-269X}, url={http://dx.doi.org/10.1007/s11071-024-10136-6},
+    DOI={10.1007/s11071-024-10136-6}, journal={Nonlinear Dynamics}, publisher={Springer
+    Science and Business Media LLC}, author={Chen, Bingxing and Zhang, Jie and Meng,
+    Qiuxu and Lu, Zongxing and Zhao, Chong and Jiang, Hongzhou}, year={2024}, month=oct
+    }
+
+    '
+  pdfurl: http://dx.doi.org/10.1007/s11071-024-10136-6
+  title: A dynamic model of tensegrity robotic fish considering soft fish skin and
+    tail
+  year: 2024
+
+- authors:
+  - Tianxiao Mao
+  - Hua Deng
+  - Hongchuang Liu
+  bibtex: " @article{Mao_2024, title={A combined strategy for path planning of tensegrity\
+    \ manipulators considering structural stability}, ISSN={1942-4310}, url={http://dx.doi.org/10.1115/1.4066853},\
+    \ DOI={10.1115/1.4066853}, journal={Journal of Mechanisms and Robotics}, publisher={ASME\
+    \ International}, author={Mao, Tianxiao and Deng, Hua and Liu, Hongchuang}, year={2024},\
+    \ month=oct, pages={1\u201333} }\n"
+  pdfurl: http://dx.doi.org/10.1115/1.4066853
+  title: A combined strategy for path planning of tensegrity manipulators considering
+    structural stability
+  year: 2024
+
+- authors:
   - "Francisco Carre\xF1o"
   - Mark A. Post
   bibtex: " @article{Carre_o_2018, title={Design of a novel wheeled tensegrity robot:\
