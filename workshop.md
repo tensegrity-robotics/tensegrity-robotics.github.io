@@ -1,13 +1,5 @@
 #  Tensegrity Workshop Series 
 
-An archive of the workshop series we've been running since 2018
-
-* [IROS 2023](https://www.eng.yale.edu/faboratory/tensegrityworkshop/)
-* [RoboSoft 2022](https://muse.union.edu/tensegrity/)
-* [ICRA 2019](https://muse.union.edu/tensegrity/icra-2019/)
-* [RoboSoft 2018](https://muse.union.edu/robosoft-tensegrity-workshop/)
-* [RoboSoft 2022](https://tensegrity-robotics.github.io)
-
 
 
 # RoboSoft 2025 - Lausanne Switzerland 
@@ -44,19 +36,10 @@ Specific topics include (but are not limited to):
 
 Schedule (all times GMT+1)
 
-* 14:00: Opening Remarks (5 minutes)
-* 14:00-16:00 Invited Talks: (15 minutes + 5 minutes questions)
-* Tensegrity Robots Driven by Thin Pneumatic Artificial Muscles, Ryota Kobayashi (Tokyo Tech)
-* Wheeled Tensegrity Modular Robots for Practical Applications, Tianyuan Wang (University of York)
-* A System Design Approach for Control of Tensegrity Robots, Raman Goyal (PARC)
-* Behavioral Repertoires for Tensegrity Robots, John Rieffel (Union College)
-* Collision Resilient Bio-inspired Tensegrity Drone, Omar Aloui (EPFL)
-* 16:00 – 17:00pm Poster Spotlight Talks/Poster Session: ( 3-minutes each)
-* Compliant grippers based on multistable tensegrity structures, Glaser, J.; Langenscheidt, R.; Boehm, V. (OTH Regensburg)
-* Multimodal mobile robot based on a multistable tensegrity structure, Schorr, P.; Boehm, V. (OTH Regensburg)
-* A soft, stiffness-controllable joint using antagonistic actuation principles, Wenlong Gaozhang (UCL)
-* 17:00 Panel Discussion:An open-ended interactive panel discussion of the upcoming ”grand challenges” of tensegrity robotics research.
-
+* Breakout Working Groups
+* Working Groups Read-Outs
+* Student Spotlight Session
+ 
 
 POSTER GUIDELINES:
 
@@ -68,3 +51,13 @@ All participants will be invited to a future Journal Special Issue on tensegrity
 Submissions can be sent to the workshop chair,  rieffelj@union.edu.
 
 Direct all correspondence to John Rieffel (rieffelj@union.edu)
+
+## Prior Workshops
+
+An archive of the workshop series we've been running since 2018
+
+* [IROS 2023](https://www.eng.yale.edu/faboratory/tensegrityworkshop/)
+* [RoboSoft 2022](https://muse.union.edu/tensegrity/)
+* [ICRA 2019](https://muse.union.edu/tensegrity/icra-2019/)
+* [RoboSoft 2018](https://muse.union.edu/robosoft-tensegrity-workshop/)
+* [RoboSoft 2022](https://tensegrity-robotics.github.io/prior_workshops)
