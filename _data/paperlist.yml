@@ -1,5 +1,54 @@
 papers:
 
+- abstract: 'This paper presents the first steps toward a soft dolphin robot using
+    a
+
+    bio-inspired approach to mimic dolphin flexibility. The current dolphin robot
+
+    uses a minimalist approach, with only two actuated cable-driven degrees of
+
+    freedom actuated by a pair of motors. The actuated tail moves up and down in a
+
+    swimming motion, but this first proof of concept does not permit controlled
+
+    turns of the robot. While existing robotic dolphins typically use revolute
+
+    joints to articulate rigid bodies, our design -- which will be made opensource
+
+    -- incorporates a flexible tail with tunable silicone skin and actuation
+
+    flexibility via a cable-driven system, which mimics muscle dynamics and design
+
+    flexibility with a tunable skeleton structure. The design is also tunable since
+
+    the backbone can be easily printed in various geometries. The paper provides
+
+    insights into how a few such variations affect robot motion and efficiency,
+
+    measured by speed and cost of transport (COT). This approach demonstrates the
+
+    potential of achieving dolphin-like motion through enhanced flexibility in
+
+    bio-inspired robotics.'
+  authors:
+  - Luyang Zhao
+  - Yitao Jiang
+  - Chun-Yi She
+  - Mingi Jeong
+  - Haibo Dong
+  - Alberto Quattrini Li
+  - Muhao Chen
+  - Devin Balkcom
+  bibtex: "@article{Zhao2024An,\n\ttitle={An Untethered Bioinspired Robotic Tensegrity\
+    \ Dolphin with Multi-Flexibility Design for Aquatic Locomotion},\n\tauthor={Zhao,\
+    \ Luyang and Jiang, Yitao and She, Chun-Yi and Jeong, Mingi and Dong, Haibo and\
+    \ Quattrini Li, Alberto and Chen, Muhao and Balkcom, Devin},\n\tjournal={arXiv\
+    \ preprint arXiv:2411.00347v1},\n\tyear={2024} }"
+  pdfurl: http://arxiv.org/pdf/2411.00347v1
+  title: An Untethered Bioinspired Robotic Tensegrity Dolphin with Multi-Flexibility
+    Design for Aquatic Locomotion
+  year: 2024
+
 - authors:
   - Victor Paiva
   - Luis Silva-Teixeira
