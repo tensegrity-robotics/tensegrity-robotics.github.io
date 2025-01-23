@@ -1,6 +1,23 @@
 papers:
 
 - authors:
+  - Ryota Kobayashi
+  - Hiroyuki Nabae
+  - Gen Endo
+  - Koichi Suzumori
+  bibtex: " @article{Kobayashi_2022, title={Soft Tensegrity Robot Driven by Thin Artificial\
+    \ Muscles for the Exploration of Unknown Spatial Configurations}, volume={7},\
+    \ ISSN={2377-3774}, url={http://dx.doi.org/10.1109/lra.2022.3153700}, DOI={10.1109/lra.2022.3153700},\
+    \ number={2}, journal={IEEE Robotics and Automation Letters}, publisher={Institute\
+    \ of Electrical and Electronics Engineers (IEEE)}, author={Kobayashi, Ryota and\
+    \ Nabae, Hiroyuki and Endo, Gen and Suzumori, Koichi}, year={2022}, month=apr,\
+    \ pages={5349\u20135356} }\n"
+  pdfurl: https://doi.org/10.1109/lra.2022.3153700
+  title: Soft Tensegrity Robot Driven by Thin Artificial Muscles for the Exploration
+    of Unknown Spatial Configurations
+  year: 2022
+
+- authors:
   - Sumit Kumar
   - Subhamoy Sen
   bibtex: ' @article{Kumar_2025, title={Robust Genetic Algorithm-based deployment
