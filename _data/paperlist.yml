@@ -1,6 +1,24 @@
 papers:
 
 - authors:
+  - Dong Zhou
+  - Yingxiang Liu
+  - Jie Deng
+  - Jin Sun
+  - Yuan Fu
+  bibtex: " @article{Zhou_2022, title={Force Enhanced Multi-Twisted and Coiled Actuator\
+    \ and Its Application in Temperature Self-Adaptive Tensegrity Mechanisms}, volume={27},\
+    \ ISSN={1941-014X}, url={http://dx.doi.org/10.1109/tmech.2022.3150761}, DOI={10.1109/tmech.2022.3150761},\
+    \ number={5}, journal={IEEE/ASME Transactions on Mechatronics}, publisher={Institute\
+    \ of Electrical and Electronics Engineers (IEEE)}, author={Zhou, Dong and Liu,\
+    \ Yingxiang and Deng, Jie and Sun, Jin and Fu, Yuan}, year={2022}, month=oct,\
+    \ pages={3964\u20133976} }\n"
+  pdfurl: https://doi.org/10.1109/tmech.2022.3150761
+  title: Force Enhanced Multi-Twisted and Coiled Actuator and Its Application in Temperature
+    Self-Adaptive Tensegrity Mechanisms
+  year: 2022
+
+- authors:
   - Claudio Intrigila
   - Andrea Micheletti
   - Nicola A. Nodargi
