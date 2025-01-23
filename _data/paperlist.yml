@@ -1,6 +1,95 @@
 papers:
 
 - authors:
+  - Sumit Kumar
+  - Subhamoy Sen
+  bibtex: ' @article{Kumar_2025, title={Robust Genetic Algorithm-based deployment
+    of a hollow-rope tensegrity utility bridge}, volume={72}, ISSN={2352-0124}, url={http://dx.doi.org/10.1016/j.istruc.2024.108179},
+    DOI={10.1016/j.istruc.2024.108179}, journal={Structures}, publisher={Elsevier
+    BV}, author={Kumar, Sumit and Sen, Subhamoy}, year={2025}, month=feb, pages={108179}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.istruc.2024.108179
+  title: Robust Genetic Algorithm-based deployment of a hollow-rope tensegrity utility
+    bridge
+  year: 2025
+
+- authors:
+  - Ao Li
+  - Xu Yin
+  - Ben Guan
+  - Guang-Kui Xu
+  - Li-Yuan Zhang
+  - Xi-Qiao Feng
+  bibtex: ' @article{Li_2025, title={A configurable tensegrity-based metastructure
+    with tunable bandgap achieved by structural phase transition}, volume={209}, ISSN={0263-8231},
+    url={http://dx.doi.org/10.1016/j.tws.2025.112909}, DOI={10.1016/j.tws.2025.112909},
+    journal={Thin-Walled Structures}, publisher={Elsevier BV}, author={Li, Ao and
+    Yin, Xu and Guan, Ben and Xu, Guang-Kui and Zhang, Li-Yuan and Feng, Xi-Qiao},
+    year={2025}, month=apr, pages={112909} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.tws.2025.112909
+  title: A configurable tensegrity-based metastructure with tunable bandgap achieved
+    by structural phase transition
+  year: 2025
+
+- authors:
+  - Ao Li
+  - Zhuo-Ming Bai
+  - Xu Yin
+  - Tao Zhu
+  - Zi-Yan Sun
+  - Jiang Yang
+  - Li-Yuan Zhang
+  bibtex: ' @article{Li_2025, title={A tensegrity-inspired inertial amplification
+    metastructure with tunable dynamic characteristics}, volume={196}, ISSN={0022-5096},
+    url={http://dx.doi.org/10.1016/j.jmps.2025.106037}, DOI={10.1016/j.jmps.2025.106037},
+    journal={Journal of the Mechanics and Physics of Solids}, publisher={Elsevier
+    BV}, author={Li, Ao and Bai, Zhuo-Ming and Yin, Xu and Zhu, Tao and Sun, Zi-Yan
+    and Yang, Jiang and Zhang, Li-Yuan}, year={2025}, month=mar, pages={106037} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.jmps.2025.106037
+  title: A tensegrity-inspired inertial amplification metastructure with tunable dynamic
+    characteristics
+  year: 2025
+
+- authors:
+  - R. Yazbeck
+  - S. El-Borgi
+  - J.G. Boyd
+  - M. Chen
+  - D.C. Lagoudas
+  bibtex: ' @article{Yazbeck_2025, title={Non-dimensional linear analysis of one-dimensional
+    wave propagation in tensegrity structures}, volume={353}, ISSN={0263-8223}, url={http://dx.doi.org/10.1016/j.compstruct.2024.118694},
+    DOI={10.1016/j.compstruct.2024.118694}, journal={Composite Structures}, publisher={Elsevier
+    BV}, author={Yazbeck, R. and El-Borgi, S. and Boyd, J.G. and Chen, M. and Lagoudas,
+    D.C.}, year={2025}, month=jan, pages={118694} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.compstruct.2024.118694
+  title: Non-dimensional linear analysis of one-dimensional wave propagation in tensegrity
+    structures
+  year: 2025
+
+- authors:
+  - Shuo Ma
+  - Muhao Chen
+  bibtex: ' @article{Ma_2025, title={Stability conditions of tensegrity structures
+    considering local and global buckling}, volume={287}, ISSN={0020-7403}, url={http://dx.doi.org/10.1016/j.ijmecsci.2025.109951},
+    DOI={10.1016/j.ijmecsci.2025.109951}, journal={International Journal of Mechanical
+    Sciences}, publisher={Elsevier BV}, author={Ma, Shuo and Chen, Muhao}, year={2025},
+    month=feb, pages={109951} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.ijmecsci.2025.109951
+  title: Stability conditions of tensegrity structures considering local and global
+    buckling
+  year: 2025
+
+- authors:
   - Zi-Yan Sun
   - Xiao-Hui Yue
   - Ao Li
