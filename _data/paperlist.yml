@@ -1,6 +1,26 @@
 papers:
 
 - authors:
+  - Zi-Yan Sun
+  - Xiao-Hui Yue
+  - Ao Li
+  - Xu Yin
+  - Zhi-Ying Gao
+  - Li-Yuan Zhang
+  bibtex: ' @article{Sun_2025, title={A tensegrity-based torsional vibration isolator
+    with broad quasi-zero-stiffness region}, volume={224}, ISSN={0888-3270}, url={http://dx.doi.org/10.1016/j.ymssp.2024.112215},
+    DOI={10.1016/j.ymssp.2024.112215}, journal={Mechanical Systems and Signal Processing},
+    publisher={Elsevier BV}, author={Sun, Zi-Yan and Yue, Xiao-Hui and Li, Ao and
+    Yin, Xu and Gao, Zhi-Ying and Zhang, Li-Yuan}, year={2025}, month=feb, pages={112215}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.ymssp.2024.112215
+  title: A tensegrity-based torsional vibration isolator with broad quasi-zero-stiffness
+    region
+  year: 2025
+
+- authors:
   - Yanqiu Zheng
   - Fumihiko Asano
   - Cong Yan
