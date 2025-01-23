@@ -1,6 +1,24 @@
 papers:
 
 - authors:
+  - Wanda Zhao
+  - Anatol Pashkevich
+  - Alexandr Klimchik
+  - Damien Chablat
+  bibtex: ' @article{Zhao_2021, title={Elastostatic Modeling of Multi-Link Flexible
+    Manipulator Based on Two-Dimensional Dual-Triangle Tensegrity Mechanism}, volume={14},
+    ISSN={1942-4310}, url={http://dx.doi.org/10.1115/1.4051789}, DOI={10.1115/1.4051789},
+    number={2}, journal={Journal of Mechanisms and Robotics}, publisher={ASME International},
+    author={Zhao, Wanda and Pashkevich, Anatol and Klimchik, Alexandr and Chablat,
+    Damien}, year={2021}, month=sep }
+
+    '
+  pdfurl: https://doi.org/10.1115/1.4051789
+  title: Elastostatic Modeling of Multi-Link Flexible Manipulator Based on Two-Dimensional
+    Dual-Triangle Tensegrity Mechanism
+  year: 2021
+
+- authors:
   - Dong Zhou
   - Yingxiang Liu
   - Jie Deng
