@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Sumit Kumar
+  - Subhamoy Sen
+  bibtex: ' @article{Kumar_2025, title={Robust Genetic Algorithm-based deployment
+    of a hollow-rope tensegrity utility bridge}, volume={72}, ISSN={2352-0124}, url={http://dx.doi.org/10.1016/j.istruc.2024.108179},
+    DOI={10.1016/j.istruc.2024.108179}, journal={Structures}, publisher={Elsevier
+    BV}, author={Kumar, Sumit and Sen, Subhamoy}, year={2025}, month=feb, pages={108179}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.istruc.2024.108179
+  title: Robust Genetic Algorithm-based deployment of a hollow-rope tensegrity utility
+    bridge
+  year: 2025
+
+- authors:
   - Ao Li
   - Xu Yin
   - Ben Guan
