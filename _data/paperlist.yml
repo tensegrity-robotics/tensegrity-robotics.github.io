@@ -2,6 +2,26 @@ papers:
 
 - authors:
   - Ao Li
+  - Xu Yin
+  - Ben Guan
+  - Guang-Kui Xu
+  - Li-Yuan Zhang
+  - Xi-Qiao Feng
+  bibtex: ' @article{Li_2025, title={A configurable tensegrity-based metastructure
+    with tunable bandgap achieved by structural phase transition}, volume={209}, ISSN={0263-8231},
+    url={http://dx.doi.org/10.1016/j.tws.2025.112909}, DOI={10.1016/j.tws.2025.112909},
+    journal={Thin-Walled Structures}, publisher={Elsevier BV}, author={Li, Ao and
+    Yin, Xu and Guan, Ben and Xu, Guang-Kui and Zhang, Li-Yuan and Feng, Xi-Qiao},
+    year={2025}, month=apr, pages={112909} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.tws.2025.112909
+  title: A configurable tensegrity-based metastructure with tunable bandgap achieved
+    by structural phase transition
+  year: 2025
+
+- authors:
+  - Ao Li
   - Zhuo-Ming Bai
   - Xu Yin
   - Tao Zhu
