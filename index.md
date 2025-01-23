@@ -6,6 +6,7 @@ The goal of this website is  to provide a showcase for tensegrity researchers an
 
 # Main Contributors
 - John Rieffel, Union College
+- Will Johnson, Yale University
 
 # Contributing
 
