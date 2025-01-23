@@ -1,6 +1,27 @@
 papers:
 
 - authors:
+  - Ao Li
+  - Zhuo-Ming Bai
+  - Xu Yin
+  - Tao Zhu
+  - Zi-Yan Sun
+  - Jiang Yang
+  - Li-Yuan Zhang
+  bibtex: ' @article{Li_2025, title={A tensegrity-inspired inertial amplification
+    metastructure with tunable dynamic characteristics}, volume={196}, ISSN={0022-5096},
+    url={http://dx.doi.org/10.1016/j.jmps.2025.106037}, DOI={10.1016/j.jmps.2025.106037},
+    journal={Journal of the Mechanics and Physics of Solids}, publisher={Elsevier
+    BV}, author={Li, Ao and Bai, Zhuo-Ming and Yin, Xu and Zhu, Tao and Sun, Zi-Yan
+    and Yang, Jiang and Zhang, Li-Yuan}, year={2025}, month=mar, pages={106037} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.jmps.2025.106037
+  title: A tensegrity-inspired inertial amplification metastructure with tunable dynamic
+    characteristics
+  year: 2025
+
+- authors:
   - R. Yazbeck
   - S. El-Borgi
   - J.G. Boyd
