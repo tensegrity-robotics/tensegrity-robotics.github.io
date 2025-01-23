@@ -1,6 +1,26 @@
 papers:
 
 - authors:
+  - Cecilia Scoccia
+  - Luca Carbonari
+  - Giacomo Palmieri
+  - Massimo Callegari
+  - Marco Rossi
+  - "Placido Munaf\xF3"
+  - Francesco Marchione
+  - Gianluca Chiappini
+  bibtex: " @article{Scoccia_2022, title={Design of a Tensegrity Servo-Actuated Structure\
+    \ for Civil Applications}, volume={144}, ISSN={1528-9001}, url={http://dx.doi.org/10.1115/1.4053283},\
+    \ DOI={10.1115/1.4053283}, number={4}, journal={Journal of Mechanical Design},\
+    \ publisher={ASME International}, author={Scoccia, Cecilia and Carbonari, Luca\
+    \ and Palmieri, Giacomo and Callegari, Massimo and Rossi, Marco and Munaf\xF3\
+    , Placido and Marchione, Francesco and Chiappini, Gianluca}, year={2022}, month=jan\
+    \ }\n"
+  pdfurl: https://doi.org/10.1115/1.4053283
+  title: Design of a Tensegrity Servo-Actuated Structure for Civil Applications
+  year: 2022
+
+- authors:
   - Wanda Zhao
   - Anatol Pashkevich
   - Alexandr Klimchik
