@@ -1,6 +1,24 @@
 papers:
 
 - authors:
+  - R. Yazbeck
+  - S. El-Borgi
+  - J.G. Boyd
+  - M. Chen
+  - D.C. Lagoudas
+  bibtex: ' @article{Yazbeck_2025, title={Non-dimensional linear analysis of one-dimensional
+    wave propagation in tensegrity structures}, volume={353}, ISSN={0263-8223}, url={http://dx.doi.org/10.1016/j.compstruct.2024.118694},
+    DOI={10.1016/j.compstruct.2024.118694}, journal={Composite Structures}, publisher={Elsevier
+    BV}, author={Yazbeck, R. and El-Borgi, S. and Boyd, J.G. and Chen, M. and Lagoudas,
+    D.C.}, year={2025}, month=jan, pages={118694} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.compstruct.2024.118694
+  title: Non-dimensional linear analysis of one-dimensional wave propagation in tensegrity
+    structures
+  year: 2025
+
+- authors:
   - Shuo Ma
   - Muhao Chen
   bibtex: ' @article{Ma_2025, title={Stability conditions of tensegrity structures
