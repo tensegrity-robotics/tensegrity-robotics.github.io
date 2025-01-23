@@ -1,5 +1,43 @@
 papers:
 
+- authors:
+  - Zi-Yan Sun
+  - Xiao-Hui Yue
+  - Ao Li
+  - Xu Yin
+  - Zhi-Ying Gao
+  - Li-Yuan Zhang
+  bibtex: ' @article{Sun_2025, title={A tensegrity-based torsional vibration isolator
+    with broad quasi-zero-stiffness region}, volume={224}, ISSN={0888-3270}, url={http://dx.doi.org/10.1016/j.ymssp.2024.112215},
+    DOI={10.1016/j.ymssp.2024.112215}, journal={Mechanical Systems and Signal Processing},
+    publisher={Elsevier BV}, author={Sun, Zi-Yan and Yue, Xiao-Hui and Li, Ao and
+    Yin, Xu and Gao, Zhi-Ying and Zhang, Li-Yuan}, year={2025}, month=feb, pages={112215}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.ymssp.2024.112215
+  title: A tensegrity-based torsional vibration isolator with broad quasi-zero-stiffness
+    region
+  year: 2025
+
+- authors:
+  - Yanqiu Zheng
+  - Fumihiko Asano
+  - Cong Yan
+  - Longchuan Li
+  - Isao T. Tokuda
+  bibtex: " @article{Zheng_2025, title={Tensegrity-Based Legged Robot Generates Passive\
+    \ Walking, Skipping, and Crawling Gaits in Accordance With Environment}, ISSN={1941-014X},\
+    \ url={http://dx.doi.org/10.1109/tmech.2024.3522904}, DOI={10.1109/tmech.2024.3522904},\
+    \ journal={IEEE/ASME Transactions on Mechatronics}, publisher={Institute of Electrical\
+    \ and Electronics Engineers (IEEE)}, author={Zheng, Yanqiu and Asano, Fumihiko\
+    \ and Yan, Cong and Li, Longchuan and Tokuda, Isao T.}, year={2025}, pages={1\u2013\
+    12} }\n"
+  pdfurl: https://doi.org/10.1109/tmech.2024.3522904
+  title: Tensegrity-Based Legged Robot Generates Passive Walking, Skipping, and Crawling
+    Gaits in Accordance With Environment
+  year: 2025
+
 - abstract: 'Tensegrity robots, characterized by a synergistic assembly of rigid rods
     and
 
