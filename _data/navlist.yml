@@ -12,5 +12,9 @@ docs:
 - pagetitle: Workshop
   url: /workshop
 
+- pagetitle: Prior Workshops 
+  url: /prior_workshops
+
 - pagetitle: Libraries
   url: /libraries  
+ 
