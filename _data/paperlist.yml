@@ -1,6 +1,22 @@
 papers:
 
 - authors:
+  - Yaqiong Tang
+  - Tuanjie Li
+  - Qing Lv
+  - Xiaokai Wang
+  bibtex: ' @article{Tang_2022, title={A self-vibration-control tensegrity structure
+    for space large-scale construction}, volume={177}, ISSN={0888-3270}, url={http://dx.doi.org/10.1016/j.ymssp.2022.109241},
+    DOI={10.1016/j.ymssp.2022.109241}, journal={Mechanical Systems and Signal Processing},
+    publisher={Elsevier BV}, author={Tang, Yaqiong and Li, Tuanjie and Lv, Qing and
+    Wang, Xiaokai}, year={2022}, month=sep, pages={109241} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.ymssp.2022.109241
+  title: A self-vibration-control tensegrity structure for space large-scale construction
+  year: 2022
+
+- authors:
   - Ryota Kobayashi
   - Hiroyuki Nabae
   - Gen Endo
