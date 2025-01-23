@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Shuo Ma
+  - Muhao Chen
+  bibtex: ' @article{Ma_2025, title={Stability conditions of tensegrity structures
+    considering local and global buckling}, volume={287}, ISSN={0020-7403}, url={http://dx.doi.org/10.1016/j.ijmecsci.2025.109951},
+    DOI={10.1016/j.ijmecsci.2025.109951}, journal={International Journal of Mechanical
+    Sciences}, publisher={Elsevier BV}, author={Ma, Shuo and Chen, Muhao}, year={2025},
+    month=feb, pages={109951} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.ijmecsci.2025.109951
+  title: Stability conditions of tensegrity structures considering local and global
+    buckling
+  year: 2025
+
+- authors:
   - Zi-Yan Sun
   - Xiao-Hui Yue
   - Ao Li
