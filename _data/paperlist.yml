@@ -1,6 +1,114 @@
 papers:
 
 - authors:
+  - Cecilia Scoccia
+  - Luca Carbonari
+  - Giacomo Palmieri
+  - Massimo Callegari
+  - Marco Rossi
+  - "Placido Munaf\xF3"
+  - Francesco Marchione
+  - Gianluca Chiappini
+  bibtex: " @article{Scoccia_2022, title={Design of a Tensegrity Servo-Actuated Structure\
+    \ for Civil Applications}, volume={144}, ISSN={1528-9001}, url={http://dx.doi.org/10.1115/1.4053283},\
+    \ DOI={10.1115/1.4053283}, number={4}, journal={Journal of Mechanical Design},\
+    \ publisher={ASME International}, author={Scoccia, Cecilia and Carbonari, Luca\
+    \ and Palmieri, Giacomo and Callegari, Massimo and Rossi, Marco and Munaf\xF3\
+    , Placido and Marchione, Francesco and Chiappini, Gianluca}, year={2022}, month=jan\
+    \ }\n"
+  pdfurl: https://doi.org/10.1115/1.4053283
+  title: Design of a Tensegrity Servo-Actuated Structure for Civil Applications
+  year: 2022
+
+- authors:
+  - Wanda Zhao
+  - Anatol Pashkevich
+  - Alexandr Klimchik
+  - Damien Chablat
+  bibtex: ' @article{Zhao_2021, title={Elastostatic Modeling of Multi-Link Flexible
+    Manipulator Based on Two-Dimensional Dual-Triangle Tensegrity Mechanism}, volume={14},
+    ISSN={1942-4310}, url={http://dx.doi.org/10.1115/1.4051789}, DOI={10.1115/1.4051789},
+    number={2}, journal={Journal of Mechanisms and Robotics}, publisher={ASME International},
+    author={Zhao, Wanda and Pashkevich, Anatol and Klimchik, Alexandr and Chablat,
+    Damien}, year={2021}, month=sep }
+
+    '
+  pdfurl: https://doi.org/10.1115/1.4051789
+  title: Elastostatic Modeling of Multi-Link Flexible Manipulator Based on Two-Dimensional
+    Dual-Triangle Tensegrity Mechanism
+  year: 2021
+
+- authors:
+  - Dong Zhou
+  - Yingxiang Liu
+  - Jie Deng
+  - Jin Sun
+  - Yuan Fu
+  bibtex: " @article{Zhou_2022, title={Force Enhanced Multi-Twisted and Coiled Actuator\
+    \ and Its Application in Temperature Self-Adaptive Tensegrity Mechanisms}, volume={27},\
+    \ ISSN={1941-014X}, url={http://dx.doi.org/10.1109/tmech.2022.3150761}, DOI={10.1109/tmech.2022.3150761},\
+    \ number={5}, journal={IEEE/ASME Transactions on Mechatronics}, publisher={Institute\
+    \ of Electrical and Electronics Engineers (IEEE)}, author={Zhou, Dong and Liu,\
+    \ Yingxiang and Deng, Jie and Sun, Jin and Fu, Yuan}, year={2022}, month=oct,\
+    \ pages={3964\u20133976} }\n"
+  pdfurl: https://doi.org/10.1109/tmech.2022.3150761
+  title: Force Enhanced Multi-Twisted and Coiled Actuator and Its Application in Temperature
+    Self-Adaptive Tensegrity Mechanisms
+  year: 2022
+
+- authors:
+  - Claudio Intrigila
+  - Andrea Micheletti
+  - Nicola A. Nodargi
+  - Edoardo Artioli
+  - Paolo Bisegna
+  bibtex: ' @article{Intrigila_2022, title={Fabrication and experimental characterisation
+    of a bistable tensegrity-like unit for lattice metamaterials}, volume={57}, ISSN={2214-8604},
+    url={http://dx.doi.org/10.1016/j.addma.2022.102946}, DOI={10.1016/j.addma.2022.102946},
+    journal={Additive Manufacturing}, publisher={Elsevier BV}, author={Intrigila,
+    Claudio and Micheletti, Andrea and Nodargi, Nicola A. and Artioli, Edoardo and
+    Bisegna, Paolo}, year={2022}, month=sep, pages={102946} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.addma.2022.102946
+  title: Fabrication and experimental characterisation of a bistable tensegrity-like
+    unit for lattice metamaterials
+  year: 2022
+
+- authors:
+  - Yaqiong Tang
+  - Tuanjie Li
+  - Qing Lv
+  - Xiaokai Wang
+  bibtex: ' @article{Tang_2022, title={A self-vibration-control tensegrity structure
+    for space large-scale construction}, volume={177}, ISSN={0888-3270}, url={http://dx.doi.org/10.1016/j.ymssp.2022.109241},
+    DOI={10.1016/j.ymssp.2022.109241}, journal={Mechanical Systems and Signal Processing},
+    publisher={Elsevier BV}, author={Tang, Yaqiong and Li, Tuanjie and Lv, Qing and
+    Wang, Xiaokai}, year={2022}, month=sep, pages={109241} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.ymssp.2022.109241
+  title: A self-vibration-control tensegrity structure for space large-scale construction
+  year: 2022
+
+- authors:
+  - Ryota Kobayashi
+  - Hiroyuki Nabae
+  - Gen Endo
+  - Koichi Suzumori
+  bibtex: " @article{Kobayashi_2022, title={Soft Tensegrity Robot Driven by Thin Artificial\
+    \ Muscles for the Exploration of Unknown Spatial Configurations}, volume={7},\
+    \ ISSN={2377-3774}, url={http://dx.doi.org/10.1109/lra.2022.3153700}, DOI={10.1109/lra.2022.3153700},\
+    \ number={2}, journal={IEEE Robotics and Automation Letters}, publisher={Institute\
+    \ of Electrical and Electronics Engineers (IEEE)}, author={Kobayashi, Ryota and\
+    \ Nabae, Hiroyuki and Endo, Gen and Suzumori, Koichi}, year={2022}, month=apr,\
+    \ pages={5349\u20135356} }\n"
+  pdfurl: https://doi.org/10.1109/lra.2022.3153700
+  title: Soft Tensegrity Robot Driven by Thin Artificial Muscles for the Exploration
+    of Unknown Spatial Configurations
+  year: 2022
+
+- authors:
   - Sumit Kumar
   - Subhamoy Sen
   bibtex: ' @article{Kumar_2025, title={Robust Genetic Algorithm-based deployment
