@@ -1,6 +1,25 @@
 papers:
 
 - authors:
+  - Claudio Intrigila
+  - Andrea Micheletti
+  - Nicola A. Nodargi
+  - Edoardo Artioli
+  - Paolo Bisegna
+  bibtex: ' @article{Intrigila_2022, title={Fabrication and experimental characterisation
+    of a bistable tensegrity-like unit for lattice metamaterials}, volume={57}, ISSN={2214-8604},
+    url={http://dx.doi.org/10.1016/j.addma.2022.102946}, DOI={10.1016/j.addma.2022.102946},
+    journal={Additive Manufacturing}, publisher={Elsevier BV}, author={Intrigila,
+    Claudio and Micheletti, Andrea and Nodargi, Nicola A. and Artioli, Edoardo and
+    Bisegna, Paolo}, year={2022}, month=sep, pages={102946} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.addma.2022.102946
+  title: Fabrication and experimental characterisation of a bistable tensegrity-like
+    unit for lattice metamaterials
+  year: 2022
+
+- authors:
   - Yaqiong Tang
   - Tuanjie Li
   - Qing Lv
