@@ -1,6 +1,27 @@
 papers:
 
 - authors:
+  - Muhao Chen
+  - Aguinaldo Fraddosio
+  - Andrea Micheletti
+  - Gaetano Pavone
+  - Mario Daniele Piccioni
+  - Robert E. Skelton
+  bibtex: ' @article{Chen_2023, title={Energy-efficient cable-actuation strategies
+    of the V-Expander tensegrity structure subjected to five shape changes}, volume={127},
+    ISSN={0093-6413}, url={http://dx.doi.org/10.1016/j.mechrescom.2022.104026}, DOI={10.1016/j.mechrescom.2022.104026},
+    journal={Mechanics Research Communications}, publisher={Elsevier BV}, author={Chen,
+    Muhao and Fraddosio, Aguinaldo and Micheletti, Andrea and Pavone, Gaetano and
+    Piccioni, Mario Daniele and Skelton, Robert E.}, year={2023}, month=jan, pages={104026}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.mechrescom.2022.104026
+  title: Energy-efficient cable-actuation strategies of the V-Expander tensegrity
+    structure subjected to five shape changes
+  year: 2023
+
+- authors:
   - Hao Zeng
   - Ruinan Mu
   - Keyan Huo
