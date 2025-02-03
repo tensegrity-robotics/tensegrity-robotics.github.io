@@ -1,6 +1,22 @@
 papers:
 
 - authors:
+  - Fernando Fraternali
+  - Julia de Castro Motta
+  bibtex: ' @article{Fraternali_2023, title={Mechanics of superelastic tensegrity
+    braces for timber frames equipped with buckling-restrained devices}, volume={281},
+    ISSN={0020-7683}, url={http://dx.doi.org/10.1016/j.ijsolstr.2023.112414}, DOI={10.1016/j.ijsolstr.2023.112414},
+    journal={International Journal of Solids and Structures}, publisher={Elsevier
+    BV}, author={Fraternali, Fernando and de Castro Motta, Julia}, year={2023}, month=oct,
+    pages={112414} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.ijsolstr.2023.112414
+  title: Mechanics of superelastic tensegrity braces for timber frames equipped with
+    buckling-restrained devices
+  year: 2023
+
+- authors:
   - Linzi Fan
   - Ruizhi Xu
   - Pan Shi
