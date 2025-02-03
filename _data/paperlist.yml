@@ -4,6 +4,212 @@ papers:
   - Yongcan Dong
   - Xingfei Yuan
   - Shuo Ma
+  - Manyu Deng
+  - Shilin Dong
+  - Akram Samy
+  bibtex: ' @article{Dong_2023, title={Automatic construction of tensegrity structures
+    with complex surfaces based on circle packing}, volume={309}, ISSN={0263-8223},
+    url={http://dx.doi.org/10.1016/j.compstruct.2023.116667}, DOI={10.1016/j.compstruct.2023.116667},
+    journal={Composite Structures}, publisher={Elsevier BV}, author={Dong, Yongcan
+    and Yuan, Xingfei and Ma, Shuo and Deng, Manyu and Dong, Shilin and Samy, Akram},
+    year={2023}, month=apr, pages={116667} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.compstruct.2023.116667
+  title: Automatic construction of tensegrity structures with complex surfaces based
+    on circle packing
+  year: 2023
+
+- authors:
+  - Heng Ning
+  - Weiyu Zhou
+  - Liang Tuo
+  - Chuangjian Liang
+  - Chunjin Chen
+  - Songying Li
+  - Hang Qu
+  - Lingyu Wan
+  - Guanlin Liu
+  bibtex: ' @article{Ning_2023, title={Tensegrity triboelectric nanogenerator for
+    broadband blue energy harvesting in all-sea areas}, volume={117}, ISSN={2211-2855},
+    url={http://dx.doi.org/10.1016/j.nanoen.2023.108906}, DOI={10.1016/j.nanoen.2023.108906},
+    journal={Nano Energy}, publisher={Elsevier BV}, author={Ning, Heng and Zhou, Weiyu
+    and Tuo, Liang and Liang, Chuangjian and Chen, Chunjin and Li, Songying and Qu,
+    Hang and Wan, Lingyu and Liu, Guanlin}, year={2023}, month=dec, pages={108906}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.nanoen.2023.108906
+  title: Tensegrity triboelectric nanogenerator for broadband blue energy harvesting
+    in all-sea areas
+  year: 2023
+
+- authors:
+  - Peng Xu
+  - Jiaxi Zheng
+  - Jianhua Liu
+  - Xiangyu Liu
+  - Xinyu Wang
+  - Siyuan Wang
+  - Tangzhen Guan
+  - Xianping Fu
+  - Minyi Xu
+  - Guangming Xie
+  - Zhong Lin Wang
+  bibtex: ' @article{Xu_2023, title={Deep-Learning-Assisted Underwater 3D Tactile
+    Tensegrity}, volume={6}, ISSN={2639-5274}, url={http://dx.doi.org/10.34133/research.0062},
+    DOI={10.34133/research.0062}, journal={Research}, publisher={American Association
+    for the Advancement of Science (AAAS)}, author={Xu, Peng and Zheng, Jiaxi and
+    Liu, Jianhua and Liu, Xiangyu and Wang, Xinyu and Wang, Siyuan and Guan, Tangzhen
+    and Fu, Xianping and Xu, Minyi and Xie, Guangming and Wang, Zhong Lin}, year={2023},
+    month=jan }
+
+    '
+  pdfurl: https://doi.org/10.34133/research.0062
+  title: Deep-Learning-Assisted Underwater 3D Tactile Tensegrity
+  year: 2023
+
+- authors:
+  - Shu-Yi Sun
+  - Li-Yuan Zhang
+  - Xindong Chen
+  - Xi-Qiao Feng
+  bibtex: ' @article{Sun_2023, title={Biochemomechanical Tensegrity Model of Cytoskeletons},
+    volume={175}, ISSN={0022-5096}, url={http://dx.doi.org/10.1016/j.jmps.2023.105288},
+    DOI={10.1016/j.jmps.2023.105288}, journal={Journal of the Mechanics and Physics
+    of Solids}, publisher={Elsevier BV}, author={Sun, Shu-Yi and Zhang, Li-Yuan and
+    Chen, Xindong and Feng, Xi-Qiao}, year={2023}, month=jun, pages={105288} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.jmps.2023.105288
+  title: Biochemomechanical Tensegrity Model of Cytoskeletons
+  year: 2023
+
+- authors:
+  - Fernando Fraternali
+  - Julia de Castro Motta
+  bibtex: ' @article{Fraternali_2023, title={Mechanics of superelastic tensegrity
+    braces for timber frames equipped with buckling-restrained devices}, volume={281},
+    ISSN={0020-7683}, url={http://dx.doi.org/10.1016/j.ijsolstr.2023.112414}, DOI={10.1016/j.ijsolstr.2023.112414},
+    journal={International Journal of Solids and Structures}, publisher={Elsevier
+    BV}, author={Fraternali, Fernando and de Castro Motta, Julia}, year={2023}, month=oct,
+    pages={112414} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.ijsolstr.2023.112414
+  title: Mechanics of superelastic tensegrity braces for timber frames equipped with
+    buckling-restrained devices
+  year: 2023
+
+- authors:
+  - Linzi Fan
+  - Ruizhi Xu
+  - Pan Shi
+  - Xiaodong Feng
+  - Yao Chen
+  bibtex: " @article{Fan_2023, title={Simplified form-finding for tensegrity structures\
+    \ through reference joints of symmetry orbits}, volume={49}, ISSN={2352-0124},\
+    \ url={http://dx.doi.org/10.1016/j.istruc.2023.02.006}, DOI={10.1016/j.istruc.2023.02.006},\
+    \ journal={Structures}, publisher={Elsevier BV}, author={Fan, Linzi and Xu, Ruizhi\
+    \ and Shi, Pan and Feng, Xiaodong and Chen, Yao}, year={2023}, month=mar, pages={1157\u2013\
+    1167} }\n"
+  pdfurl: https://doi.org/10.1016/j.istruc.2023.02.006
+  title: Simplified form-finding for tensegrity structures through reference joints
+    of symmetry orbits
+  year: 2023
+
+- authors:
+  - Muhao Chen
+  - Aguinaldo Fraddosio
+  - Andrea Micheletti
+  - Gaetano Pavone
+  - Mario Daniele Piccioni
+  - Robert E. Skelton
+  bibtex: ' @article{Chen_2023, title={Energy-efficient cable-actuation strategies
+    of the V-Expander tensegrity structure subjected to five shape changes}, volume={127},
+    ISSN={0093-6413}, url={http://dx.doi.org/10.1016/j.mechrescom.2022.104026}, DOI={10.1016/j.mechrescom.2022.104026},
+    journal={Mechanics Research Communications}, publisher={Elsevier BV}, author={Chen,
+    Muhao and Fraddosio, Aguinaldo and Micheletti, Andrea and Pavone, Gaetano and
+    Piccioni, Mario Daniele and Skelton, Robert E.}, year={2023}, month=jan, pages={104026}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.mechrescom.2022.104026
+  title: Energy-efficient cable-actuation strategies of the V-Expander tensegrity
+    structure subjected to five shape changes
+  year: 2023
+
+- authors:
+  - Hao Zeng
+  - Ruinan Mu
+  - Keyan Huo
+  - Haifeng Zhao
+  - Ke Wang
+  - Anping Wang
+  bibtex: " @article{Zeng_2023, title={A novel 3D-printable tensegrity-inspired metamaterial\
+    \ enabling dynamic attenuation}, volume={19}, ISSN={1573-8841}, url={http://dx.doi.org/10.1007/s10999-023-09656-7},\
+    \ DOI={10.1007/s10999-023-09656-7}, number={4}, journal={International Journal\
+    \ of Mechanics and Materials in Design}, publisher={Springer Science and Business\
+    \ Media LLC}, author={Zeng, Hao and Mu, Ruinan and Huo, Keyan and Zhao, Haifeng\
+    \ and Wang, Ke and Wang, Anping}, year={2023}, month=apr, pages={883\u2013901}\
+    \ }\n"
+  pdfurl: https://doi.org/10.1007/s10999-023-09656-7
+  title: A novel 3D-printable tensegrity-inspired metamaterial enabling dynamic attenuation
+  year: 2023
+
+- authors:
+  - Ryota Kobayashi
+  - Hiroyuki Nabae
+  - Koichi Suzumori
+  bibtex: " @article{Kobayashi_2023, title={Large Torsion Thin Artificial Muscles\
+    \ Tensegrity Structure for Twist Manipulation}, volume={8}, ISSN={2377-3774},\
+    \ url={http://dx.doi.org/10.1109/lra.2023.3236889}, DOI={10.1109/lra.2023.3236889},\
+    \ number={3}, journal={IEEE Robotics and Automation Letters}, publisher={Institute\
+    \ of Electrical and Electronics Engineers (IEEE)}, author={Kobayashi, Ryota and\
+    \ Nabae, Hiroyuki and Suzumori, Koichi}, year={2023}, month=mar, pages={1207\u2013\
+    1214} }\n"
+  pdfurl: https://doi.org/10.1109/lra.2023.3236889
+  title: Large Torsion Thin Artificial Muscles Tensegrity Structure for Twist Manipulation
+  year: 2023
+
+- authors:
+  - Liu Heping
+  - Song Jian
+  - Qi Yupeng
+  - Luo Ani
+  bibtex: ' @article{Heping_2023, title={Analysis for a novel folding frame tensegrity
+    tent}, volume={57}, ISSN={2352-0124}, url={http://dx.doi.org/10.1016/j.istruc.2023.105085},
+    DOI={10.1016/j.istruc.2023.105085}, journal={Structures}, publisher={Elsevier
+    BV}, author={Heping, Liu and Jian, Song and Yupeng, Qi and Ani, Luo}, year={2023},
+    month=nov, pages={105085} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.istruc.2023.105085
+  title: Analysis for a novel folding frame tensegrity tent
+  year: 2023
+
+- authors:
+  - Xiaolin Dai
+  - Yixiang Liu
+  - Wei Wang
+  - Rui Song
+  - Yibin Li
+  - Jie Zhao
+  bibtex: " @article{Dai_2022, title={Design and Experimental Validation of a Worm-Like\
+    \ Tensegrity Robot for In-Pipe Locomotion}, volume={20}, ISSN={2543-2141}, url={http://dx.doi.org/10.1007/s42235-022-00301-1},\
+    \ DOI={10.1007/s42235-022-00301-1}, number={2}, journal={Journal of Bionic Engineering},\
+    \ publisher={Springer Science and Business Media LLC}, author={Dai, Xiaolin and\
+    \ Liu, Yixiang and Wang, Wei and Song, Rui and Li, Yibin and Zhao, Jie}, year={2022},\
+    \ month=nov, pages={515\u2013529} }\n"
+  pdfurl: https://doi.org/10.1007/s42235-022-00301-1
+  title: Design and Experimental Validation of a Worm-Like Tensegrity Robot for In-Pipe
+    Locomotion
+  year: 2022
+
+- authors:
+  - Yongcan Dong
+  - Xingfei Yuan
+  - Shuo Ma
   - Shu Li
   - Akram Samy
   - Shilin Dong
