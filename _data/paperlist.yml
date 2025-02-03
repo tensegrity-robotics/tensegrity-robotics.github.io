@@ -1,6 +1,24 @@
 papers:
 
 - authors:
+  - Yongcan Dong
+  - Xingfei Yuan
+  - Yiqian Chen
+  - Akram Samy
+  - Shilin Dong
+  bibtex: ' @article{Dong_2024, title={Automatic assembly of tensegrity chain structures
+    along axes based on NURBS curves}, volume={348}, ISSN={0263-8223}, url={http://dx.doi.org/10.1016/j.compstruct.2024.118465},
+    DOI={10.1016/j.compstruct.2024.118465}, journal={Composite Structures}, publisher={Elsevier
+    BV}, author={Dong, Yongcan and Yuan, Xingfei and Chen, Yiqian and Samy, Akram
+    and Dong, Shilin}, year={2024}, month=nov, pages={118465} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.compstruct.2024.118465
+  title: Automatic assembly of tensegrity chain structures along axes based on NURBS
+    curves
+  year: 2024
+
+- authors:
   - Xiao-Hui Yue
   - Xu Yin
   - Zi-Yan Sun
