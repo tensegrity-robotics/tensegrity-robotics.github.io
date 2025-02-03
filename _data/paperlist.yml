@@ -1,6 +1,29 @@
 papers:
 
 - authors:
+  - Xiao-Hui Yue
+  - Xu Yin
+  - Zi-Yan Sun
+  - Long-Yue Liu
+  - Yantao Wang
+  - Guang-Kui Xu
+  - Changyong Cao
+  - Li-Yuan Zhang
+  bibtex: ' @article{Yue_2024, title={Flexible, lightweight, tunable robotic arms
+    enabled by X-tensegrity inspired structures}, volume={344}, ISSN={0263-8223},
+    url={http://dx.doi.org/10.1016/j.compstruct.2024.118331}, DOI={10.1016/j.compstruct.2024.118331},
+    journal={Composite Structures}, publisher={Elsevier BV}, author={Yue, Xiao-Hui
+    and Yin, Xu and Sun, Zi-Yan and Liu, Long-Yue and Wang, Yantao and Xu, Guang-Kui
+    and Cao, Changyong and Zhang, Li-Yuan}, year={2024}, month=sep, pages={118331}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.compstruct.2024.118331
+  title: Flexible, lightweight, tunable robotic arms enabled by X-tensegrity inspired
+    structures
+  year: 2024
+
+- authors:
   - Markus Renner
   - Evgenia Spyridonos
   - Hanaa Dahy
