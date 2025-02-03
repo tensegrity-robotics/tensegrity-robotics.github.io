@@ -1,6 +1,27 @@
 papers:
 
 - authors:
+  - Hao Yang
+  - Jie Zhang
+  - Ji Wang
+  - Jinbo Hu
+  - Zhigang Wu
+  - Fei Pan
+  - Jianing Wu
+  bibtex: ' @article{Yang_2024, title={Delocalized Deformation Enhanced Reusable Energy
+    Absorption Metamaterials Based on Bistable Tensegrity}, volume={35}, ISSN={1616-3028},
+    url={http://dx.doi.org/10.1002/adfm.202410217}, DOI={10.1002/adfm.202410217},
+    number={5}, journal={Advanced Functional Materials}, publisher={Wiley}, author={Yang,
+    Hao and Zhang, Jie and Wang, Ji and Hu, Jinbo and Wu, Zhigang and Pan, Fei and
+    Wu, Jianing}, year={2024}, month=aug }
+
+    '
+  pdfurl: https://doi.org/10.1002/adfm.202410217
+  title: Delocalized Deformation Enhanced Reusable Energy Absorption Metamaterials
+    Based on Bistable Tensegrity
+  year: 2024
+
+- authors:
   - Ziying Cao
   - Ani Luo
   - Heping Liu
