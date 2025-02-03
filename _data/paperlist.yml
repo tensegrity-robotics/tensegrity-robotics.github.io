@@ -1,6 +1,26 @@
 papers:
 
 - authors:
+  - Yongcan Dong
+  - Xingfei Yuan
+  - Shuo Ma
+  - Manyu Deng
+  - Shilin Dong
+  - Akram Samy
+  bibtex: ' @article{Dong_2023, title={Automatic construction of tensegrity structures
+    with complex surfaces based on circle packing}, volume={309}, ISSN={0263-8223},
+    url={http://dx.doi.org/10.1016/j.compstruct.2023.116667}, DOI={10.1016/j.compstruct.2023.116667},
+    journal={Composite Structures}, publisher={Elsevier BV}, author={Dong, Yongcan
+    and Yuan, Xingfei and Ma, Shuo and Deng, Manyu and Dong, Shilin and Samy, Akram},
+    year={2023}, month=apr, pages={116667} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.compstruct.2023.116667
+  title: Automatic construction of tensegrity structures with complex surfaces based
+    on circle packing
+  year: 2023
+
+- authors:
   - Heng Ning
   - Weiyu Zhou
   - Liang Tuo
