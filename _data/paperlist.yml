@@ -1,6 +1,22 @@
 papers:
 
 - authors:
+  - Liu Heping
+  - Song Jian
+  - Qi Yupeng
+  - Luo Ani
+  bibtex: ' @article{Heping_2023, title={Analysis for a novel folding frame tensegrity
+    tent}, volume={57}, ISSN={2352-0124}, url={http://dx.doi.org/10.1016/j.istruc.2023.105085},
+    DOI={10.1016/j.istruc.2023.105085}, journal={Structures}, publisher={Elsevier
+    BV}, author={Heping, Liu and Jian, Song and Yupeng, Qi and Ani, Luo}, year={2023},
+    month=nov, pages={105085} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.istruc.2023.105085
+  title: Analysis for a novel folding frame tensegrity tent
+  year: 2023
+
+- authors:
   - Xiaolin Dai
   - Yixiang Liu
   - Wei Wang
