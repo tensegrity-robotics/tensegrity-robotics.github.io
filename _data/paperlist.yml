@@ -1,6 +1,25 @@
 papers:
 
 - authors:
+  - Ningning Song
+  - Mengru Zhang
+  - Fei Li
+  - Ziyun Kan
+  - Jian Zhao
+  - Haijun Peng
+  bibtex: ' @article{Song_2024, title={Dynamic research on winding and capturing of
+    tensegrity flexible manipulator}, volume={193}, ISSN={0094-114X}, url={http://dx.doi.org/10.1016/j.mechmachtheory.2023.105554},
+    DOI={10.1016/j.mechmachtheory.2023.105554}, journal={Mechanism and Machine Theory},
+    publisher={Elsevier BV}, author={Song, Ningning and Zhang, Mengru and Li, Fei
+    and Kan, Ziyun and Zhao, Jian and Peng, Haijun}, year={2024}, month=mar, pages={105554}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.mechmachtheory.2023.105554
+  title: Dynamic research on winding and capturing of tensegrity flexible manipulator
+  year: 2024
+
+- authors:
   - Shu Li
   - Akram Samy
   - Xingfei Yuan
