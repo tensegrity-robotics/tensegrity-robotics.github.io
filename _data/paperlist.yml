@@ -1,6 +1,197 @@
 papers:
 
 - authors:
+  - Yongcan Dong
+  - Xingfei Yuan
+  - Shuo Ma
+  - Shu Li
+  - Akram Samy
+  - Shilin Dong
+  bibtex: ' @article{Dong_2024, title={Research on a novel tensegrity torus with superior
+    shape adaptability}, volume={63}, ISSN={2352-0124}, url={http://dx.doi.org/10.1016/j.istruc.2024.106283},
+    DOI={10.1016/j.istruc.2024.106283}, journal={Structures}, publisher={Elsevier
+    BV}, author={Dong, Yongcan and Yuan, Xingfei and Ma, Shuo and Li, Shu and Samy,
+    Akram and Dong, Shilin}, year={2024}, month=may, pages={106283} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.istruc.2024.106283
+  title: Research on a novel tensegrity torus with superior shape adaptability
+  year: 2024
+
+- authors:
+  - Fernando Fraternali
+  - Julia de Castro Motta
+  - Giovanni Germano
+  - Enrico Babilio
+  - Ada Amendola
+  bibtex: ' @article{Fraternali_2024, title={Mechanical response of tensegrity-origami
+    solar modules}, volume={17}, ISSN={2666-4968}, url={http://dx.doi.org/10.1016/j.apples.2023.100174},
+    DOI={10.1016/j.apples.2023.100174}, journal={Applications in Engineering Science},
+    publisher={Elsevier BV}, author={Fraternali, Fernando and de Castro Motta, Julia
+    and Germano, Giovanni and Babilio, Enrico and Amendola, Ada}, year={2024}, month=mar,
+    pages={100174} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.apples.2023.100174
+  title: Mechanical response of tensegrity-origami solar modules
+  year: 2024
+
+- authors:
+  - Hao Yang
+  - Jie Zhang
+  - Ji Wang
+  - Jinbo Hu
+  - Zhigang Wu
+  - Fei Pan
+  - Jianing Wu
+  bibtex: ' @article{Yang_2024, title={Delocalized Deformation Enhanced Reusable Energy
+    Absorption Metamaterials Based on Bistable Tensegrity}, volume={35}, ISSN={1616-3028},
+    url={http://dx.doi.org/10.1002/adfm.202410217}, DOI={10.1002/adfm.202410217},
+    number={5}, journal={Advanced Functional Materials}, publisher={Wiley}, author={Yang,
+    Hao and Zhang, Jie and Wang, Ji and Hu, Jinbo and Wu, Zhigang and Pan, Fei and
+    Wu, Jianing}, year={2024}, month=aug }
+
+    '
+  pdfurl: https://doi.org/10.1002/adfm.202410217
+  title: Delocalized Deformation Enhanced Reusable Energy Absorption Metamaterials
+    Based on Bistable Tensegrity
+  year: 2024
+
+- authors:
+  - Ziying Cao
+  - Ani Luo
+  - Heping Liu
+  - Yaming Feng
+  bibtex: ' @article{Cao_2024, title={Analysis of shape-change capabilities for the
+    two-stage tensegrity tower}, volume={68}, ISSN={2352-0124}, url={http://dx.doi.org/10.1016/j.istruc.2024.107110},
+    DOI={10.1016/j.istruc.2024.107110}, journal={Structures}, publisher={Elsevier
+    BV}, author={Cao, Ziying and Luo, Ani and Liu, Heping and Feng, Yaming}, year={2024},
+    month=oct, pages={107110} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.istruc.2024.107110
+  title: Analysis of shape-change capabilities for the two-stage tensegrity tower
+  year: 2024
+
+- authors:
+  - Katsuhiko Abe
+  - Haruhiko Eki
+  - Yuki Hirose
+  - Soyoung Park
+  - Shanmugavel Chinnathambi
+  - Ganesh Pandian Namasivayam
+  - Kazuki Takeda
+  - Hiroshi Sugiyama
+  - Masayuki Endo
+  bibtex: ' @article{Abe_2024, title={Creation of Metal-Complex-Integrated Tensegrity
+    Triangle DNA Crystals}, volume={29}, ISSN={1420-3049}, url={http://dx.doi.org/10.3390/molecules29194674},
+    DOI={10.3390/molecules29194674}, number={19}, journal={Molecules}, publisher={MDPI
+    AG}, author={Abe, Katsuhiko and Eki, Haruhiko and Hirose, Yuki and Park, Soyoung
+    and Chinnathambi, Shanmugavel and Namasivayam, Ganesh Pandian and Takeda, Kazuki
+    and Sugiyama, Hiroshi and Endo, Masayuki}, year={2024}, month=oct, pages={4674}
+    }
+
+    '
+  pdfurl: https://doi.org/10.3390/molecules29194674
+  title: Creation of Metal-Complex-Integrated Tensegrity Triangle DNA Crystals
+  year: 2024
+
+- authors:
+  - Yongcan Dong
+  - Xingfei Yuan
+  - Yiqian Chen
+  - Akram Samy
+  - Shilin Dong
+  bibtex: ' @article{Dong_2024, title={Automatic assembly of tensegrity chain structures
+    along axes based on NURBS curves}, volume={348}, ISSN={0263-8223}, url={http://dx.doi.org/10.1016/j.compstruct.2024.118465},
+    DOI={10.1016/j.compstruct.2024.118465}, journal={Composite Structures}, publisher={Elsevier
+    BV}, author={Dong, Yongcan and Yuan, Xingfei and Chen, Yiqian and Samy, Akram
+    and Dong, Shilin}, year={2024}, month=nov, pages={118465} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.compstruct.2024.118465
+  title: Automatic assembly of tensegrity chain structures along axes based on NURBS
+    curves
+  year: 2024
+
+- authors:
+  - Xiao-Hui Yue
+  - Xu Yin
+  - Zi-Yan Sun
+  - Long-Yue Liu
+  - Yantao Wang
+  - Guang-Kui Xu
+  - Changyong Cao
+  - Li-Yuan Zhang
+  bibtex: ' @article{Yue_2024, title={Flexible, lightweight, tunable robotic arms
+    enabled by X-tensegrity inspired structures}, volume={344}, ISSN={0263-8223},
+    url={http://dx.doi.org/10.1016/j.compstruct.2024.118331}, DOI={10.1016/j.compstruct.2024.118331},
+    journal={Composite Structures}, publisher={Elsevier BV}, author={Yue, Xiao-Hui
+    and Yin, Xu and Sun, Zi-Yan and Liu, Long-Yue and Wang, Yantao and Xu, Guang-Kui
+    and Cao, Changyong and Zhang, Li-Yuan}, year={2024}, month=sep, pages={118331}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.compstruct.2024.118331
+  title: Flexible, lightweight, tunable robotic arms enabled by X-tensegrity inspired
+    structures
+  year: 2024
+
+- authors:
+  - Markus Renner
+  - Evgenia Spyridonos
+  - Hanaa Dahy
+  bibtex: ' @article{Renner_2024, title={Tensegrity FlaxSeat: Exploring the Application
+    of Unidirectional Natural Fiber Biocomposite Profiles in a Tensegrity Configuration
+    as a Concept for Architectural Applications}, volume={14}, ISSN={2075-5309}, url={http://dx.doi.org/10.3390/buildings14082490},
+    DOI={10.3390/buildings14082490}, number={8}, journal={Buildings}, publisher={MDPI
+    AG}, author={Renner, Markus and Spyridonos, Evgenia and Dahy, Hanaa}, year={2024},
+    month=aug, pages={2490} }
+
+    '
+  pdfurl: https://doi.org/10.3390/buildings14082490
+  title: 'Tensegrity FlaxSeat: Exploring the Application of Unidirectional Natural
+    Fiber Biocomposite Profiles in a Tensegrity Configuration as a Concept for Architectural
+    Applications'
+  year: 2024
+
+- authors:
+  - Ningning Song
+  - Mengru Zhang
+  - Fei Li
+  - Ziyun Kan
+  - Jian Zhao
+  - Haijun Peng
+  bibtex: ' @article{Song_2024, title={Dynamic research on winding and capturing of
+    tensegrity flexible manipulator}, volume={193}, ISSN={0094-114X}, url={http://dx.doi.org/10.1016/j.mechmachtheory.2023.105554},
+    DOI={10.1016/j.mechmachtheory.2023.105554}, journal={Mechanism and Machine Theory},
+    publisher={Elsevier BV}, author={Song, Ningning and Zhang, Mengru and Li, Fei
+    and Kan, Ziyun and Zhao, Jian and Peng, Haijun}, year={2024}, month=mar, pages={105554}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.mechmachtheory.2023.105554
+  title: Dynamic research on winding and capturing of tensegrity flexible manipulator
+  year: 2024
+
+- authors:
+  - Shu Li
+  - Akram Samy
+  - Xingfei Yuan
+  - Yongcan Dong
+  - Zhendong Qiu
+  bibtex: ' @article{Li_2024, title={Research on innovative fluid-driven pipe-strut
+    tensegrity structure}, volume={203}, ISSN={0263-8231}, url={http://dx.doi.org/10.1016/j.tws.2024.112221},
+    DOI={10.1016/j.tws.2024.112221}, journal={Thin-Walled Structures}, publisher={Elsevier
+    BV}, author={Li, Shu and Samy, Akram and Yuan, Xingfei and Dong, Yongcan and Qiu,
+    Zhendong}, year={2024}, month=oct, pages={112221} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.tws.2024.112221
+  title: Research on innovative fluid-driven pipe-strut tensegrity structure
+  year: 2024
+
+- authors:
   - Cecilia Scoccia
   - Luca Carbonari
   - Giacomo Palmieri
