@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Ryota Kobayashi
+  - Hiroyuki Nabae
+  - Koichi Suzumori
+  bibtex: " @article{Kobayashi_2023, title={Large Torsion Thin Artificial Muscles\
+    \ Tensegrity Structure for Twist Manipulation}, volume={8}, ISSN={2377-3774},\
+    \ url={http://dx.doi.org/10.1109/lra.2023.3236889}, DOI={10.1109/lra.2023.3236889},\
+    \ number={3}, journal={IEEE Robotics and Automation Letters}, publisher={Institute\
+    \ of Electrical and Electronics Engineers (IEEE)}, author={Kobayashi, Ryota and\
+    \ Nabae, Hiroyuki and Suzumori, Koichi}, year={2023}, month=mar, pages={1207\u2013\
+    1214} }\n"
+  pdfurl: https://doi.org/10.1109/lra.2023.3236889
+  title: Large Torsion Thin Artificial Muscles Tensegrity Structure for Twist Manipulation
+  year: 2023
+
+- authors:
   - Liu Heping
   - Song Jian
   - Qi Yupeng
