@@ -1,6 +1,29 @@
 papers:
 
 - authors:
+  - Katsuhiko Abe
+  - Haruhiko Eki
+  - Yuki Hirose
+  - Soyoung Park
+  - Shanmugavel Chinnathambi
+  - Ganesh Pandian Namasivayam
+  - Kazuki Takeda
+  - Hiroshi Sugiyama
+  - Masayuki Endo
+  bibtex: ' @article{Abe_2024, title={Creation of Metal-Complex-Integrated Tensegrity
+    Triangle DNA Crystals}, volume={29}, ISSN={1420-3049}, url={http://dx.doi.org/10.3390/molecules29194674},
+    DOI={10.3390/molecules29194674}, number={19}, journal={Molecules}, publisher={MDPI
+    AG}, author={Abe, Katsuhiko and Eki, Haruhiko and Hirose, Yuki and Park, Soyoung
+    and Chinnathambi, Shanmugavel and Namasivayam, Ganesh Pandian and Takeda, Kazuki
+    and Sugiyama, Hiroshi and Endo, Masayuki}, year={2024}, month=oct, pages={4674}
+    }
+
+    '
+  pdfurl: https://doi.org/10.3390/molecules29194674
+  title: Creation of Metal-Complex-Integrated Tensegrity Triangle DNA Crystals
+  year: 2024
+
+- authors:
   - Yongcan Dong
   - Xingfei Yuan
   - Yiqian Chen
