@@ -1,6 +1,24 @@
 papers:
 
 - authors:
+  - Xiaolin Dai
+  - Yixiang Liu
+  - Wei Wang
+  - Rui Song
+  - Yibin Li
+  - Jie Zhao
+  bibtex: " @article{Dai_2022, title={Design and Experimental Validation of a Worm-Like\
+    \ Tensegrity Robot for In-Pipe Locomotion}, volume={20}, ISSN={2543-2141}, url={http://dx.doi.org/10.1007/s42235-022-00301-1},\
+    \ DOI={10.1007/s42235-022-00301-1}, number={2}, journal={Journal of Bionic Engineering},\
+    \ publisher={Springer Science and Business Media LLC}, author={Dai, Xiaolin and\
+    \ Liu, Yixiang and Wang, Wei and Song, Rui and Li, Yibin and Zhao, Jie}, year={2022},\
+    \ month=nov, pages={515\u2013529} }\n"
+  pdfurl: https://doi.org/10.1007/s42235-022-00301-1
+  title: Design and Experimental Validation of a Worm-Like Tensegrity Robot for In-Pipe
+    Locomotion
+  year: 2022
+
+- authors:
   - Yongcan Dong
   - Xingfei Yuan
   - Shuo Ma
