@@ -1,6 +1,30 @@
 papers:
 
 - authors:
+  - Heng Ning
+  - Weiyu Zhou
+  - Liang Tuo
+  - Chuangjian Liang
+  - Chunjin Chen
+  - Songying Li
+  - Hang Qu
+  - Lingyu Wan
+  - Guanlin Liu
+  bibtex: ' @article{Ning_2023, title={Tensegrity triboelectric nanogenerator for
+    broadband blue energy harvesting in all-sea areas}, volume={117}, ISSN={2211-2855},
+    url={http://dx.doi.org/10.1016/j.nanoen.2023.108906}, DOI={10.1016/j.nanoen.2023.108906},
+    journal={Nano Energy}, publisher={Elsevier BV}, author={Ning, Heng and Zhou, Weiyu
+    and Tuo, Liang and Liang, Chuangjian and Chen, Chunjin and Li, Songying and Qu,
+    Hang and Wan, Lingyu and Liu, Guanlin}, year={2023}, month=dec, pages={108906}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.nanoen.2023.108906
+  title: Tensegrity triboelectric nanogenerator for broadband blue energy harvesting
+    in all-sea areas
+  year: 2023
+
+- authors:
   - Peng Xu
   - Jiaxi Zheng
   - Jianhua Liu
