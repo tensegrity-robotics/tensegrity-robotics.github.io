@@ -1,6 +1,24 @@
 papers:
 
 - authors:
+  - Hao Zeng
+  - Ruinan Mu
+  - Keyan Huo
+  - Haifeng Zhao
+  - Ke Wang
+  - Anping Wang
+  bibtex: " @article{Zeng_2023, title={A novel 3D-printable tensegrity-inspired metamaterial\
+    \ enabling dynamic attenuation}, volume={19}, ISSN={1573-8841}, url={http://dx.doi.org/10.1007/s10999-023-09656-7},\
+    \ DOI={10.1007/s10999-023-09656-7}, number={4}, journal={International Journal\
+    \ of Mechanics and Materials in Design}, publisher={Springer Science and Business\
+    \ Media LLC}, author={Zeng, Hao and Mu, Ruinan and Huo, Keyan and Zhao, Haifeng\
+    \ and Wang, Ke and Wang, Anping}, year={2023}, month=apr, pages={883\u2013901}\
+    \ }\n"
+  pdfurl: https://doi.org/10.1007/s10999-023-09656-7
+  title: A novel 3D-printable tensegrity-inspired metamaterial enabling dynamic attenuation
+  year: 2023
+
+- authors:
   - Ryota Kobayashi
   - Hiroyuki Nabae
   - Koichi Suzumori
