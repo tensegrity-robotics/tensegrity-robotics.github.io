@@ -1,6 +1,23 @@
 papers:
 
 - authors:
+  - Linzi Fan
+  - Ruizhi Xu
+  - Pan Shi
+  - Xiaodong Feng
+  - Yao Chen
+  bibtex: " @article{Fan_2023, title={Simplified form-finding for tensegrity structures\
+    \ through reference joints of symmetry orbits}, volume={49}, ISSN={2352-0124},\
+    \ url={http://dx.doi.org/10.1016/j.istruc.2023.02.006}, DOI={10.1016/j.istruc.2023.02.006},\
+    \ journal={Structures}, publisher={Elsevier BV}, author={Fan, Linzi and Xu, Ruizhi\
+    \ and Shi, Pan and Feng, Xiaodong and Chen, Yao}, year={2023}, month=mar, pages={1157\u2013\
+    1167} }\n"
+  pdfurl: https://doi.org/10.1016/j.istruc.2023.02.006
+  title: Simplified form-finding for tensegrity structures through reference joints
+    of symmetry orbits
+  year: 2023
+
+- authors:
   - Muhao Chen
   - Aguinaldo Fraddosio
   - Andrea Micheletti
