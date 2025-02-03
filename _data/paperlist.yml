@@ -1,6 +1,22 @@
 papers:
 
 - authors:
+  - Ziying Cao
+  - Ani Luo
+  - Heping Liu
+  - Yaming Feng
+  bibtex: ' @article{Cao_2024, title={Analysis of shape-change capabilities for the
+    two-stage tensegrity tower}, volume={68}, ISSN={2352-0124}, url={http://dx.doi.org/10.1016/j.istruc.2024.107110},
+    DOI={10.1016/j.istruc.2024.107110}, journal={Structures}, publisher={Elsevier
+    BV}, author={Cao, Ziying and Luo, Ani and Liu, Heping and Feng, Yaming}, year={2024},
+    month=oct, pages={107110} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.istruc.2024.107110
+  title: Analysis of shape-change capabilities for the two-stage tensegrity tower
+  year: 2024
+
+- authors:
   - Katsuhiko Abe
   - Haruhiko Eki
   - Yuki Hirose
