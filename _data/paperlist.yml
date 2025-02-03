@@ -1,6 +1,31 @@
 papers:
 
 - authors:
+  - Peng Xu
+  - Jiaxi Zheng
+  - Jianhua Liu
+  - Xiangyu Liu
+  - Xinyu Wang
+  - Siyuan Wang
+  - Tangzhen Guan
+  - Xianping Fu
+  - Minyi Xu
+  - Guangming Xie
+  - Zhong Lin Wang
+  bibtex: ' @article{Xu_2023, title={Deep-Learning-Assisted Underwater 3D Tactile
+    Tensegrity}, volume={6}, ISSN={2639-5274}, url={http://dx.doi.org/10.34133/research.0062},
+    DOI={10.34133/research.0062}, journal={Research}, publisher={American Association
+    for the Advancement of Science (AAAS)}, author={Xu, Peng and Zheng, Jiaxi and
+    Liu, Jianhua and Liu, Xiangyu and Wang, Xinyu and Wang, Siyuan and Guan, Tangzhen
+    and Fu, Xianping and Xu, Minyi and Xie, Guangming and Wang, Zhong Lin}, year={2023},
+    month=jan }
+
+    '
+  pdfurl: https://doi.org/10.34133/research.0062
+  title: Deep-Learning-Assisted Underwater 3D Tactile Tensegrity
+  year: 2023
+
+- authors:
   - Shu-Yi Sun
   - Li-Yuan Zhang
   - Xindong Chen
