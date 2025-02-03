@@ -1,6 +1,22 @@
 papers:
 
 - authors:
+  - Shu-Yi Sun
+  - Li-Yuan Zhang
+  - Xindong Chen
+  - Xi-Qiao Feng
+  bibtex: ' @article{Sun_2023, title={Biochemomechanical Tensegrity Model of Cytoskeletons},
+    volume={175}, ISSN={0022-5096}, url={http://dx.doi.org/10.1016/j.jmps.2023.105288},
+    DOI={10.1016/j.jmps.2023.105288}, journal={Journal of the Mechanics and Physics
+    of Solids}, publisher={Elsevier BV}, author={Sun, Shu-Yi and Zhang, Li-Yuan and
+    Chen, Xindong and Feng, Xi-Qiao}, year={2023}, month=jun, pages={105288} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.jmps.2023.105288
+  title: Biochemomechanical Tensegrity Model of Cytoskeletons
+  year: 2023
+
+- authors:
   - Fernando Fraternali
   - Julia de Castro Motta
   bibtex: ' @article{Fraternali_2023, title={Mechanics of superelastic tensegrity
