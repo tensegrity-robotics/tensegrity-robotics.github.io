@@ -1,6 +1,24 @@
 papers:
 
 - authors:
+  - Markus Renner
+  - Evgenia Spyridonos
+  - Hanaa Dahy
+  bibtex: ' @article{Renner_2024, title={Tensegrity FlaxSeat: Exploring the Application
+    of Unidirectional Natural Fiber Biocomposite Profiles in a Tensegrity Configuration
+    as a Concept for Architectural Applications}, volume={14}, ISSN={2075-5309}, url={http://dx.doi.org/10.3390/buildings14082490},
+    DOI={10.3390/buildings14082490}, number={8}, journal={Buildings}, publisher={MDPI
+    AG}, author={Renner, Markus and Spyridonos, Evgenia and Dahy, Hanaa}, year={2024},
+    month=aug, pages={2490} }
+
+    '
+  pdfurl: https://doi.org/10.3390/buildings14082490
+  title: 'Tensegrity FlaxSeat: Exploring the Application of Unidirectional Natural
+    Fiber Biocomposite Profiles in a Tensegrity Configuration as a Concept for Architectural
+    Applications'
+  year: 2024
+
+- authors:
   - Ningning Song
   - Mengru Zhang
   - Fei Li
