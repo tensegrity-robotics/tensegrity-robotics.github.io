@@ -1,6 +1,25 @@
 papers:
 
 - authors:
+  - Li-Yuan Zhang
+  - Yang Zheng
+  - Xu Yin
+  - Shuai Zhang
+  - Hai-Quan Li
+  - Guang-Kui Xu
+  bibtex: ' @article{Zhang_2022, title={A tensegrity-based morphing module for assembling
+    various deployable structures}, volume={173}, ISSN={0094-114X}, url={http://dx.doi.org/10.1016/j.mechmachtheory.2022.104870},
+    DOI={10.1016/j.mechmachtheory.2022.104870}, journal={Mechanism and Machine Theory},
+    publisher={Elsevier BV}, author={Zhang, Li-Yuan and Zheng, Yang and Yin, Xu and
+    Zhang, Shuai and Li, Hai-Quan and Xu, Guang-Kui}, year={2022}, month=jul, pages={104870}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.mechmachtheory.2022.104870
+  title: A tensegrity-based morphing module for assembling various deployable structures
+  year: 2022
+
+- authors:
   - Xinrui Wang
   - Zhenchao Ling
   - Chen Qiu
