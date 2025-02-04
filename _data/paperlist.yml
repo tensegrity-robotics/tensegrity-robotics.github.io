@@ -1,6 +1,23 @@
 papers:
 
 - authors:
+  - Xinrui Wang
+  - Zhenchao Ling
+  - Chen Qiu
+  - Zhibin Song
+  - Rongjie Kang
+  bibtex: ' @article{Wang_2022, title={A four-prism tensegrity robot using a rolling
+    gait for locomotion}, volume={172}, ISSN={0094-114X}, url={http://dx.doi.org/10.1016/j.mechmachtheory.2022.104828},
+    DOI={10.1016/j.mechmachtheory.2022.104828}, journal={Mechanism and Machine Theory},
+    publisher={Elsevier BV}, author={Wang, Xinrui and Ling, Zhenchao and Qiu, Chen
+    and Song, Zhibin and Kang, Rongjie}, year={2022}, month=jun, pages={104828} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.mechmachtheory.2022.104828
+  title: A four-prism tensegrity robot using a rolling gait for locomotion
+  year: 2022
+
+- authors:
   - Yue Feng
   - XingFei Yuan
   - Akram Samy
