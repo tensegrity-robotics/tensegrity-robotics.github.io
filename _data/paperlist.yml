@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Aguinaldo Fraddosio
+  - Gaetano Pavone
+  - Mario Daniele Piccioni
+  bibtex: " @article{Fraddosio_2021, title={A novel method for determining the feasible\
+    \ integral self-stress states for tensegrity structures}, volume={8}, ISSN={2353-7396},\
+    \ url={http://dx.doi.org/10.1515/cls-2021-0007}, DOI={10.1515/cls-2021-0007},\
+    \ number={1}, journal={Curved and Layered Structures}, publisher={Walter de Gruyter\
+    \ GmbH}, author={Fraddosio, Aguinaldo and Pavone, Gaetano and Piccioni, Mario\
+    \ Daniele}, year={2021}, month=jan, pages={70\u201388} }\n"
+  pdfurl: https://doi.org/10.1515/cls-2021-0007
+  title: A novel method for determining the feasible integral self-stress states for
+    tensegrity structures
+  year: 2021
+
+- authors:
   - Christina-Marie Boghdady
   - Nikita Kalashnikov
   - Stephanie Mok
