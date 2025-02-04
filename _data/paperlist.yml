@@ -1,6 +1,26 @@
 papers:
 
 - authors:
+  - Junxiao Cui
+  - Panfeng Wang
+  - Tao Sun
+  - Shuai Ma
+  - Shibo Liu
+  - Rongjie Kang
+  - Fan Guo
+  bibtex: ' @article{Cui_2022, title={Design and experiments of a novel quadruped
+    robot with tensegrity legs}, volume={171}, ISSN={0094-114X}, url={http://dx.doi.org/10.1016/j.mechmachtheory.2022.104781},
+    DOI={10.1016/j.mechmachtheory.2022.104781}, journal={Mechanism and Machine Theory},
+    publisher={Elsevier BV}, author={Cui, Junxiao and Wang, Panfeng and Sun, Tao and
+    Ma, Shuai and Liu, Shibo and Kang, Rongjie and Guo, Fan}, year={2022}, month=may,
+    pages={104781} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.mechmachtheory.2022.104781
+  title: Design and experiments of a novel quadruped robot with tensegrity legs
+  year: 2022
+
+- authors:
   - Yongcan Dong
   - Xingfei Yuan
   - Shuo Ma
