@@ -1,5 +1,20 @@
 papers:
 
+- authors:
+  - Keyao Song
+  - Fabrizio Scarpa
+  - Mark Schenk
+  bibtex: ' @article{Song_2022, title={Form-finding of tessellated tensegrity structures},
+    volume={252}, ISSN={0141-0296}, url={http://dx.doi.org/10.1016/j.engstruct.2021.113627},
+    DOI={10.1016/j.engstruct.2021.113627}, journal={Engineering Structures}, publisher={Elsevier
+    BV}, author={Song, Keyao and Scarpa, Fabrizio and Schenk, Mark}, year={2022},
+    month=feb, pages={113627} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.engstruct.2021.113627
+  title: Form-finding of tessellated tensegrity structures
+  year: 2022
+
 - abstract: 'This study presents a finite element analysis approach to non-linear
     and
 
