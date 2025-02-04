@@ -1,6 +1,185 @@
 papers:
 
 - authors:
+  - Li-Yuan Zhang
+  - Yang Zheng
+  - Xu Yin
+  - Shuai Zhang
+  - Hai-Quan Li
+  - Guang-Kui Xu
+  bibtex: ' @article{Zhang_2022, title={A tensegrity-based morphing module for assembling
+    various deployable structures}, volume={173}, ISSN={0094-114X}, url={http://dx.doi.org/10.1016/j.mechmachtheory.2022.104870},
+    DOI={10.1016/j.mechmachtheory.2022.104870}, journal={Mechanism and Machine Theory},
+    publisher={Elsevier BV}, author={Zhang, Li-Yuan and Zheng, Yang and Yin, Xu and
+    Zhang, Shuai and Li, Hai-Quan and Xu, Guang-Kui}, year={2022}, month=jul, pages={104870}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.mechmachtheory.2022.104870
+  title: A tensegrity-based morphing module for assembling various deployable structures
+  year: 2022
+
+- authors:
+  - Xinrui Wang
+  - Zhenchao Ling
+  - Chen Qiu
+  - Zhibin Song
+  - Rongjie Kang
+  bibtex: ' @article{Wang_2022, title={A four-prism tensegrity robot using a rolling
+    gait for locomotion}, volume={172}, ISSN={0094-114X}, url={http://dx.doi.org/10.1016/j.mechmachtheory.2022.104828},
+    DOI={10.1016/j.mechmachtheory.2022.104828}, journal={Mechanism and Machine Theory},
+    publisher={Elsevier BV}, author={Wang, Xinrui and Ling, Zhenchao and Qiu, Chen
+    and Song, Zhibin and Kang, Rongjie}, year={2022}, month=jun, pages={104828} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.mechmachtheory.2022.104828
+  title: A four-prism tensegrity robot using a rolling gait for locomotion
+  year: 2022
+
+- authors:
+  - Yue Feng
+  - XingFei Yuan
+  - Akram Samy
+  bibtex: ' @article{Feng_2022, title={Analysis of new wave-curved tensegrity dome},
+    volume={250}, ISSN={0141-0296}, url={http://dx.doi.org/10.1016/j.engstruct.2021.113408},
+    DOI={10.1016/j.engstruct.2021.113408}, journal={Engineering Structures}, publisher={Elsevier
+    BV}, author={Feng, Yue and Yuan, XingFei and Samy, Akram}, year={2022}, month=jan,
+    pages={113408} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.engstruct.2021.113408
+  title: Analysis of new wave-curved tensegrity dome
+  year: 2022
+
+- authors:
+  - Shuo Ma
+  - Muhao Chen
+  - Zhangli Peng
+  - Xingfei Yuan
+  - Robert E. Skelton
+  bibtex: ' @article{Ma_2022, title={The equilibrium and form-finding of general tensegrity
+    systems with rigid bodies}, volume={266}, ISSN={0141-0296}, url={http://dx.doi.org/10.1016/j.engstruct.2022.114618},
+    DOI={10.1016/j.engstruct.2022.114618}, journal={Engineering Structures}, publisher={Elsevier
+    BV}, author={Ma, Shuo and Chen, Muhao and Peng, Zhangli and Yuan, Xingfei and
+    Skelton, Robert E.}, year={2022}, month=sep, pages={114618} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.engstruct.2022.114618
+  title: The equilibrium and form-finding of general tensegrity systems with rigid
+    bodies
+  year: 2022
+
+- authors:
+  - Keyao Song
+  - Fabrizio Scarpa
+  - Mark Schenk
+  bibtex: ' @article{Song_2022, title={Form-finding of tessellated tensegrity structures},
+    volume={252}, ISSN={0141-0296}, url={http://dx.doi.org/10.1016/j.engstruct.2021.113627},
+    DOI={10.1016/j.engstruct.2021.113627}, journal={Engineering Structures}, publisher={Elsevier
+    BV}, author={Song, Keyao and Scarpa, Fabrizio and Schenk, Mark}, year={2022},
+    month=feb, pages={113627} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.engstruct.2021.113627
+  title: Form-finding of tessellated tensegrity structures
+  year: 2022
+
+- abstract: 'This study presents a finite element analysis approach to non-linear
+    and
+
+    linearized tensegrity dynamics based on the Lagrangian method with nodal
+
+    coordinate vectors as the generalized coordinates. In this paper, nonlinear
+
+    tensegrity dynamics with and without constraints are first derived. The
+
+    equilibrium equations in three standard forms (in terms of nodal coordinate,
+
+    force density, and force vectors) and the compatibility equation are also
+
+    given. Then, we present the linearized dynamics and modal analysis equations
+
+    with and without constraints. The developed approach is capable of conducting
+
+    the following comprehensive dynamics studies for any tensegrity structures
+
+    accurately: 1. Performing rigid body dynamics with acceptable errors, which is
+
+    achieved by setting relatively high stiffness for bars in the simulation. 2.
+
+    Simulating FEM dynamics accurately, where bars and strings can have elastic or
+
+    plastic deformations. 3. Dealing with various kinds of boundary conditions, for
+
+    example, fixing or applying static/dynamic loads at any nodes in any direction
+
+    (i.e., gravitational force, some specified forces, or arbitrary seismic
+
+    vibrations). 4. Conducting accurate modal analysis, including natural frequency
+
+    and corresponding modes. Three examples, a double pendulum, a cantilever truss
+
+    with external force, and a double prism tensegrity tower, are carefully
+
+    selected and studied. The results are compared with rigid body dynamics and FEM
+
+    software ANSYS. This study provides a deep insight into structures, materials,
+
+    performances, as well as an interface towards integrating control theories.'
+  authors:
+  - Shuo Ma
+  - Muhao Chen
+  - Robert E. Skelton
+  bibtex: ' @article{Ma_2022, title={Tensegrity system dynamics based on finite element
+    method}, volume={280}, ISSN={0263-8223}, url={http://dx.doi.org/10.1016/j.compstruct.2021.114838},
+    DOI={10.1016/j.compstruct.2021.114838}, journal={Composite Structures}, publisher={Elsevier
+    BV}, author={Ma, Shuo and Chen, Muhao and Skelton, Robert E.}, year={2022}, month=jan,
+    pages={114838} }
+
+    '
+  pdfurl: http://arxiv.org/pdf/2106.02176v1
+  title: Tensegrity system dynamics based on finite element method
+  year: 2021
+
+- authors:
+  - Duy T.N. Trinh
+  - Seunghye Lee
+  - Joowon Kang
+  - Jaehong Lee
+  bibtex: ' @article{Trinh_2022, title={Force density-informed neural network for
+    prestress design of tensegrity structures with multiple self-stress modes}, volume={94},
+    ISSN={0997-7538}, url={http://dx.doi.org/10.1016/j.euromechsol.2022.104584}, DOI={10.1016/j.euromechsol.2022.104584},
+    journal={European Journal of Mechanics - A/Solids}, publisher={Elsevier BV}, author={Trinh,
+    Duy T.N. and Lee, Seunghye and Kang, Joowon and Lee, Jaehong}, year={2022}, month=jul,
+    pages={104584} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.euromechsol.2022.104584
+  title: Force density-informed neural network for prestress design of tensegrity
+    structures with multiple self-stress modes
+  year: 2022
+
+- authors:
+  - Junxiao Cui
+  - Panfeng Wang
+  - Tao Sun
+  - Shuai Ma
+  - Shibo Liu
+  - Rongjie Kang
+  - Fan Guo
+  bibtex: ' @article{Cui_2022, title={Design and experiments of a novel quadruped
+    robot with tensegrity legs}, volume={171}, ISSN={0094-114X}, url={http://dx.doi.org/10.1016/j.mechmachtheory.2022.104781},
+    DOI={10.1016/j.mechmachtheory.2022.104781}, journal={Mechanism and Machine Theory},
+    publisher={Elsevier BV}, author={Cui, Junxiao and Wang, Panfeng and Sun, Tao and
+    Ma, Shuai and Liu, Shibo and Kang, Rongjie and Guo, Fan}, year={2022}, month=may,
+    pages={104781} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.mechmachtheory.2022.104781
+  title: Design and experiments of a novel quadruped robot with tensegrity legs
+  year: 2022
+
+- authors:
   - Yongcan Dong
   - Xingfei Yuan
   - Shuo Ma
