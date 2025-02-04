@@ -1,6 +1,117 @@
 papers:
 
 - authors:
+  - Joran W. Booth
+  - "Olivier Cyr-Choini\xE8re"
+  - Jennifer C. Case
+  - Dylan Shah
+  - Michelle C. Yuen
+  - Rebecca Kramer-Bottiglio
+  bibtex: " @article{Booth_2021, title={Surface Actuation and Sensing of a Tensegrity\
+    \ Structure Using Robotic Skins}, volume={8}, ISSN={2169-5180}, url={http://dx.doi.org/10.1089/soro.2019.0142},\
+    \ DOI={10.1089/soro.2019.0142}, number={5}, journal={Soft Robotics}, publisher={Mary\
+    \ Ann Liebert Inc}, author={Booth, Joran W. and Cyr-Choini\xE8re, Olivier and\
+    \ Case, Jennifer C. and Shah, Dylan and Yuen, Michelle C. and Kramer-Bottiglio,\
+    \ Rebecca}, year={2021}, month=oct, pages={531\u2013541} }\n"
+  pdfurl: https://doi.org/10.1089/soro.2019.0142
+  title: Surface Actuation and Sensing of a Tensegrity Structure Using Robotic Skins
+  year: 2021
+
+- authors:
+  - Shuhei Ikemoto
+  - Kenta Tsukamoto
+  - Yuhei Yoshimitsu
+  bibtex: ' @article{Ikemoto_2021, title={Development of a Modular Tensegrity Robot
+    Arm Capable of Continuous Bending}, volume={8}, ISSN={2296-9144}, url={http://dx.doi.org/10.3389/frobt.2021.774253},
+    DOI={10.3389/frobt.2021.774253}, journal={Frontiers in Robotics and AI}, publisher={Frontiers
+    Media SA}, author={Ikemoto, Shuhei and Tsukamoto, Kenta and Yoshimitsu, Yuhei},
+    year={2021}, month=nov }
+
+    '
+  pdfurl: https://doi.org/10.3389/frobt.2021.774253
+  title: Development of a Modular Tensegrity Robot Arm Capable of Continuous Bending
+  year: 2021
+
+- authors:
+  - Yafeng Wang
+  - Gennaro Senatore
+  bibtex: " @article{Wang_2021, title={Design of adaptive structures through energy\
+    \ minimization: extension to tensegrity}, volume={64}, ISSN={1615-1488}, url={http://dx.doi.org/10.1007/s00158-021-02899-y},\
+    \ DOI={10.1007/s00158-021-02899-y}, number={3}, journal={Structural and Multidisciplinary\
+    \ Optimization}, publisher={Springer Science and Business Media LLC}, author={Wang,\
+    \ Yafeng and Senatore, Gennaro}, year={2021}, month=jul, pages={1079\u20131110}\
+    \ }\n"
+  pdfurl: https://doi.org/10.1007/s00158-021-02899-y
+  title: 'Design of adaptive structures through energy minimization: extension to
+    tensegrity'
+  year: 2021
+
+- authors:
+  - Aguinaldo Fraddosio
+  - Gaetano Pavone
+  - Mario Daniele Piccioni
+  bibtex: " @article{Fraddosio_2021, title={A novel method for determining the feasible\
+    \ integral self-stress states for tensegrity structures}, volume={8}, ISSN={2353-7396},\
+    \ url={http://dx.doi.org/10.1515/cls-2021-0007}, DOI={10.1515/cls-2021-0007},\
+    \ number={1}, journal={Curved and Layered Structures}, publisher={Walter de Gruyter\
+    \ GmbH}, author={Fraddosio, Aguinaldo and Pavone, Gaetano and Piccioni, Mario\
+    \ Daniele}, year={2021}, month=jan, pages={70\u201388} }\n"
+  pdfurl: https://doi.org/10.1515/cls-2021-0007
+  title: A novel method for determining the feasible integral self-stress states for
+    tensegrity structures
+  year: 2021
+
+- authors:
+  - Christina-Marie Boghdady
+  - Nikita Kalashnikov
+  - Stephanie Mok
+  - Luke McCaffrey
+  - Christopher Moraes
+  bibtex: ' @article{Boghdady_2021, title={Revisiting tissue tensegrity: Biomaterial-based
+    approaches to measure forces across length scales}, volume={5}, ISSN={2473-2877},
+    url={http://dx.doi.org/10.1063/5.0046093}, DOI={10.1063/5.0046093}, number={4},
+    journal={APL Bioengineering}, publisher={AIP Publishing}, author={Boghdady, Christina-Marie
+    and Kalashnikov, Nikita and Mok, Stephanie and McCaffrey, Luke and Moraes, Christopher},
+    year={2021}, month=oct }
+
+    '
+  pdfurl: https://doi.org/10.1063/5.0046093
+  title: 'Revisiting tissue tensegrity: Biomaterial-based approaches to measure forces
+    across length scales'
+  year: 2021
+
+- authors:
+  - Xiaodong Feng
+  - Wanpeng Zhang
+  - Sa Jianbo
+  - Yao Chen
+  - Zlotnik Sergio
+  bibtex: ' @article{Feng_2021, title={The topology finding algorithm of tensegrity
+    structures based on scheme matrix strategy}, volume={275}, ISSN={0263-8223}, url={http://dx.doi.org/10.1016/j.compstruct.2021.114429},
+    DOI={10.1016/j.compstruct.2021.114429}, journal={Composite Structures}, publisher={Elsevier
+    BV}, author={Feng, Xiaodong and Zhang, Wanpeng and Jianbo, Sa and Chen, Yao and
+    Sergio, Zlotnik}, year={2021}, month=nov, pages={114429} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.compstruct.2021.114429
+  title: The topology finding algorithm of tensegrity structures based on scheme matrix
+    strategy
+  year: 2021
+
+- authors:
+  - Shamsul Arefeen
+  - Tim Dallas
+  bibtex: " @article{Arefeen_2021, title={Low-cost racking for solar photovoltaic\
+    \ systems with renewable tensegrity structures}, volume={224}, ISSN={0038-092X},\
+    \ url={http://dx.doi.org/10.1016/j.solener.2021.06.020}, DOI={10.1016/j.solener.2021.06.020},\
+    \ journal={Solar Energy}, publisher={Elsevier BV}, author={Arefeen, Shamsul and\
+    \ Dallas, Tim}, year={2021}, month=aug, pages={798\u2013807} }\n"
+  pdfurl: https://doi.org/10.1016/j.solener.2021.06.020
+  title: Low-cost racking for solar photovoltaic systems with renewable tensegrity
+    structures
+  year: 2021
+
+- authors:
   - Li-Yuan Zhang
   - Yang Zheng
   - Xu Yin
