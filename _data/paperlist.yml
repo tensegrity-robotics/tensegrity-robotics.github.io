@@ -1,6 +1,25 @@
 papers:
 
 - authors:
+  - Christina-Marie Boghdady
+  - Nikita Kalashnikov
+  - Stephanie Mok
+  - Luke McCaffrey
+  - Christopher Moraes
+  bibtex: ' @article{Boghdady_2021, title={Revisiting tissue tensegrity: Biomaterial-based
+    approaches to measure forces across length scales}, volume={5}, ISSN={2473-2877},
+    url={http://dx.doi.org/10.1063/5.0046093}, DOI={10.1063/5.0046093}, number={4},
+    journal={APL Bioengineering}, publisher={AIP Publishing}, author={Boghdady, Christina-Marie
+    and Kalashnikov, Nikita and Mok, Stephanie and McCaffrey, Luke and Moraes, Christopher},
+    year={2021}, month=oct }
+
+    '
+  pdfurl: https://doi.org/10.1063/5.0046093
+  title: 'Revisiting tissue tensegrity: Biomaterial-based approaches to measure forces
+    across length scales'
+  year: 2021
+
+- authors:
   - Xiaodong Feng
   - Wanpeng Zhang
   - Sa Jianbo
