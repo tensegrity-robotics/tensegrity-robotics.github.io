@@ -1,6 +1,19 @@
 papers:
 
 - authors:
+  - Shamsul Arefeen
+  - Tim Dallas
+  bibtex: " @article{Arefeen_2021, title={Low-cost racking for solar photovoltaic\
+    \ systems with renewable tensegrity structures}, volume={224}, ISSN={0038-092X},\
+    \ url={http://dx.doi.org/10.1016/j.solener.2021.06.020}, DOI={10.1016/j.solener.2021.06.020},\
+    \ journal={Solar Energy}, publisher={Elsevier BV}, author={Arefeen, Shamsul and\
+    \ Dallas, Tim}, year={2021}, month=aug, pages={798\u2013807} }\n"
+  pdfurl: https://doi.org/10.1016/j.solener.2021.06.020
+  title: Low-cost racking for solar photovoltaic systems with renewable tensegrity
+    structures
+  year: 2021
+
+- authors:
   - Li-Yuan Zhang
   - Yang Zheng
   - Xu Yin
