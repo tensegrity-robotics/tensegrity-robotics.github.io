@@ -1,5 +1,62 @@
 papers:
 
+- abstract: 'This study presents a finite element analysis approach to non-linear
+    and
+
+    linearized tensegrity dynamics based on the Lagrangian method with nodal
+
+    coordinate vectors as the generalized coordinates. In this paper, nonlinear
+
+    tensegrity dynamics with and without constraints are first derived. The
+
+    equilibrium equations in three standard forms (in terms of nodal coordinate,
+
+    force density, and force vectors) and the compatibility equation are also
+
+    given. Then, we present the linearized dynamics and modal analysis equations
+
+    with and without constraints. The developed approach is capable of conducting
+
+    the following comprehensive dynamics studies for any tensegrity structures
+
+    accurately: 1. Performing rigid body dynamics with acceptable errors, which is
+
+    achieved by setting relatively high stiffness for bars in the simulation. 2.
+
+    Simulating FEM dynamics accurately, where bars and strings can have elastic or
+
+    plastic deformations. 3. Dealing with various kinds of boundary conditions, for
+
+    example, fixing or applying static/dynamic loads at any nodes in any direction
+
+    (i.e., gravitational force, some specified forces, or arbitrary seismic
+
+    vibrations). 4. Conducting accurate modal analysis, including natural frequency
+
+    and corresponding modes. Three examples, a double pendulum, a cantilever truss
+
+    with external force, and a double prism tensegrity tower, are carefully
+
+    selected and studied. The results are compared with rigid body dynamics and FEM
+
+    software ANSYS. This study provides a deep insight into structures, materials,
+
+    performances, as well as an interface towards integrating control theories.'
+  authors:
+  - Shuo Ma
+  - Muhao Chen
+  - Robert E. Skelton
+  bibtex: ' @article{Ma_2022, title={Tensegrity system dynamics based on finite element
+    method}, volume={280}, ISSN={0263-8223}, url={http://dx.doi.org/10.1016/j.compstruct.2021.114838},
+    DOI={10.1016/j.compstruct.2021.114838}, journal={Composite Structures}, publisher={Elsevier
+    BV}, author={Ma, Shuo and Chen, Muhao and Skelton, Robert E.}, year={2022}, month=jan,
+    pages={114838} }
+
+    '
+  pdfurl: http://arxiv.org/pdf/2106.02176v1
+  title: Tensegrity system dynamics based on finite element method
+  year: 2021
+
 - authors:
   - Duy T.N. Trinh
   - Seunghye Lee
