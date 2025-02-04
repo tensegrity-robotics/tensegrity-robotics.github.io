@@ -1,6 +1,24 @@
 papers:
 
 - authors:
+  - Xiaodong Feng
+  - Wanpeng Zhang
+  - Sa Jianbo
+  - Yao Chen
+  - Zlotnik Sergio
+  bibtex: ' @article{Feng_2021, title={The topology finding algorithm of tensegrity
+    structures based on scheme matrix strategy}, volume={275}, ISSN={0263-8223}, url={http://dx.doi.org/10.1016/j.compstruct.2021.114429},
+    DOI={10.1016/j.compstruct.2021.114429}, journal={Composite Structures}, publisher={Elsevier
+    BV}, author={Feng, Xiaodong and Zhang, Wanpeng and Jianbo, Sa and Chen, Yao and
+    Sergio, Zlotnik}, year={2021}, month=nov, pages={114429} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.compstruct.2021.114429
+  title: The topology finding algorithm of tensegrity structures based on scheme matrix
+    strategy
+  year: 2021
+
+- authors:
   - Shamsul Arefeen
   - Tim Dallas
   bibtex: " @article{Arefeen_2021, title={Low-cost racking for solar photovoltaic\
