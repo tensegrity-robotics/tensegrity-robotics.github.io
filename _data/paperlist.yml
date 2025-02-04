@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Shuhei Ikemoto
+  - Kenta Tsukamoto
+  - Yuhei Yoshimitsu
+  bibtex: ' @article{Ikemoto_2021, title={Development of a Modular Tensegrity Robot
+    Arm Capable of Continuous Bending}, volume={8}, ISSN={2296-9144}, url={http://dx.doi.org/10.3389/frobt.2021.774253},
+    DOI={10.3389/frobt.2021.774253}, journal={Frontiers in Robotics and AI}, publisher={Frontiers
+    Media SA}, author={Ikemoto, Shuhei and Tsukamoto, Kenta and Yoshimitsu, Yuhei},
+    year={2021}, month=nov }
+
+    '
+  pdfurl: https://doi.org/10.3389/frobt.2021.774253
+  title: Development of a Modular Tensegrity Robot Arm Capable of Continuous Bending
+  year: 2021
+
+- authors:
   - Yafeng Wang
   - Gennaro Senatore
   bibtex: " @article{Wang_2021, title={Design of adaptive structures through energy\
