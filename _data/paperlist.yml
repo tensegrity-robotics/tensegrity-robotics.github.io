@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Yue Feng
+  - XingFei Yuan
+  - Akram Samy
+  bibtex: ' @article{Feng_2022, title={Analysis of new wave-curved tensegrity dome},
+    volume={250}, ISSN={0141-0296}, url={http://dx.doi.org/10.1016/j.engstruct.2021.113408},
+    DOI={10.1016/j.engstruct.2021.113408}, journal={Engineering Structures}, publisher={Elsevier
+    BV}, author={Feng, Yue and Yuan, XingFei and Samy, Akram}, year={2022}, month=jan,
+    pages={113408} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.engstruct.2021.113408
+  title: Analysis of new wave-curved tensegrity dome
+  year: 2022
+
+- authors:
   - Shuo Ma
   - Muhao Chen
   - Zhangli Peng
