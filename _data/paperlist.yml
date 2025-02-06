@@ -2,6 +2,22 @@ papers:
 
 - authors:
   - Davide Zappetti
+  - Roc Arandes
+  - Enrico Ajanic
+  - Dario Floreano
+  bibtex: ' @article{Zappetti_2020, title={Variable-stiffness tensegrity spine}, volume={29},
+    ISSN={1361-665X}, url={http://dx.doi.org/10.1088/1361-665x/ab87e0}, DOI={10.1088/1361-665x/ab87e0},
+    number={7}, journal={Smart Materials and Structures}, publisher={IOP Publishing},
+    author={Zappetti, Davide and Arandes, Roc and Ajanic, Enrico and Floreano, Dario},
+    year={2020}, month=jun, pages={075013} }
+
+    '
+  pdfurl: https://doi.org/10.1088/1361-665x/ab87e0
+  title: Variable-stiffness tensegrity spine
+  year: 2020
+
+- authors:
+  - Davide Zappetti
   - Seung Hee Jeong
   - Jun Shintake
   - Dario Floreano
