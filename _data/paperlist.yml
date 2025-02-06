@@ -1,6 +1,20 @@
 papers:
 
 - authors:
+  - Davide Zappetti
+  - Seung Hee Jeong
+  - Jun Shintake
+  - Dario Floreano
+  bibtex: " @article{Zappetti_2020, title={Phase Changing Materials-Based Variable-Stiffness\
+    \ Tensegrity Structures}, volume={7}, ISSN={2169-5180}, url={http://dx.doi.org/10.1089/soro.2019.0091},\
+    \ DOI={10.1089/soro.2019.0091}, number={3}, journal={Soft Robotics}, publisher={Mary\
+    \ Ann Liebert Inc}, author={Zappetti, Davide and Jeong, Seung Hee and Shintake,\
+    \ Jun and Floreano, Dario}, year={2020}, month=jun, pages={362\u2013369} }\n"
+  pdfurl: https://doi.org/10.1089/soro.2019.0091
+  title: Phase Changing Materials-Based Variable-Stiffness Tensegrity Structures
+  year: 2020
+
+- authors:
   - Shuo Ma
   - Muhao Chen
   - Robert E. Skelton
