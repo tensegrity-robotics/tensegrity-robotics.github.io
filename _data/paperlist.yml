@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Shuo Ma
+  - Muhao Chen
+  - Robert E. Skelton
+  bibtex: ' @article{Ma_2020, title={Design of a new tensegrity cantilever structure},
+    volume={243}, ISSN={0263-8223}, url={http://dx.doi.org/10.1016/j.compstruct.2020.112188},
+    DOI={10.1016/j.compstruct.2020.112188}, journal={Composite Structures}, publisher={Elsevier
+    BV}, author={Ma, Shuo and Chen, Muhao and Skelton, Robert E.}, year={2020}, month=jul,
+    pages={112188} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.compstruct.2020.112188
+  title: Design of a new tensegrity cantilever structure
+  year: 2020
+
+- authors:
   - Joran W. Booth
   - "Olivier Cyr-Choini\xE8re"
   - Jennifer C. Case
