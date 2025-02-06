@@ -1,6 +1,26 @@
 papers:
 
 - authors:
+  - Sachin Sean Gupta
+  - Ying Yi Tan
+  - Pei Zhi Chia
+  - Christyasto P. Pambudi
+  - Yu Han Quek
+  - Christine Yogiaman
+  - Kenneth J. Tracy
+  bibtex: ' @article{Gupta_2020, title={Prototyping knit tensegrity shells: a design-to-fabrication
+    workflow}, volume={2}, ISSN={2523-3971}, url={http://dx.doi.org/10.1007/s42452-020-2693-4},
+    DOI={10.1007/s42452-020-2693-4}, number={6}, journal={SN Applied Sciences}, publisher={Springer
+    Science and Business Media LLC}, author={Gupta, Sachin Sean and Tan, Ying Yi and
+    Chia, Pei Zhi and Pambudi, Christyasto P. and Quek, Yu Han and Yogiaman, Christine
+    and Tracy, Kenneth J.}, year={2020}, month=may }
+
+    '
+  pdfurl: https://doi.org/10.1007/s42452-020-2693-4
+  title: 'Prototyping knit tensegrity shells: a design-to-fabrication workflow'
+  year: 2020
+
+- authors:
   - Claudio Boni
   - Marco Silvestri
   - Gianni Royer-Carfagni
