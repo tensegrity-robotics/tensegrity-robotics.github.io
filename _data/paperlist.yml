@@ -1,6 +1,207 @@
 papers:
 
 - authors:
+  - Xu Yin
+  - Zhi-Ying Gao
+  - Shuai Zhang
+  - Li-Yuan Zhang
+  - Guang-Kui Xu
+  bibtex: " @article{Yin_2020, title={Truncated regular octahedral tensegrity-based\
+    \ mechanical metamaterial with tunable and programmable Poisson\u2019s ratio},\
+    \ volume={167}, ISSN={0020-7403}, url={http://dx.doi.org/10.1016/j.ijmecsci.2019.105285},\
+    \ DOI={10.1016/j.ijmecsci.2019.105285}, journal={International Journal of Mechanical\
+    \ Sciences}, publisher={Elsevier BV}, author={Yin, Xu and Gao, Zhi-Ying and Zhang,\
+    \ Shuai and Zhang, Li-Yuan and Xu, Guang-Kui}, year={2020}, month=feb, pages={105285}\
+    \ }\n"
+  pdfurl: https://doi.org/10.1016/j.ijmecsci.2019.105285
+  title: Truncated regular octahedral tensegrity-based mechanical metamaterial with
+    tunable and programmable Poisson's ratio
+  year: 2020
+
+- authors:
+  - Zacharias Vangelatos
+  - Andrea Micheletti
+  - Costas P. Grigoropoulos
+  - Fernando Fraternali
+  bibtex: ' @article{Vangelatos_2020, title={Design and Testing of Bistable Lattices
+    with Tensegrity Architecture and Nanoscale Features Fabricated by Multiphoton
+    Lithography}, volume={10}, ISSN={2079-4991}, url={http://dx.doi.org/10.3390/nano10040652},
+    DOI={10.3390/nano10040652}, number={4}, journal={Nanomaterials}, publisher={MDPI
+    AG}, author={Vangelatos, Zacharias and Micheletti, Andrea and Grigoropoulos, Costas
+    P. and Fraternali, Fernando}, year={2020}, month=mar, pages={652} }
+
+    '
+  pdfurl: https://doi.org/10.3390/nano10040652
+  title: Design and Testing of Bistable Lattices with Tensegrity Architecture and
+    Nanoscale Features Fabricated by Multiphoton Lithography
+  year: 2020
+
+- authors:
+  - Jeremy Begey
+  - Marc Vedrines
+  - Nicolas Andreff
+  - Pierre Renaud
+  bibtex: ' @article{Begey_2020, title={Selection of actuation mode for tensegrity
+    mechanisms: The case study of the actuated Snelson cross}, volume={152}, ISSN={0094-114X},
+    url={http://dx.doi.org/10.1016/j.mechmachtheory.2020.103881}, DOI={10.1016/j.mechmachtheory.2020.103881},
+    journal={Mechanism and Machine Theory}, publisher={Elsevier BV}, author={Begey,
+    Jeremy and Vedrines, Marc and Andreff, Nicolas and Renaud, Pierre}, year={2020},
+    month=oct, pages={103881} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.mechmachtheory.2020.103881
+  title: 'Selection of actuation mode for tensegrity mechanisms: The case study of
+    the actuated Snelson cross'
+  year: 2020
+
+- authors:
+  - Sachin Sean Gupta
+  - Ying Yi Tan
+  - Pei Zhi Chia
+  - Christyasto P. Pambudi
+  - Yu Han Quek
+  - Christine Yogiaman
+  - Kenneth J. Tracy
+  bibtex: ' @article{Gupta_2020, title={Prototyping knit tensegrity shells: a design-to-fabrication
+    workflow}, volume={2}, ISSN={2523-3971}, url={http://dx.doi.org/10.1007/s42452-020-2693-4},
+    DOI={10.1007/s42452-020-2693-4}, number={6}, journal={SN Applied Sciences}, publisher={Springer
+    Science and Business Media LLC}, author={Gupta, Sachin Sean and Tan, Ying Yi and
+    Chia, Pei Zhi and Pambudi, Christyasto P. and Quek, Yu Han and Yogiaman, Christine
+    and Tracy, Kenneth J.}, year={2020}, month=may }
+
+    '
+  pdfurl: https://doi.org/10.1007/s42452-020-2693-4
+  title: 'Prototyping knit tensegrity shells: a design-to-fabrication workflow'
+  year: 2020
+
+- authors:
+  - Claudio Boni
+  - Marco Silvestri
+  - Gianni Royer-Carfagni
+  bibtex: ' @article{Boni_2020, title={Flexural tensegrity of segmental beams}, volume={476},
+    ISSN={1471-2946}, url={http://dx.doi.org/10.1098/rspa.2020.0062}, DOI={10.1098/rspa.2020.0062},
+    number={2237}, journal={Proceedings of the Royal Society A: Mathematical, Physical
+    and Engineering Sciences}, publisher={The Royal Society}, author={Boni, Claudio
+    and Silvestri, Marco and Royer-Carfagni, Gianni}, year={2020}, month=may }
+
+    '
+  pdfurl: https://doi.org/10.1098/rspa.2020.0062
+  title: Flexural tensegrity of segmental beams
+  year: 2020
+
+- authors:
+  - Dunwen Wei
+  - Tao Gao
+  - Xiaojuan Mo
+  - Ruru Xi
+  - Cong Zhou
+  bibtex: ' @article{Wei_2020, title={Flexible Bio-tensegrity Manipulator with Multi-degree
+    of Freedom and Variable Structure}, volume={33}, ISSN={2192-8258}, url={http://dx.doi.org/10.1186/s10033-019-0426-7},
+    DOI={10.1186/s10033-019-0426-7}, number={1}, journal={Chinese Journal of Mechanical
+    Engineering}, publisher={Springer Science and Business Media LLC}, author={Wei,
+    Dunwen and Gao, Tao and Mo, Xiaojuan and Xi, Ruru and Zhou, Cong}, year={2020},
+    month=feb }
+
+    '
+  pdfurl: https://doi.org/10.1186/s10033-019-0426-7
+  title: Flexible Bio-tensegrity Manipulator with Multi-degree of Freedom and Variable
+    Structure
+  year: 2020
+
+- authors:
+  - Fernando Fraternali
+  - Nicola Stehling
+  - Ada Amendola
+  - Bryan Andres Tiban Anrango
+  - Chris Holland
+  - Cornelia Rodenburg
+  bibtex: ' @article{Fraternali_2020, title={Tensegrity Modelling and the High Toughness
+    of Spider Dragline Silk}, volume={10}, ISSN={2079-4991}, url={http://dx.doi.org/10.3390/nano10081510},
+    DOI={10.3390/nano10081510}, number={8}, journal={Nanomaterials}, publisher={MDPI
+    AG}, author={Fraternali, Fernando and Stehling, Nicola and Amendola, Ada and Tiban
+    Anrango, Bryan Andres and Holland, Chris and Rodenburg, Cornelia}, year={2020},
+    month=jul, pages={1510} }
+
+    '
+  pdfurl: https://doi.org/10.3390/nano10081510
+  title: Tensegrity Modelling and the High Toughness of Spider Dragline Silk
+  year: 2020
+
+- authors:
+  - Raman Goyal
+  - Muhao Chen
+  - Maoranjan Majji
+  - Robert E. Skelton
+  bibtex: " @article{Goyal_2020, title={Gyroscopic Tensegrity Robots}, volume={5},\
+    \ ISSN={2377-3774}, url={http://dx.doi.org/10.1109/lra.2020.2967288}, DOI={10.1109/lra.2020.2967288},\
+    \ number={2}, journal={IEEE Robotics and Automation Letters}, publisher={Institute\
+    \ of Electrical and Electronics Engineers (IEEE)}, author={Goyal, Raman and Chen,\
+    \ Muhao and Majji, Maoranjan and Skelton, Robert E.}, year={2020}, month=apr,\
+    \ pages={1239\u20131246} }\n"
+  pdfurl: https://doi.org/10.1109/lra.2020.2967288
+  title: Gyroscopic Tensegrity Robots
+  year: 2020
+
+- authors:
+  - Robert L. Baines
+  - Joran W. Booth
+  - Rebecca Kramer-Bottiglio
+  bibtex: " @article{Baines_2020, title={Rolling Soft Membrane-Driven Tensegrity Robots},\
+    \ volume={5}, ISSN={2377-3774}, url={http://dx.doi.org/10.1109/lra.2020.3015185},\
+    \ DOI={10.1109/lra.2020.3015185}, number={4}, journal={IEEE Robotics and Automation\
+    \ Letters}, publisher={Institute of Electrical and Electronics Engineers (IEEE)},\
+    \ author={Baines, Robert L. and Booth, Joran W. and Kramer-Bottiglio, Rebecca},\
+    \ year={2020}, month=oct, pages={6567\u20136574} }\n"
+  pdfurl: https://doi.org/10.1109/lra.2020.3015185
+  title: Rolling Soft Membrane-Driven Tensegrity Robots
+  year: 2020
+
+- authors:
+  - Davide Zappetti
+  - Roc Arandes
+  - Enrico Ajanic
+  - Dario Floreano
+  bibtex: ' @article{Zappetti_2020, title={Variable-stiffness tensegrity spine}, volume={29},
+    ISSN={1361-665X}, url={http://dx.doi.org/10.1088/1361-665x/ab87e0}, DOI={10.1088/1361-665x/ab87e0},
+    number={7}, journal={Smart Materials and Structures}, publisher={IOP Publishing},
+    author={Zappetti, Davide and Arandes, Roc and Ajanic, Enrico and Floreano, Dario},
+    year={2020}, month=jun, pages={075013} }
+
+    '
+  pdfurl: https://doi.org/10.1088/1361-665x/ab87e0
+  title: Variable-stiffness tensegrity spine
+  year: 2020
+
+- authors:
+  - Davide Zappetti
+  - Seung Hee Jeong
+  - Jun Shintake
+  - Dario Floreano
+  bibtex: " @article{Zappetti_2020, title={Phase Changing Materials-Based Variable-Stiffness\
+    \ Tensegrity Structures}, volume={7}, ISSN={2169-5180}, url={http://dx.doi.org/10.1089/soro.2019.0091},\
+    \ DOI={10.1089/soro.2019.0091}, number={3}, journal={Soft Robotics}, publisher={Mary\
+    \ Ann Liebert Inc}, author={Zappetti, Davide and Jeong, Seung Hee and Shintake,\
+    \ Jun and Floreano, Dario}, year={2020}, month=jun, pages={362\u2013369} }\n"
+  pdfurl: https://doi.org/10.1089/soro.2019.0091
+  title: Phase Changing Materials-Based Variable-Stiffness Tensegrity Structures
+  year: 2020
+
+- authors:
+  - Shuo Ma
+  - Muhao Chen
+  - Robert E. Skelton
+  bibtex: ' @article{Ma_2020, title={Design of a new tensegrity cantilever structure},
+    volume={243}, ISSN={0263-8223}, url={http://dx.doi.org/10.1016/j.compstruct.2020.112188},
+    DOI={10.1016/j.compstruct.2020.112188}, journal={Composite Structures}, publisher={Elsevier
+    BV}, author={Ma, Shuo and Chen, Muhao and Skelton, Robert E.}, year={2020}, month=jul,
+    pages={112188} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.compstruct.2020.112188
+  title: Design of a new tensegrity cantilever structure
+  year: 2020
+
+- authors:
   - Joran W. Booth
   - "Olivier Cyr-Choini\xE8re"
   - Jennifer C. Case
