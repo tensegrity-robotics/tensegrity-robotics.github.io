@@ -1,6 +1,24 @@
 papers:
 
 - authors:
+  - Zacharias Vangelatos
+  - Andrea Micheletti
+  - Costas P. Grigoropoulos
+  - Fernando Fraternali
+  bibtex: ' @article{Vangelatos_2020, title={Design and Testing of Bistable Lattices
+    with Tensegrity Architecture and Nanoscale Features Fabricated by Multiphoton
+    Lithography}, volume={10}, ISSN={2079-4991}, url={http://dx.doi.org/10.3390/nano10040652},
+    DOI={10.3390/nano10040652}, number={4}, journal={Nanomaterials}, publisher={MDPI
+    AG}, author={Vangelatos, Zacharias and Micheletti, Andrea and Grigoropoulos, Costas
+    P. and Fraternali, Fernando}, year={2020}, month=mar, pages={652} }
+
+    '
+  pdfurl: https://doi.org/10.3390/nano10040652
+  title: Design and Testing of Bistable Lattices with Tensegrity Architecture and
+    Nanoscale Features Fabricated by Multiphoton Lithography
+  year: 2020
+
+- authors:
   - Jeremy Begey
   - Marc Vedrines
   - Nicolas Andreff
