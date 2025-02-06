@@ -1,6 +1,24 @@
 papers:
 
 - authors:
+  - Xu Yin
+  - Zhi-Ying Gao
+  - Shuai Zhang
+  - Li-Yuan Zhang
+  - Guang-Kui Xu
+  bibtex: " @article{Yin_2020, title={Truncated regular octahedral tensegrity-based\
+    \ mechanical metamaterial with tunable and programmable Poisson\u2019s ratio},\
+    \ volume={167}, ISSN={0020-7403}, url={http://dx.doi.org/10.1016/j.ijmecsci.2019.105285},\
+    \ DOI={10.1016/j.ijmecsci.2019.105285}, journal={International Journal of Mechanical\
+    \ Sciences}, publisher={Elsevier BV}, author={Yin, Xu and Gao, Zhi-Ying and Zhang,\
+    \ Shuai and Zhang, Li-Yuan and Xu, Guang-Kui}, year={2020}, month=feb, pages={105285}\
+    \ }\n"
+  pdfurl: https://doi.org/10.1016/j.ijmecsci.2019.105285
+  title: Truncated regular octahedral tensegrity-based mechanical metamaterial with
+    tunable and programmable Poisson's ratio
+  year: 2020
+
+- authors:
   - Zacharias Vangelatos
   - Andrea Micheletti
   - Costas P. Grigoropoulos
