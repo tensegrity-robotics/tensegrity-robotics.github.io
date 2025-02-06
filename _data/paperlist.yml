@@ -1,6 +1,20 @@
 papers:
 
 - authors:
+  - Robert L. Baines
+  - Joran W. Booth
+  - Rebecca Kramer-Bottiglio
+  bibtex: " @article{Baines_2020, title={Rolling Soft Membrane-Driven Tensegrity Robots},\
+    \ volume={5}, ISSN={2377-3774}, url={http://dx.doi.org/10.1109/lra.2020.3015185},\
+    \ DOI={10.1109/lra.2020.3015185}, number={4}, journal={IEEE Robotics and Automation\
+    \ Letters}, publisher={Institute of Electrical and Electronics Engineers (IEEE)},\
+    \ author={Baines, Robert L. and Booth, Joran W. and Kramer-Bottiglio, Rebecca},\
+    \ year={2020}, month=oct, pages={6567\u20136574} }\n"
+  pdfurl: https://doi.org/10.1109/lra.2020.3015185
+  title: Rolling Soft Membrane-Driven Tensegrity Robots
+  year: 2020
+
+- authors:
   - Davide Zappetti
   - Roc Arandes
   - Enrico Ajanic
