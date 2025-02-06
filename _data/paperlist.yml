@@ -1,6 +1,25 @@
 papers:
 
 - authors:
+  - Fernando Fraternali
+  - Nicola Stehling
+  - Ada Amendola
+  - Bryan Andres Tiban Anrango
+  - Chris Holland
+  - Cornelia Rodenburg
+  bibtex: ' @article{Fraternali_2020, title={Tensegrity Modelling and the High Toughness
+    of Spider Dragline Silk}, volume={10}, ISSN={2079-4991}, url={http://dx.doi.org/10.3390/nano10081510},
+    DOI={10.3390/nano10081510}, number={8}, journal={Nanomaterials}, publisher={MDPI
+    AG}, author={Fraternali, Fernando and Stehling, Nicola and Amendola, Ada and Tiban
+    Anrango, Bryan Andres and Holland, Chris and Rodenburg, Cornelia}, year={2020},
+    month=jul, pages={1510} }
+
+    '
+  pdfurl: https://doi.org/10.3390/nano10081510
+  title: Tensegrity Modelling and the High Toughness of Spider Dragline Silk
+  year: 2020
+
+- authors:
   - Raman Goyal
   - Muhao Chen
   - Maoranjan Majji
