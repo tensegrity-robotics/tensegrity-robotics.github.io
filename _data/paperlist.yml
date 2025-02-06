@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Claudio Boni
+  - Marco Silvestri
+  - Gianni Royer-Carfagni
+  bibtex: ' @article{Boni_2020, title={Flexural tensegrity of segmental beams}, volume={476},
+    ISSN={1471-2946}, url={http://dx.doi.org/10.1098/rspa.2020.0062}, DOI={10.1098/rspa.2020.0062},
+    number={2237}, journal={Proceedings of the Royal Society A: Mathematical, Physical
+    and Engineering Sciences}, publisher={The Royal Society}, author={Boni, Claudio
+    and Silvestri, Marco and Royer-Carfagni, Gianni}, year={2020}, month=may }
+
+    '
+  pdfurl: https://doi.org/10.1098/rspa.2020.0062
+  title: Flexural tensegrity of segmental beams
+  year: 2020
+
+- authors:
   - Dunwen Wei
   - Tao Gao
   - Xiaojuan Mo
