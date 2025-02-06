@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Raman Goyal
+  - Muhao Chen
+  - Maoranjan Majji
+  - Robert E. Skelton
+  bibtex: " @article{Goyal_2020, title={Gyroscopic Tensegrity Robots}, volume={5},\
+    \ ISSN={2377-3774}, url={http://dx.doi.org/10.1109/lra.2020.2967288}, DOI={10.1109/lra.2020.2967288},\
+    \ number={2}, journal={IEEE Robotics and Automation Letters}, publisher={Institute\
+    \ of Electrical and Electronics Engineers (IEEE)}, author={Goyal, Raman and Chen,\
+    \ Muhao and Majji, Maoranjan and Skelton, Robert E.}, year={2020}, month=apr,\
+    \ pages={1239\u20131246} }\n"
+  pdfurl: https://doi.org/10.1109/lra.2020.2967288
+  title: Gyroscopic Tensegrity Robots
+  year: 2020
+
+- authors:
   - Robert L. Baines
   - Joran W. Booth
   - Rebecca Kramer-Bottiglio
