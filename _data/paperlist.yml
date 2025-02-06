@@ -1,6 +1,25 @@
 papers:
 
 - authors:
+  - Dunwen Wei
+  - Tao Gao
+  - Xiaojuan Mo
+  - Ruru Xi
+  - Cong Zhou
+  bibtex: ' @article{Wei_2020, title={Flexible Bio-tensegrity Manipulator with Multi-degree
+    of Freedom and Variable Structure}, volume={33}, ISSN={2192-8258}, url={http://dx.doi.org/10.1186/s10033-019-0426-7},
+    DOI={10.1186/s10033-019-0426-7}, number={1}, journal={Chinese Journal of Mechanical
+    Engineering}, publisher={Springer Science and Business Media LLC}, author={Wei,
+    Dunwen and Gao, Tao and Mo, Xiaojuan and Xi, Ruru and Zhou, Cong}, year={2020},
+    month=feb }
+
+    '
+  pdfurl: https://doi.org/10.1186/s10033-019-0426-7
+  title: Flexible Bio-tensegrity Manipulator with Multi-degree of Freedom and Variable
+    Structure
+  year: 2020
+
+- authors:
   - Fernando Fraternali
   - Nicola Stehling
   - Ada Amendola
