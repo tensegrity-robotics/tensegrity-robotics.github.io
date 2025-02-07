@@ -25,6 +25,10 @@ Tensegrity structures are therefore a compelling and versatile platform with whi
 
 This will be the fifth workshop in a [series](https://tensegrity-robotics.github.io/prior_workshops) dating back to RoboSoft 2018 in Livorno, Italy.  This year, we are deviating from the traditional workshop  format to provide a more engaging forum for participants with the aim of  celebrating the interdisciplinary nature of tensegrity research and broadening participation in the field.
 
+## Call for Contributions
+
+We are calling for participants to contribute poster presentations and live demonstrations at the workshop. We encourage participants to present live demos if possible! Submissions do not need to specifically focus on tensegrity robots, but they should be of interest to the tensegrity robotics community. Those interested should submit a one-page abstract in IEEE conference format using [this form](https://forms.gle/uktxD1Uq1vh1HaVz6). Templates are available for download at the [IEEE Template Selector](https://template-selector.ieee.org/). You may also include a link to supplementary materials (e.g., videos). The submission deadline is Sunday, March 23, 2025 AoE.  All participants will be invited to a future special issue on tensegrity robotics.
+
 Specific topics include (but are not limited to):
 
 * Tensegrity-based soft robots
@@ -38,21 +42,11 @@ Specific topics include (but are not limited to):
 * Applications of tensegrity robots
 * Tensegrity structures in biological system
 
-Schedule (all times GMT+1)
+## Schedule (all times GMT+1)
 
 * Breakout Working Groups
 * Working Groups Read-Outs
 * Student Spotlight Session
- 
-
-POSTER GUIDELINES:
-
-Please respect A0 poster size in portrait orientation (841x1189mm) for your poster.
-Paper Details:
-
-All participants will be invited to a future Journal Special Issue on tensegrity robotics.
-
-Submissions can be sent to the workshop chair,  rieffelj@union.edu.
 
 Direct all correspondence to John Rieffel (rieffelj@union.edu)
 
