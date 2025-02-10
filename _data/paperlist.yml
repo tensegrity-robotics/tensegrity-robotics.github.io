@@ -1,5 +1,52 @@
 papers:
 
+- abstract: 'Tensegrity robots, characterized by a synergistic assembly of rigid rods
+    and
+
+    elastic cables, form robust structures that are resistant to impacts. However,
+
+    this design introduces complexities in kinematics and dynamics, complicating
+
+    control and state estimation. This work presents a novel proprioceptive state
+
+    estimator for tensegrity robots. The estimator initially uses the geometric
+
+    constraints of 3-bar prism tensegrity structures, combined with IMU and motor
+
+    encoder measurements, to reconstruct the robot''s shape and orientation. It then
+
+    employs a contact-aided invariant extended Kalman filter with forward
+
+    kinematics to estimate the global position and orientation of the tensegrity
+
+    robot. The state estimator''s accuracy is assessed against ground truth data in
+
+    both simulated environments and real-world tensegrity robot applications. It
+
+    achieves an average drift percentage of 4.2%, comparable to the state
+
+    estimation performance of traditional rigid robots. This state estimator
+
+    advances the state of the art in tensegrity robot state estimation and has the
+
+    potential to run in real-time using onboard sensors, paving the way for full
+
+    autonomy of tensegrity robots in unstructured environments.'
+  authors:
+  - Wenzhe Tong
+  - Tzu-Yuan Lin
+  - Jonathan Mi
+  - Yicheng Jiang
+  - Maani Ghaffari
+  - Xiaonan Huang
+  bibtex: "@article{Tong2024Tensegrity,\n\ttitle={Tensegrity Robot Proprioceptive\
+    \ State Estimation with Geometric Constraints},\n\tauthor={Tong, Wenzhe and Lin,\
+    \ Tzu-Yuan and Mi, Jonathan and Jiang, Yicheng and Ghaffari, Maani and Huang,\
+    \ Xiaonan},\n\tjournal={arXiv preprint arXiv:2410.24226v1},\n\tyear={2024} }"
+  pdfurl: http://arxiv.org/pdf/2410.24226v1
+  title: Tensegrity Robot Proprioceptive State Estimation with Geometric Constraints
+  year: 2024
+
 - authors:
   - Xu Yin
   - Zhi-Ying Gao
