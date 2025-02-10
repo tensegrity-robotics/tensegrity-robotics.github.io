@@ -1,5 +1,46 @@
 papers:
 
+- abstract: 'Tensegrity robots excel in tasks requiring extreme levels of deformability
+
+    and robustness. However, there are challenges in state estimation and payload
+
+    versatility due to their high number of degrees of freedom and unconventional
+
+    shape. This paper introduces a modular three-bar tensegrity robot featuring a
+
+    customizable payload design. Our tensegrity robot employs a novel Quasi-Direct
+
+    Drive (QDD) cable actuator paired with low-stretch polymer cables to achieve
+
+    accurate proprioception without the need for external force or torque sensors.
+
+    The design allows for on-the-fly stiffness tuning for better environment and
+
+    payload adaptability. In this paper, we present the design, fabrication,
+
+    assembly, and experimental results of the robot. Experimental data demonstrates
+
+    the high accuracy cable length estimation (<1% error relative to bar length)
+
+    and variable stiffness control of the cable actuator up to 7 times the minimum
+
+    stiffness for self support. The presented tensegrity robot serves as a platform
+
+    for future advancements in autonomous operation and open-source module design.'
+  authors:
+  - Jonathan Mi
+  - Wenzhe Tong
+  - Yilin Ma
+  - Xiaonan Huang
+  bibtex: "@article{Mi2024Design,\n\ttitle={Design of a Variable Stiffness Quasi-Direct\
+    \ Drive Cable-Actuated Tensegrity Robot},\n\tauthor={Mi, Jonathan and Tong, Wenzhe\
+    \ and Ma, Yilin and Huang, Xiaonan},\n\tjournal={arXiv preprint arXiv:2409.05751v1},\n\
+    \tyear={2024} }"
+  pdfurl: http://arxiv.org/pdf/2409.05751v1
+  title: Design of a Variable Stiffness Quasi-Direct Drive Cable-Actuated Tensegrity
+    Robot
+  year: 2024
+
 - abstract: 'Tensegrity robots, characterized by a synergistic assembly of rigid rods
     and
 
