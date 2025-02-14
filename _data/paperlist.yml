@@ -1,5 +1,49 @@
 papers:
 
+- abstract: 'The topology and form finding of tensegrity structures have been studied
+
+    extensively since the introduction of the tensegrity concept. However, most of
+
+    these studies address topology and form separately, where the former
+
+    represented a research focus of rigidity theory and graph theory, while the
+
+    latter attracted the attention of structural engineers. In this paper, a
+
+    biomimetic approach for the combined topology and form finding of spatial
+
+    tensegrity systems is introduced. Tensegrity cells, elementary infinitesimally
+
+    rigid self-stressed structures that have been proven to compose any tensegrity,
+
+    are used to generate more complex tensegrity structures through the
+
+    morphogenesis mechanisms of adhesion and fusion. A methodology for constructing
+
+    a basis to describe the self-stress space is also provided. Through the
+
+    definition of self-stress, the cellular morphogenesis method can integrate
+
+    design considerations, such as a desired shape or number of nodes and members,
+
+    providing great flexibility and control over the tensegrity structure
+
+    generated.'
+  authors:
+  - Omar Aloui
+  - Jessica Flores
+  - David Orden
+  - Landolf Rhode-Barbarigos
+  bibtex: " @article{Aloui_2019, title={Cellular morphogenesis of three-dimensional\
+    \ tensegrity structures}, volume={346}, ISSN={0045-7825}, url={http://dx.doi.org/10.1016/j.cma.2018.10.048},\
+    \ DOI={10.1016/j.cma.2018.10.048}, journal={Computer Methods in Applied Mechanics\
+    \ and Engineering}, publisher={Elsevier BV}, author={Aloui, Omar and Flores, Jessica\
+    \ and Orden, David and Rhode-Barbarigos, Landolf}, year={2019}, month=apr, pages={85\u2013\
+    108} }\n"
+  pdfurl: http://arxiv.org/pdf/1902.09953v1
+  title: Cellular morphogenesis of three-dimensional tensegrity structures
+  year: 2019
+
 - authors:
   - Kirsti Pajunen
   - Paul Johanns
