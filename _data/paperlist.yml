@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Raman Goyal
+  - Edwin A Peraza Hernandez
+  - Robert E Skelton
+  bibtex: " @article{Goyal_2019, title={Analytical study of tensegrity lattices for\
+    \ mass-efficient mechanical energy absorption}, volume={34}, ISSN={2059-8033},\
+    \ url={http://dx.doi.org/10.1177/0956059919845330}, DOI={10.1177/0956059919845330},\
+    \ number={1\u20132}, journal={International Journal of Space Structures}, publisher={SAGE\
+    \ Publications}, author={Goyal, Raman and Peraza Hernandez, Edwin A and Skelton,\
+    \ Robert E}, year={2019}, month=mar, pages={3\u201321} }\n"
+  pdfurl: https://doi.org/10.1177/0956059919845330
+  title: Analytical study of tensegrity lattices for mass-efficient mechanical energy
+    absorption
+  year: 2019
+
+- authors:
   - Matthieu Furet
   - Philippe Wenger
   bibtex: ' @article{Furet_2019, title={Kinetostatic Analysis and Actuation Strategy
