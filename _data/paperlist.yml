@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Matthieu Furet
+  - Anders van Riesen
+  - Christine Chevallereau
+  - Philippe Wenger
+  bibtex: " @inbook{Furet_2018, title={Optimal Design of Tensegrity Mechanisms Used\
+    \ in a Bird Neck Model}, ISBN={9783319980201}, ISSN={2211-0992}, url={http://dx.doi.org/10.1007/978-3-319-98020-1_43},\
+    \ DOI={10.1007/978-3-319-98020-1_43}, booktitle={EuCoMeS 2018}, publisher={Springer\
+    \ International Publishing}, author={Furet, Matthieu and van Riesen, Anders and\
+    \ Chevallereau, Christine and Wenger, Philippe}, year={2018}, month=aug, pages={365\u2013\
+    375} }\n"
+  pdfurl: https://doi.org/10.1007/978-3-319-98020-1_43
+  title: Optimal Design of Tensegrity Mechanisms Used in a Bird Neck Model
+  year: 2018
+
+- authors:
   - Jonathan Kimber
   - Zongliang Ji
   - Aikaterini Petridou
