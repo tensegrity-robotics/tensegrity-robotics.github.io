@@ -1,6 +1,23 @@
 papers:
 
 - authors:
+  - Swaminath Venkateswaran
+  - Matthieu Furet
+  - Damien Chablat
+  - Philippe Wenger
+  bibtex: ' @inproceedings{Venkateswaran_2019, series={IDETC-CIE2019}, title={Design
+    and Analysis of a Tensegrity Mechanism for a Bio-Inspired Robot}, url={http://dx.doi.org/10.1115/detc2019-97544},
+    DOI={10.1115/detc2019-97544}, booktitle={Volume 5A: 43rd Mechanisms and Robotics
+    Conference}, publisher={American Society of Mechanical Engineers}, author={Venkateswaran,
+    Swaminath and Furet, Matthieu and Chablat, Damien and Wenger, Philippe}, year={2019},
+    month=aug, collection={IDETC-CIE2019} }
+
+    '
+  pdfurl: https://doi.org/10.1115/detc2019-97544
+  title: Design and Analysis of a Tensegrity Mechanism for a Bio-Inspired Robot
+  year: 2019
+
+- authors:
   - Denis Fadeyev
   - Altay Zhakatayev
   - Askat Kuzdeuov
