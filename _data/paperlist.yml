@@ -1,6 +1,23 @@
 papers:
 
 - authors:
+  - Kirsti Pajunen
+  - Paul Johanns
+  - Raj Kumar Pal
+  - Julian J. Rimoli
+  - Chiara Daraio
+  bibtex: ' @article{Pajunen_2019, title={Design and impact response of 3D-printable
+    tensegrity-inspired structures}, volume={182}, ISSN={0264-1275}, url={http://dx.doi.org/10.1016/j.matdes.2019.107966},
+    DOI={10.1016/j.matdes.2019.107966}, journal={Materials &amp; Design}, publisher={Elsevier
+    BV}, author={Pajunen, Kirsti and Johanns, Paul and Pal, Raj Kumar and Rimoli,
+    Julian J. and Daraio, Chiara}, year={2019}, month=nov, pages={107966} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.matdes.2019.107966
+  title: Design and impact response of 3D-printable tensegrity-inspired structures
+  year: 2019
+
+- authors:
   - Xu Yin
   - Zhi-Ying Gao
   - Shuai Zhang
