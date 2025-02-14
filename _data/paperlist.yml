@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Denis Fadeyev
+  - Altay Zhakatayev
+  - Askat Kuzdeuov
+  - Huseyin Atakan Varol
+  bibtex: " @article{Fadeyev_2019, title={Generalized Dynamics of Stacked Tensegrity\
+    \ Manipulators}, volume={7}, ISSN={2169-3536}, url={http://dx.doi.org/10.1109/access.2019.2916681},\
+    \ DOI={10.1109/access.2019.2916681}, journal={IEEE Access}, publisher={Institute\
+    \ of Electrical and Electronics Engineers (IEEE)}, author={Fadeyev, Denis and\
+    \ Zhakatayev, Altay and Kuzdeuov, Askat and Varol, Huseyin Atakan}, year={2019},\
+    \ pages={63472\u201363484} }\n"
+  pdfurl: https://doi.org/10.1109/access.2019.2916681
+  title: Generalized Dynamics of Stacked Tensegrity Manipulators
+  year: 2019
+
+- authors:
   - Jianwei Sun
   - Guangsheng Song
   - Jinkui Chu
