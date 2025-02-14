@@ -1,6 +1,25 @@
 papers:
 
 - authors:
+  - Jonathan Kimber
+  - Zongliang Ji
+  - Aikaterini Petridou
+  - Thomas Sipple
+  - Kentaro Barhydt
+  - James Boggs
+  - Luke Dosiek
+  - John Rieffel
+  bibtex: " @inproceedings{Kimber_2019, title={Low-Cost Wireless Modular Soft Tensegrity\
+    \ Robots}, url={http://dx.doi.org/10.1109/robosoft.2019.8722723}, DOI={10.1109/robosoft.2019.8722723},\
+    \ booktitle={2019 2nd IEEE International Conference on Soft Robotics (RoboSoft)},\
+    \ publisher={IEEE}, author={Kimber, Jonathan and Ji, Zongliang and Petridou, Aikaterini\
+    \ and Sipple, Thomas and Barhydt, Kentaro and Boggs, James and Dosiek, Luke and\
+    \ Rieffel, John}, year={2019}, month=apr, pages={88\u201393} }\n"
+  pdfurl: https://doi.org/10.1109/robosoft.2019.8722723
+  title: Low-Cost Wireless Modular Soft Tensegrity Robots
+  year: 2019
+
+- authors:
   - Anders van Riesen
   - Matthieu Furet
   - Christine Chevallereau
