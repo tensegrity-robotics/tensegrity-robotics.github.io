@@ -1,6 +1,20 @@
 papers:
 
 - authors:
+  - Jianwei Sun
+  - Guangsheng Song
+  - Jinkui Chu
+  - Luquan Ren
+  bibtex: " @article{Sun_2019, title={An Adaptive Bioinspired Foot Mechanism Based\
+    \ on Tensegrity Structures}, volume={6}, ISSN={2169-5180}, url={http://dx.doi.org/10.1089/soro.2018.0168},\
+    \ DOI={10.1089/soro.2018.0168}, number={6}, journal={Soft Robotics}, publisher={Mary\
+    \ Ann Liebert Inc}, author={Sun, Jianwei and Song, Guangsheng and Chu, Jinkui\
+    \ and Ren, Luquan}, year={2019}, month=dec, pages={778\u2013789} }\n"
+  pdfurl: https://doi.org/10.1089/soro.2018.0168
+  title: An Adaptive Bioinspired Foot Mechanism Based on Tensegrity Structures
+  year: 2019
+
+- authors:
   - Bingxing Chen
   - Hongzhou Jiang
   bibtex: " @article{Chen_2019, title={Swimming Performance of a Tensegrity Robotic\
