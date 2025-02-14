@@ -1,6 +1,21 @@
 papers:
 
 - authors:
+  - Anders van Riesen
+  - Matthieu Furet
+  - Christine Chevallereau
+  - Philippe Wenger
+  bibtex: " @inbook{van_Riesen_2018, title={Dynamic Analysis and Control of an Antagonistically\
+    \ Actuated Tensegrity Mechanism}, ISBN={9783319789637}, ISSN={2309-3706}, url={http://dx.doi.org/10.1007/978-3-319-78963-7_60},\
+    \ DOI={10.1007/978-3-319-78963-7_60}, booktitle={ROMANSY 22 \u2013 Robot Design,\
+    \ Dynamics and Control}, publisher={Springer International Publishing}, author={van\
+    \ Riesen, Anders and Furet, Matthieu and Chevallereau, Christine and Wenger, Philippe},\
+    \ year={2018}, month=may, pages={481\u2013490} }\n"
+  pdfurl: https://doi.org/10.1007/978-3-319-78963-7_60
+  title: Dynamic Analysis and Control of an Antagonistically Actuated Tensegrity Mechanism
+  year: 2018
+
+- authors:
   - Raman Goyal
   - Edwin A Peraza Hernandez
   - Robert E Skelton
