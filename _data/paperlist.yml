@@ -1,5 +1,17 @@
 papers:
 
+- authors:
+  - Bingxing Chen
+  - Hongzhou Jiang
+  bibtex: " @article{Chen_2019, title={Swimming Performance of a Tensegrity Robotic\
+    \ Fish}, volume={6}, ISSN={2169-5180}, url={http://dx.doi.org/10.1089/soro.2018.0079},\
+    \ DOI={10.1089/soro.2018.0079}, number={4}, journal={Soft Robotics}, publisher={Mary\
+    \ Ann Liebert Inc}, author={Chen, Bingxing and Jiang, Hongzhou}, year={2019},\
+    \ month=aug, pages={520\u2013531} }\n"
+  pdfurl: https://doi.org/10.1089/soro.2018.0079
+  title: Swimming Performance of a Tensegrity Robotic Fish
+  year: 2019
+
 - abstract: 'The topology and form finding of tensegrity structures have been studied
 
     extensively since the introduction of the tensegrity concept. However, most of
