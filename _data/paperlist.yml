@@ -1,5 +1,45 @@
 papers:
 
+- abstract: 'This paper presents a novel application of tensegrity systems as lightweight
+
+    and noninvasive braces for seismically resistant structures. The analyzed
+
+    braces consist of D-bar systems equipped with shape memory alloy cables with
+
+    superelastic response. These structures are able to markedly amplify the
+
+    applied longitudinal displacements in the transverse direction, thus allowing
+
+    for considerably large deformations of the SMA cables and high energy
+
+    dissipation. The mechanics and the application of tensegrity braces for the
+
+    reinforcement of anti-seismic structures are presented. A comparative study
+
+    matches the seismic response of the analyzed systems with that of devices
+
+    employing fluid viscous dampers. The results highlight the fact that D-bar
+
+    units can be profitably employed as building blocks for innovative bracing
+
+    systems, whose energy dissipation properties can easily surpass those of
+
+    conventional anti-seismic braces.'
+  authors:
+  - Fernando Fraternali
+  - Filipe Santos
+  bibtex: ' @article{Fraternali_2019, title={Mechanical modeling of superelastic tensegrity
+    braces for earthquake-proof structures}, volume={33}, ISSN={2352-4316}, url={http://dx.doi.org/10.1016/j.eml.2019.100578},
+    DOI={10.1016/j.eml.2019.100578}, journal={Extreme Mechanics Letters}, publisher={Elsevier
+    BV}, author={Fraternali, F. and Santos, F.}, year={2019}, month=nov, pages={100578}
+    }
+
+    '
+  pdfurl: http://arxiv.org/pdf/1910.07080v1
+  title: Mechanical modeling of superelastic tensegrity braces for earthquake-proof
+    structures
+  year: 2019
+
 - authors:
   - Matthieu Furet
   - Anders van Riesen
