@@ -1,6 +1,20 @@
 papers:
 
 - authors:
+  - Matthieu Furet
+  - Philippe Wenger
+  bibtex: ' @article{Furet_2019, title={Kinetostatic Analysis and Actuation Strategy
+    of a Planar Tensegrity 2-X Manipulator}, volume={11}, ISSN={1942-4310}, url={http://dx.doi.org/10.1115/1.4044209},
+    DOI={10.1115/1.4044209}, number={6}, journal={Journal of Mechanisms and Robotics},
+    publisher={ASME International}, author={Furet, Matthieu and Wenger, Philippe},
+    year={2019}, month=sep }
+
+    '
+  pdfurl: https://doi.org/10.1115/1.4044209
+  title: Kinetostatic Analysis and Actuation Strategy of a Planar Tensegrity 2-X Manipulator
+  year: 2019
+
+- authors:
   - Swaminath Venkateswaran
   - Matthieu Furet
   - Damien Chablat
