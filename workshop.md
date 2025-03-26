@@ -25,9 +25,9 @@ Tensegrity structures are therefore a compelling and versatile platform with whi
 
 This will be the fifth workshop in a [series](https://tensegrity-robotics.github.io/prior_workshops) dating back to RoboSoft 2018 in Livorno, Italy.  This year, we are deviating from the traditional workshop  format to provide a more engaging forum for participants with the aim of  celebrating the interdisciplinary nature of tensegrity research and broadening participation in the field.
 
-## Call for Contributions
+## Call for Contributions \[DEADLINE EXTENDED\]
 
-We are calling for participants to contribute poster presentations and live demonstrations at the workshop. We encourage participants to present live demos if possible! Submissions do not need to specifically focus on tensegrity robots, but they should be of interest to the tensegrity robotics community. Those interested should submit a one-page abstract in IEEE conference format using [this form](https://forms.gle/uktxD1Uq1vh1HaVz6). Templates are available for download at the [IEEE Template Selector](https://template-selector.ieee.org/). You may also include a link to supplementary materials (e.g., videos). The submission deadline is Sunday, March 23, 2025 AoE.  All participants will be invited to a future special issue on tensegrity robotics.
+We are calling for participants to contribute poster presentations and live demonstrations at the workshop. We encourage participants to present live demos if possible! Submissions do not need to specifically focus on tensegrity robots, but they should be of interest to the tensegrity robotics community. Those interested should submit a one-page abstract in IEEE conference format using [this form](https://forms.gle/uktxD1Uq1vh1HaVz6). Templates are available for download at the [IEEE Template Selector](https://template-selector.ieee.org/). You may also include a link to supplementary materials (e.g., videos). The submission deadline is Wednesday, April 9, 2025 AoE.  All participants will be invited to a future special issue on tensegrity robotics.
 
 Specific topics include (but are not limited to):
 
@@ -44,9 +44,16 @@ Specific topics include (but are not limited to):
 
 ## Schedule (all times GMT+1)
 
-* Breakout Working Groups
-* Working Groups Read-Outs
-* Student Spotlight Session
+* 09:00 - Opening Remarks
+* 09:15 - Invited Talks
+* 11:00 - Live Demos + Coffee Break
+* 11:30 - Breakout Discussion: Tensegrity Applications
+* 13:00 - Lunch
+* 14:00 - Scrum share-out from breakout discussion
+* 14:15 - Invited Talks 
+* 15:30 - Poster Session + Coffee Break
+* 16:00 - Breakout Discussion: Grand Challenges
+* 17:00 - Panel Discussion
 
 Direct all correspondence to John Rieffel (rieffelj@union.edu)
 
