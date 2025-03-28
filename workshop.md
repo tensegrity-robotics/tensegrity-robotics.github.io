@@ -42,7 +42,7 @@ Specific topics include (but are not limited to):
 * Applications of tensegrity robots
 * Tensegrity structures in biological system
 
-## Schedule (all times GMT+1)
+## Schedule (all times UTC+2)
 
 * 09:00 - Opening Remarks
 * 09:15 - Invited Talks
