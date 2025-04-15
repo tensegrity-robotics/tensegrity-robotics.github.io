@@ -46,19 +46,19 @@ Specific topics include (but are not limited to):
 
 * 09:00 - Opening Remarks
 * 09:15 - Invited Talks
-	* Ryota Kobayashi ***Stretchable McKibben Muscles and Their Application to Tensegrity Robots***
-	* David Herrmann ***Compliant tensegrity structures in soft robotics - selected applications***
-	* Xiaonan Huang ***Towards Autonomous Tensegrity Robots***
-	* Roxane Vimbert ***Tensegrity to explain the postural balance of birds***
-	* Jan Petrs ***Tensegrity robotics: Challenges and visions for larger scales and walking robots***
+	* **Ryota Kobayashi** *Stretchable McKibben Muscles and Their Application to Tensegrity Robots*
+	* **David Herrmann** *Compliant tensegrity structures in soft robotics - selected applications*
+	* **Xiaonan Huang** *Towards Autonomous Tensegrity Robots*
+	* **Roxane Vimbert** *Tensegrity to explain the postural balance of birds*
+	* **Jan Petrs** *Tensegrity robotics: Challenges and visions for larger scales and walking robots*
 * 11:00 - Live Demos + Coffee Break
 * 11:30 - Breakout Discussion: Tensegrity Applications
 * 13:00 - Lunch
 * 14:00 - Scrum share-out from breakout discussion
 * 14:15 - Invited Talks
-	* Patrick Meng ***Demonstrating an Open-source, Reproducible System for Tensegrity Navigation among Obstacles***
-	* Luyang Zhao ***Soft Modular Robots: From Modular Tensegrity Structures to Bioinspired Robots***
-	* Lauren Ervin ***Geometric Static Modeling Framework for Piecewise-Continuous Curved-Link Multi Point-of-Contact Tensegrity Robots***
+	* **Patrick Meng** *Demonstrating an Open-source, Reproducible System for Tensegrity Navigation among Obstacles*
+	* **Luyang Zhao** *Soft Modular Robots: From Modular Tensegrity Structures to Bioinspired Robots*
+	* **Lauren Ervin** *Geometric Static Modeling Framework for Piecewise-Continuous Curved-Link Multi Point-of-Contact Tensegrity Robots*
 * 15:30 - Poster Session + Coffee Break
 * 16:00 - Breakout Discussion: Grand Challenges
 * 17:00 - Panel Discussion
