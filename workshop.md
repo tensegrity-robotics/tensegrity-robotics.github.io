@@ -46,19 +46,20 @@ Specific topics include (but are not limited to):
 
 * 09:00 - Opening Remarks
 * 09:15 - Invited Talks
-	* **Ryota Kobayashi** *Stretchable McKibben Muscles and Their Application to Tensegrity Robots*
-	* **David Herrmann** *Compliant tensegrity structures in soft robotics - selected applications*
-	* **Xiaonan Huang** *Towards Autonomous Tensegrity Robots*
-	* **Roxane Vimbert** *Tensegrity to explain the postural balance of birds*
-	* **Jan Petrs** *Tensegrity robotics: Challenges and visions for larger scales and walking robots*
+	* 09:20 - **Ryota Kobayashi** *Stretchable McKibben Muscles and Their Application to Tensegrity Robots*
+	* 09:40 - **David Herrmann** *Compliant tensegrity structures in soft robotics - selected applications*
+	* 10:00 - **Xiaonan Huang** *Towards Autonomous Tensegrity Robots*
+	* 10:20 - **Roxane Vimbert** *Tensegrity to explain the postural balance of birds*
+	* 10:40 - **Jan Petrs** *Tensegrity robotics: Challenges and visions for larger scales and walking robots*
 * 11:00 - Live Demos + Coffee Break
 * 11:30 - Breakout Discussion: Tensegrity Applications
 * 13:00 - Lunch
 * 14:00 - Scrum share-out from breakout discussion
 * 14:15 - Invited Talks
-	* **Patrick Meng** *Demonstrating an Open-source, Reproducible System for Tensegrity Navigation among Obstacles*
-	* **Luyang Zhao** *Soft Modular Robots: From Modular Tensegrity Structures to Bioinspired Robots*
-	* **Lauren Ervin** *Geometric Static Modeling Framework for Piecewise-Continuous Curved-Link Multi Point-of-Contact Tensegrity Robots*
+	* 14:20 - **Patrick Meng** *Demonstrating an Open-source, Reproducible System for Tensegrity Navigation among Obstacles*
+	* 14:40 - **Luyang Zhao** *Soft Modular Robots: From Modular Tensegrity Structures to Bioinspired Robots*
+	* 15:00 - **Lauren Ervin** *Geometric Static Modeling Framework for Piecewise-Continuous Curved-Link Multi Point-of-Contact Tensegrity Robots*
+	* 15:20 - Poster Spotlight Talks
 * 15:30 - Poster Session + Coffee Break
 * 16:00 - Breakout Discussion: Grand Challenges
 * 17:00 - Panel Discussion
