@@ -60,8 +60,7 @@ Specific topics include (but are not limited to):
 	* 14:20 - **Patrick Meng** *Demonstrating an Open-source, Reproducible System for Tensegrity Navigation among Obstacles*
 	* 14:40 - **Luyang Zhao** *Soft Modular Robots: From Modular Tensegrity Structures to Bioinspired Robots*
 	* 15:00 - **Lauren Ervin** *Geometric Static Modeling Framework for Piecewise-Continuous Curved-Link Multi Point-of-Contact Tensegrity Robots*
-	* 15:20 - Poster Spotlight Talks
-* 15:30 - Poster Session + Coffee Break
+* 15:20 - Poster Session + Coffee Break at 15:30
 * 16:00 - Breakout Discussion: Grand Challenges
 * 17:00 - Panel Discussion
 
