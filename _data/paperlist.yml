@@ -1,5 +1,29 @@
 papers:
 
+- authors:
+  - Bingxing Chen
+  - Zhiyu He
+  - Fang Ye
+  - Yi Yang
+  - Wenhu Chen
+  - Fuhui Ding
+  - Dan Gao
+  - Yi Zhao
+  - Zongxing Lu
+  - Chao Jia
+  bibtex: ' @article{Chen_2025, title={Untethered Miniature Tensegrity Robot with
+    Tunable Stiffness for High-Speed and Adaptive Locomotion}, ISSN={2169-5180}, url={http://dx.doi.org/10.1089/soro.2024.0178},
+    DOI={10.1089/soro.2024.0178}, journal={Soft Robotics}, publisher={Mary Ann Liebert
+    Inc}, author={Chen, Bingxing and He, Zhiyu and Ye, Fang and Yang, Yi and Chen,
+    Wenhu and Ding, Fuhui and Gao, Dan and Zhao, Yi and Lu, Zongxing and Jia, Chao},
+    year={2025}, month=apr }
+
+    '
+  pdfurl: https://doi.org/10.1089/soro.2024.0178
+  title: Untethered Miniature Tensegrity Robot with Tunable Stiffness for High-Speed
+    and Adaptive Locomotion
+  year: 2025
+
 - abstract: 'Tensegrity robots excel in tasks requiring extreme levels of deformability
 
     and robustness. However, there are challenges in state estimation and payload
