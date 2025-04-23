@@ -1,5 +1,50 @@
 papers:
 
+- abstract: 'Tensegrity structures are becoming widely used in robotics, such as
+
+    continuously bending soft manipulators and mobile robots to explore unknown and
+
+    uneven environments dynamically. Estimating their shape, which is the
+
+    foundation of their state, is essential for establishing control. However,
+
+    on-board sensor-based shape estimation remains difficult despite its
+
+    importance, because tensegrity structures lack well-defined joints, which makes
+
+    it challenging to use conventional angle sensors such as potentiometers or
+
+    encoders for shape estimation. To our knowledge, no existing work has
+
+    successfully achieved shape estimation using only onboard sensors such as
+
+    Inertial Measurement Units (IMUs). This study addresses this issue by proposing
+
+    a novel approach that uses energy minimization to estimate the shape. We
+
+    validated our method through experiments on a simple Class 1 tensegrity
+
+    structure, and the results show that the proposed algorithm can estimate the
+
+    real-time shape of the structure using onboard sensors, even in the presence of
+
+    external disturbances.'
+  authors:
+  - Tufail Ahmad Bhat
+  - Yuhei Yoshimitsu
+  - Kazuki Wada
+  - Shuhei Ikemoto
+  bibtex: " @article{Bhat_2025, title={Real-Time Shape Estimation of Tensegrity Structures\
+    \ Using Strut Inclination Angles}, volume={10}, ISSN={2377-3774}, url={http://dx.doi.org/10.1109/lra.2025.3558704},\
+    \ DOI={10.1109/lra.2025.3558704}, number={6}, journal={IEEE Robotics and Automation\
+    \ Letters}, publisher={Institute of Electrical and Electronics Engineers (IEEE)},\
+    \ author={Bhat, Tufail Ahmad and Yoshimitsu, Yuhei and Wada, Kazuki and Ikemoto,\
+    \ Shuhei}, year={2025}, month=jun, pages={5281\u20135288} }\n"
+  pdfurl: http://arxiv.org/pdf/2504.11868v1
+  title: Real-Time Shape Estimation of Tensegrity Structures Using Strut Inclination
+    Angles
+  year: 2025
+
 - authors:
   - Bingxing Chen
   - Zhiyu He
