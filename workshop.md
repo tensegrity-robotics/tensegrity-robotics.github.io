@@ -1,10 +1,9 @@
 #  Tensegrity Workshop 2025
 
 
-
 # RoboSoft 2025 - Lausanne Switzerland 
 
- 
+ ![a group photo of the attendees at the tensegrity workshop 2025 in Lausanne, Switzerland](img/tensegrity_workshop_2025.jpg)
 
 ## Organizers:
 
