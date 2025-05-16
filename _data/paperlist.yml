@@ -1,6 +1,19 @@
 papers:
 
 - authors:
+  - William R. Johnson
+  - Rebecca Kramer-Bottiglio
+  bibtex: ' @article{Johnson_2024, title={Robots that Can Survive the Egg Drop}, volume={12},
+    ISSN={2296-6846}, url={http://dx.doi.org/10.3389/frym.2024.1452937}, DOI={10.3389/frym.2024.1452937},
+    journal={Frontiers for Young Minds}, publisher={Frontiers Media SA}, author={Johnson,
+    William R. and Kramer-Bottiglio, Rebecca}, year={2024}, month=nov }
+
+    '
+  pdfurl: https://doi.org/10.3389/frym.2024.1452937
+  title: Robots that Can Survive the Egg Drop
+  year: 2024
+
+- authors:
   - Xiaodong Feng
   - Ji Xu
   - Jingyao Zhang
