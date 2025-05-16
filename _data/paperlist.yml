@@ -1,6 +1,27 @@
 papers:
 
 - authors:
+  - Xiaodong Feng
+  - Ji Xu
+  - Jingyao Zhang
+  - Makoto Ohsaki
+  - Yang Zhao
+  - Yaozhi Luo
+  - Yao Chen
+  - Xian Xu
+  bibtex: " @article{Feng_2024, title={Trajectory Planning on Rolling Locomotion of\
+    \ Spherical Movable Tensegrity Robots with Multi-Gait Patterns}, volume={11},\
+    \ ISSN={2169-5180}, url={http://dx.doi.org/10.1089/soro.2023.0103}, DOI={10.1089/soro.2023.0103},\
+    \ number={5}, journal={Soft Robotics}, publisher={Mary Ann Liebert Inc}, author={Feng,\
+    \ Xiaodong and Xu, Ji and Zhang, Jingyao and Ohsaki, Makoto and Zhao, Yang and\
+    \ Luo, Yaozhi and Chen, Yao and Xu, Xian}, year={2024}, month=oct, pages={725\u2013\
+    740} }\n"
+  pdfurl: https://doi.org/10.1089/soro.2023.0103
+  title: Trajectory Planning on Rolling Locomotion of Spherical Movable Tensegrity
+    Robots with Multi-Gait Patterns
+  year: 2024
+
+- authors:
   - Julian Kunze
   - David Herrmann
   - Julian Kobes
