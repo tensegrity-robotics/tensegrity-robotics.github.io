@@ -1,5 +1,26 @@
 papers:
 
+- authors:
+  - Julian Kunze
+  - David Herrmann
+  - Julian Kobes
+  - Paul Motzki
+  - Stefan Seelecke
+  - Gianluca Rizzello
+  - "Valter B\xF6hm"
+  bibtex: " @inproceedings{Kunze_2025, title={A tensegrity-based locomoting soft robot\
+    \ actuated by rolled dielectric elastomer transducers}, url={http://dx.doi.org/10.1117/12.3051438},\
+    \ DOI={10.1117/12.3051438}, booktitle={Electroactive Polymer Actuators, Sensors,\
+    \ and Devices (EAPAD) 2025}, publisher={SPIE}, author={Kunze, Julian and Herrmann,\
+    \ David and Kobes, Julian and Motzki, Paul and Seelecke, Stefan and Rizzello,\
+    \ Gianluca and B\xF6hm, Valter}, editor={Madden, John D. and Skov, Anne L. and\
+    \ Seelecke, Stefan S. and Takagi, Kentaro}, year={2025}, month=may, pages={6}\
+    \ }\n"
+  pdfurl: https://doi.org/10.1117/12.3051438
+  title: A tensegrity-based locomoting soft robot actuated by rolled dielectric elastomer
+    transducers
+  year: 2025
+
 - abstract: 'Tensegrity structures are becoming widely used in robotics, such as
 
     continuously bending soft manipulators and mobile robots to explore unknown and
