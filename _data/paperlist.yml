@@ -1,5 +1,58 @@
 papers:
 
+- abstract: 'Tensegrity robots are composed of rigid struts and flexible cables. They
+
+    constitute an emerging class of hybrid rigid-soft robotic systems and are
+
+    promising systems for a wide array of applications, ranging from locomotion to
+
+    assembly. They are difficult to control and model accurately, however, due to
+
+    their compliance and high number of degrees of freedom. To address this issue,
+
+    prior work has introduced a differentiable physics engine designed for
+
+    tensegrity robots based on first principles. In contrast, this work proposes
+
+    the use of graph neural networks to model contact dynamics over a graph
+
+    representation of tensegrity robots, which leverages their natural graph-like
+
+    cable connectivity between end caps of rigid rods. This learned simulator can
+
+    accurately model 3-bar and 6-bar tensegrity robot dynamics in
+
+    simulation-to-simulation experiments where MuJoCo is used as the ground truth.
+
+    It can also achieve higher accuracy than the previous differentiable engine for
+
+    a real 3-bar tensegrity robot, for which the robot state is only partially
+
+    observable. When compared against direct applications of recent mesh-based
+
+    graph neural network simulators, the proposed approach is computationally more
+
+    efficient, both for training and inference, while achieving higher accuracy.
+
+    Code and data are available at
+
+    https://github.com/nchen9191/tensegrity_gnn_simulator_public'
+  authors:
+  - Nelson Chen
+  - Kun Wang
+  - William R. Johnson III
+  - Rebecca Kramer-Bottiglio
+  - Kostas Bekris
+  - Mridul Aanjaneya
+  bibtex: "@article{Chen2024Learning,\n\ttitle={Learning Differentiable Tensegrity\
+    \ Dynamics using Graph Neural Networks},\n\tauthor={Chen, Nelson and Wang, Kun\
+    \ and R. Johnson III, William and Kramer-Bottiglio, Rebecca and Bekris, Kostas\
+    \ and Aanjaneya, Mridul},\n\tjournal={arXiv preprint arXiv:2410.12216v1},\n\t\
+    year={2024} }"
+  pdfurl: http://arxiv.org/pdf/2410.12216v1
+  title: Learning Differentiable Tensegrity Dynamics using Graph Neural Networks
+  year: 2024
+
 - authors:
   - William R. Johnson
   - Rebecca Kramer-Bottiglio
