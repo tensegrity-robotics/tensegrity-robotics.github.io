@@ -1,5 +1,19 @@
 papers:
 
+- authors:
+  - Xiaonan Huang
+  - William R. Johnson
+  - Joran Booth
+  - Rebecca Kramer-Bottiglio
+  bibtex: " @inproceedings{Huang_2022, title={Live Demonstration: Tensegrity State\
+    \ Estimation}, url={http://dx.doi.org/10.1109/sensors52175.2022.9967005}, DOI={10.1109/sensors52175.2022.9967005},\
+    \ booktitle={2022 IEEE Sensors}, publisher={IEEE}, author={Huang, Xiaonan and\
+    \ Johnson, William R. and Booth, Joran and Kramer-Bottiglio, Rebecca}, year={2022},\
+    \ month=oct, pages={1\u20131} }\n"
+  pdfurl: https://doi.org/10.1109/sensors52175.2022.9967005
+  title: 'Live Demonstration: Tensegrity State Estimation'
+  year: 2022
+
 - abstract: 'Tensegrity robots are composed of rigid struts and flexible cables. They
 
     constitute an emerging class of hybrid rigid-soft robotic systems and are
