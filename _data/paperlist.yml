@@ -1,6 +1,25 @@
 papers:
 
 - authors:
+  - Jilei Liu
+  - Zhiyin Xu
+  - Jinyu Lu
+  - Jiangjun Hou
+  - Xun Gu
+  - Jiarong Wu
+  - Na Li
+  bibtex: ' @article{Liu_2025, title={Rolling Motion of Bar-Driven Soft Spherical
+    Tensegrity Robot Based on Dodecahedron}, ISSN={2169-5180}, url={http://dx.doi.org/10.1089/soro.2024.0126},
+    DOI={10.1089/soro.2024.0126}, journal={Soft Robotics}, publisher={Mary Ann Liebert
+    Inc}, author={Liu, Jilei and Xu, Zhiyin and Lu, Jinyu and Hou, Jiangjun and Gu,
+    Xun and Wu, Jiarong and Li, Na}, year={2025}, month=may }
+
+    '
+  pdfurl: https://doi.org/10.1089/soro.2024.0126
+  title: Rolling Motion of Bar-Driven Soft Spherical Tensegrity Robot Based on Dodecahedron
+  year: 2025
+
+- authors:
   - Xiaonan Huang
   - William R. Johnson
   - Joran Booth
