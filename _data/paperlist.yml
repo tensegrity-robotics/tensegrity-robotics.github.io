@@ -1,5 +1,242 @@
 papers:
 
+- abstract: 'This paper presents a novel application of tensegrity systems as lightweight
+
+    and noninvasive braces for seismically resistant structures. The analyzed
+
+    braces consist of D-bar systems equipped with shape memory alloy cables with
+
+    superelastic response. These structures are able to markedly amplify the
+
+    applied longitudinal displacements in the transverse direction, thus allowing
+
+    for considerably large deformations of the SMA cables and high energy
+
+    dissipation. The mechanics and the application of tensegrity braces for the
+
+    reinforcement of anti-seismic structures are presented. A comparative study
+
+    matches the seismic response of the analyzed systems with that of devices
+
+    employing fluid viscous dampers. The results highlight the fact that D-bar
+
+    units can be profitably employed as building blocks for innovative bracing
+
+    systems, whose energy dissipation properties can easily surpass those of
+
+    conventional anti-seismic braces.'
+  authors:
+  - Fernando Fraternali
+  - Filipe Santos
+  bibtex: ' @article{Fraternali_2019, title={Mechanical modeling of superelastic tensegrity
+    braces for earthquake-proof structures}, volume={33}, ISSN={2352-4316}, url={http://dx.doi.org/10.1016/j.eml.2019.100578},
+    DOI={10.1016/j.eml.2019.100578}, journal={Extreme Mechanics Letters}, publisher={Elsevier
+    BV}, author={Fraternali, F. and Santos, F.}, year={2019}, month=nov, pages={100578}
+    }
+
+    '
+  pdfurl: http://arxiv.org/pdf/1910.07080v1
+  title: Mechanical modeling of superelastic tensegrity braces for earthquake-proof
+    structures
+  year: 2019
+
+- authors:
+  - Matthieu Furet
+  - Anders van Riesen
+  - Christine Chevallereau
+  - Philippe Wenger
+  bibtex: " @inbook{Furet_2018, title={Optimal Design of Tensegrity Mechanisms Used\
+    \ in a Bird Neck Model}, ISBN={9783319980201}, ISSN={2211-0992}, url={http://dx.doi.org/10.1007/978-3-319-98020-1_43},\
+    \ DOI={10.1007/978-3-319-98020-1_43}, booktitle={EuCoMeS 2018}, publisher={Springer\
+    \ International Publishing}, author={Furet, Matthieu and van Riesen, Anders and\
+    \ Chevallereau, Christine and Wenger, Philippe}, year={2018}, month=aug, pages={365\u2013\
+    375} }\n"
+  pdfurl: https://doi.org/10.1007/978-3-319-98020-1_43
+  title: Optimal Design of Tensegrity Mechanisms Used in a Bird Neck Model
+  year: 2018
+
+- authors:
+  - Jonathan Kimber
+  - Zongliang Ji
+  - Aikaterini Petridou
+  - Thomas Sipple
+  - Kentaro Barhydt
+  - James Boggs
+  - Luke Dosiek
+  - John Rieffel
+  bibtex: " @inproceedings{Kimber_2019, title={Low-Cost Wireless Modular Soft Tensegrity\
+    \ Robots}, url={http://dx.doi.org/10.1109/robosoft.2019.8722723}, DOI={10.1109/robosoft.2019.8722723},\
+    \ booktitle={2019 2nd IEEE International Conference on Soft Robotics (RoboSoft)},\
+    \ publisher={IEEE}, author={Kimber, Jonathan and Ji, Zongliang and Petridou, Aikaterini\
+    \ and Sipple, Thomas and Barhydt, Kentaro and Boggs, James and Dosiek, Luke and\
+    \ Rieffel, John}, year={2019}, month=apr, pages={88\u201393} }\n"
+  pdfurl: https://doi.org/10.1109/robosoft.2019.8722723
+  title: Low-Cost Wireless Modular Soft Tensegrity Robots
+  year: 2019
+
+- authors:
+  - Anders van Riesen
+  - Matthieu Furet
+  - Christine Chevallereau
+  - Philippe Wenger
+  bibtex: " @inbook{van_Riesen_2018, title={Dynamic Analysis and Control of an Antagonistically\
+    \ Actuated Tensegrity Mechanism}, ISBN={9783319789637}, ISSN={2309-3706}, url={http://dx.doi.org/10.1007/978-3-319-78963-7_60},\
+    \ DOI={10.1007/978-3-319-78963-7_60}, booktitle={ROMANSY 22 \u2013 Robot Design,\
+    \ Dynamics and Control}, publisher={Springer International Publishing}, author={van\
+    \ Riesen, Anders and Furet, Matthieu and Chevallereau, Christine and Wenger, Philippe},\
+    \ year={2018}, month=may, pages={481\u2013490} }\n"
+  pdfurl: https://doi.org/10.1007/978-3-319-78963-7_60
+  title: Dynamic Analysis and Control of an Antagonistically Actuated Tensegrity Mechanism
+  year: 2018
+
+- authors:
+  - Raman Goyal
+  - Edwin A Peraza Hernandez
+  - Robert E Skelton
+  bibtex: " @article{Goyal_2019, title={Analytical study of tensegrity lattices for\
+    \ mass-efficient mechanical energy absorption}, volume={34}, ISSN={2059-8033},\
+    \ url={http://dx.doi.org/10.1177/0956059919845330}, DOI={10.1177/0956059919845330},\
+    \ number={1\u20132}, journal={International Journal of Space Structures}, publisher={SAGE\
+    \ Publications}, author={Goyal, Raman and Peraza Hernandez, Edwin A and Skelton,\
+    \ Robert E}, year={2019}, month=mar, pages={3\u201321} }\n"
+  pdfurl: https://doi.org/10.1177/0956059919845330
+  title: Analytical study of tensegrity lattices for mass-efficient mechanical energy
+    absorption
+  year: 2019
+
+- authors:
+  - Matthieu Furet
+  - Philippe Wenger
+  bibtex: ' @article{Furet_2019, title={Kinetostatic Analysis and Actuation Strategy
+    of a Planar Tensegrity 2-X Manipulator}, volume={11}, ISSN={1942-4310}, url={http://dx.doi.org/10.1115/1.4044209},
+    DOI={10.1115/1.4044209}, number={6}, journal={Journal of Mechanisms and Robotics},
+    publisher={ASME International}, author={Furet, Matthieu and Wenger, Philippe},
+    year={2019}, month=sep }
+
+    '
+  pdfurl: https://doi.org/10.1115/1.4044209
+  title: Kinetostatic Analysis and Actuation Strategy of a Planar Tensegrity 2-X Manipulator
+  year: 2019
+
+- authors:
+  - Swaminath Venkateswaran
+  - Matthieu Furet
+  - Damien Chablat
+  - Philippe Wenger
+  bibtex: ' @inproceedings{Venkateswaran_2019, series={IDETC-CIE2019}, title={Design
+    and Analysis of a Tensegrity Mechanism for a Bio-Inspired Robot}, url={http://dx.doi.org/10.1115/detc2019-97544},
+    DOI={10.1115/detc2019-97544}, booktitle={Volume 5A: 43rd Mechanisms and Robotics
+    Conference}, publisher={American Society of Mechanical Engineers}, author={Venkateswaran,
+    Swaminath and Furet, Matthieu and Chablat, Damien and Wenger, Philippe}, year={2019},
+    month=aug, collection={IDETC-CIE2019} }
+
+    '
+  pdfurl: https://doi.org/10.1115/detc2019-97544
+  title: Design and Analysis of a Tensegrity Mechanism for a Bio-Inspired Robot
+  year: 2019
+
+- authors:
+  - Denis Fadeyev
+  - Altay Zhakatayev
+  - Askat Kuzdeuov
+  - Huseyin Atakan Varol
+  bibtex: " @article{Fadeyev_2019, title={Generalized Dynamics of Stacked Tensegrity\
+    \ Manipulators}, volume={7}, ISSN={2169-3536}, url={http://dx.doi.org/10.1109/access.2019.2916681},\
+    \ DOI={10.1109/access.2019.2916681}, journal={IEEE Access}, publisher={Institute\
+    \ of Electrical and Electronics Engineers (IEEE)}, author={Fadeyev, Denis and\
+    \ Zhakatayev, Altay and Kuzdeuov, Askat and Varol, Huseyin Atakan}, year={2019},\
+    \ pages={63472\u201363484} }\n"
+  pdfurl: https://doi.org/10.1109/access.2019.2916681
+  title: Generalized Dynamics of Stacked Tensegrity Manipulators
+  year: 2019
+
+- authors:
+  - Jianwei Sun
+  - Guangsheng Song
+  - Jinkui Chu
+  - Luquan Ren
+  bibtex: " @article{Sun_2019, title={An Adaptive Bioinspired Foot Mechanism Based\
+    \ on Tensegrity Structures}, volume={6}, ISSN={2169-5180}, url={http://dx.doi.org/10.1089/soro.2018.0168},\
+    \ DOI={10.1089/soro.2018.0168}, number={6}, journal={Soft Robotics}, publisher={Mary\
+    \ Ann Liebert Inc}, author={Sun, Jianwei and Song, Guangsheng and Chu, Jinkui\
+    \ and Ren, Luquan}, year={2019}, month=dec, pages={778\u2013789} }\n"
+  pdfurl: https://doi.org/10.1089/soro.2018.0168
+  title: An Adaptive Bioinspired Foot Mechanism Based on Tensegrity Structures
+  year: 2019
+
+- authors:
+  - Bingxing Chen
+  - Hongzhou Jiang
+  bibtex: " @article{Chen_2019, title={Swimming Performance of a Tensegrity Robotic\
+    \ Fish}, volume={6}, ISSN={2169-5180}, url={http://dx.doi.org/10.1089/soro.2018.0079},\
+    \ DOI={10.1089/soro.2018.0079}, number={4}, journal={Soft Robotics}, publisher={Mary\
+    \ Ann Liebert Inc}, author={Chen, Bingxing and Jiang, Hongzhou}, year={2019},\
+    \ month=aug, pages={520\u2013531} }\n"
+  pdfurl: https://doi.org/10.1089/soro.2018.0079
+  title: Swimming Performance of a Tensegrity Robotic Fish
+  year: 2019
+
+- abstract: 'The topology and form finding of tensegrity structures have been studied
+
+    extensively since the introduction of the tensegrity concept. However, most of
+
+    these studies address topology and form separately, where the former
+
+    represented a research focus of rigidity theory and graph theory, while the
+
+    latter attracted the attention of structural engineers. In this paper, a
+
+    biomimetic approach for the combined topology and form finding of spatial
+
+    tensegrity systems is introduced. Tensegrity cells, elementary infinitesimally
+
+    rigid self-stressed structures that have been proven to compose any tensegrity,
+
+    are used to generate more complex tensegrity structures through the
+
+    morphogenesis mechanisms of adhesion and fusion. A methodology for constructing
+
+    a basis to describe the self-stress space is also provided. Through the
+
+    definition of self-stress, the cellular morphogenesis method can integrate
+
+    design considerations, such as a desired shape or number of nodes and members,
+
+    providing great flexibility and control over the tensegrity structure
+
+    generated.'
+  authors:
+  - Omar Aloui
+  - Jessica Flores
+  - David Orden
+  - Landolf Rhode-Barbarigos
+  bibtex: " @article{Aloui_2019, title={Cellular morphogenesis of three-dimensional\
+    \ tensegrity structures}, volume={346}, ISSN={0045-7825}, url={http://dx.doi.org/10.1016/j.cma.2018.10.048},\
+    \ DOI={10.1016/j.cma.2018.10.048}, journal={Computer Methods in Applied Mechanics\
+    \ and Engineering}, publisher={Elsevier BV}, author={Aloui, Omar and Flores, Jessica\
+    \ and Orden, David and Rhode-Barbarigos, Landolf}, year={2019}, month=apr, pages={85\u2013\
+    108} }\n"
+  pdfurl: http://arxiv.org/pdf/1902.09953v1
+  title: Cellular morphogenesis of three-dimensional tensegrity structures
+  year: 2019
+
+- authors:
+  - Kirsti Pajunen
+  - Paul Johanns
+  - Raj Kumar Pal
+  - Julian J. Rimoli
+  - Chiara Daraio
+  bibtex: ' @article{Pajunen_2019, title={Design and impact response of 3D-printable
+    tensegrity-inspired structures}, volume={182}, ISSN={0264-1275}, url={http://dx.doi.org/10.1016/j.matdes.2019.107966},
+    DOI={10.1016/j.matdes.2019.107966}, journal={Materials &amp; Design}, publisher={Elsevier
+    BV}, author={Pajunen, Kirsti and Johanns, Paul and Pal, Raj Kumar and Rimoli,
+    Julian J. and Daraio, Chiara}, year={2019}, month=nov, pages={107966} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.matdes.2019.107966
+  title: Design and impact response of 3D-printable tensegrity-inspired structures
+  year: 2019
+
 - authors:
   - Jilei Liu
   - Zhiyin Xu
