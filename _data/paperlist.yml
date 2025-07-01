@@ -1,6 +1,22 @@
 papers:
 
 - authors:
+  - Ruhe Mei
+  - Ruizhi Liu
+  - Yafeng Wang
+  - Xian Xu
+  bibtex: ' @article{Mei_2025, title={Adaptive Vibration-Driven Tensegrity in Unstructured
+    Environments}, ISSN={2543-2141}, url={http://dx.doi.org/10.1007/s42235-025-00745-1},
+    DOI={10.1007/s42235-025-00745-1}, journal={Journal of Bionic Engineering}, publisher={Springer
+    Science and Business Media LLC}, author={Mei, Ruhe and Liu, Ruizhi and Wang, Yafeng
+    and Xu, Xian}, year={2025}, month=jun }
+
+    '
+  pdfurl: https://doi.org/10.1007/s42235-025-00745-1
+  title: Adaptive Vibration-Driven Tensegrity in Unstructured Environments
+  year: 2025
+
+- authors:
   - Jilei Liu
   - Zhiyin Xu
   - Jinyu Lu
