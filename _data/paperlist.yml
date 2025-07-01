@@ -1,6 +1,40 @@
 papers:
 
 - authors:
+  - Jin Wang
+  - Mingliang Zhu
+  - Zhiwei Miao
+  bibtex: " @article{Wang_2025, title={Two-stage physics-informed deep neural networks\
+    \ framework for form-finding of tensegrity structures}, volume={186\u2013187},\
+    \ ISSN={0010-4485}, url={http://dx.doi.org/10.1016/j.cad.2025.103898}, DOI={10.1016/j.cad.2025.103898},\
+    \ journal={Computer-Aided Design}, publisher={Elsevier BV}, author={Wang, Jin\
+    \ and Zhu, Mingliang and Miao, Zhiwei}, year={2025}, month=oct, pages={103898}\
+    \ }\n"
+  pdfurl: https://doi.org/10.1016/j.cad.2025.103898
+  title: Two-stage physics-informed deep neural networks framework for form-finding
+    of tensegrity structures
+  year: 2025
+
+- authors:
+  - Lukas Lehmann
+  - David Herrmann
+  - Leon Schaeffer
+  - Marcelo Hohma
+  - John Rieffel
+  - "Valter B\xF6hm"
+  bibtex: " @inproceedings{Lehmann_2025, title={Investigation of stiffness and mechanical\
+    \ property change capabilities of compliant 2D tensegrity grids for the application\
+    \ in soft robotics}, url={http://dx.doi.org/10.1109/robosoft63089.2025.11020955},\
+    \ DOI={10.1109/robosoft63089.2025.11020955}, booktitle={2025 IEEE 8th International\
+    \ Conference on Soft Robotics (RoboSoft)}, publisher={IEEE}, author={Lehmann,\
+    \ Lukas and Herrmann, David and Schaeffer, Leon and Hohma, Marcelo and Rieffel,\
+    \ John and B\xF6hm, Valter}, year={2025}, month=apr, pages={1\u20136} }\n"
+  pdfurl: https://doi.org/10.1109/robosoft63089.2025.11020955
+  title: Investigation of stiffness and mechanical property change capabilities of
+    compliant 2D tensegrity grids for the application in soft robotics
+  year: 2025
+
+- authors:
   - Aidar Shakerimov
   - Medetkhan Altymbek
   - Koichi Koganezawa
