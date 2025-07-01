@@ -1,6 +1,24 @@
 papers:
 
 - authors:
+  - Aidar Shakerimov
+  - Medetkhan Altymbek
+  - Koichi Koganezawa
+  - Azamat Yeshmukhametov
+  bibtex: ' @article{Shakerimov_2025, title={Machine learning-based inverse kinematics
+    scalability for prismatic tensegrity structural manipulators}, volume={193}, ISSN={0921-8890},
+    url={http://dx.doi.org/10.1016/j.robot.2025.105102}, DOI={10.1016/j.robot.2025.105102},
+    journal={Robotics and Autonomous Systems}, publisher={Elsevier BV}, author={Shakerimov,
+    Aidar and Altymbek, Medetkhan and Koganezawa, Koichi and Yeshmukhametov, Azamat},
+    year={2025}, month=nov, pages={105102} }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.robot.2025.105102
+  title: Machine learning-based inverse kinematics scalability for prismatic tensegrity
+    structural manipulators
+  year: 2025
+
+- authors:
   - Ruhe Mei
   - Ruizhi Liu
   - Yafeng Wang
