@@ -1,6 +1,42 @@
 papers:
 
 - authors:
+  - Luyang Zhao
+  - Yitao Jiang
+  - Muhao Chen
+  - Kostas Bekris
+  - Devin Balkcom
+  bibtex: ' @article{Zhao_2025, title={Modular shape-changing tensegrity-blocks enable
+    self-assembling robotic structures}, volume={16}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-025-60982-0},
+    DOI={10.1038/s41467-025-60982-0}, number={1}, journal={Nature Communications},
+    publisher={Springer Science and Business Media LLC}, author={Zhao, Luyang and
+    Jiang, Yitao and Chen, Muhao and Bekris, Kostas and Balkcom, Devin}, year={2025},
+    month=jul }
+
+    '
+  pdfurl: https://doi.org/10.1038/s41467-025-60982-0
+  title: Modular shape-changing tensegrity-blocks enable self-assembling robotic structures
+  year: 2025
+
+- authors:
+  - Kaiwen Hu
+  - Qi Yang
+  - Binbin Lian
+  - Rongjie Kang
+  - Tao Sun
+  bibtex: ' @article{Hu_2025, title={Spatial multi-locomotion tensegrity mobile robot
+    with modular design}, volume={302}, ISSN={0020-7403}, url={http://dx.doi.org/10.1016/j.ijmecsci.2025.110501},
+    DOI={10.1016/j.ijmecsci.2025.110501}, journal={International Journal of Mechanical
+    Sciences}, publisher={Elsevier BV}, author={Hu, Kaiwen and Yang, Qi and Lian,
+    Binbin and Kang, Rongjie and Sun, Tao}, year={2025}, month=sep, pages={110501}
+    }
+
+    '
+  pdfurl: https://doi.org/10.1016/j.ijmecsci.2025.110501
+  title: Spatial multi-locomotion tensegrity mobile robot with modular design
+  year: 2025
+
+- authors:
   - Jin Wang
   - Mingliang Zhu
   - Zhiwei Miao
