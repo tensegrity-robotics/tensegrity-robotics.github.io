@@ -1,69 +1,55 @@
-#  Tensegrity Workshop 2025
+#  Tensegrity Workshop 2026
 
 
-# RoboSoft 2025 - Lausanne, Switzerland 
+# IROS 2026 - Pittsburgh, PA, USA 
 
- ![a group photo of the attendees at the tensegrity workshop 2025 in Lausanne, Switzerland](img/tensegrity_workshop_2025.jpg)
 
 ## Organizers:
 
-* John Rieffel (Union College) – Chair
-* Xiaonan (Sean) Huang (University of Michigan)
-* Vishesh Vikas (University of Alabama)
 * Will Johnson (Yale University)
-* Valter Böhm (OTH Regensburg)
+* John Rieffel (Union College) 
+* Xiaonan (Sean) Huang (University of Michigan)
 * Kostas Bekris (Rutgers University)
+* Valter Boehm (OTH Regensburg)
+* Muhao Chen (University of Houston)
+* Lauren Ervin (Florida International University)
+* Rebecca Kramer-Bottiglio (Yale University)
+* Vishesh Vikas (University of Alabama)
+
+This will be the sixth in a series of Tensegrity Robotics workshops we’ve been organizing since 2018, and the second at IROS.  We hosted a full-day workshop at IROS 2023 in Detroit, which was well-attended.  The other workshops in the series have been organized at IEEE ICRA and IEEE RoboSoft.  Please address correspondence to Will Johnson (wjohnso3@swarthmore.edu).
 
 
 ## Description 
-As compliant structures with tunable stiffness, tensegrities are a compelling platform with which to study the spectrum of robotic morphologies, ranging from soft to rigid. This workshop will provide a forum to discuss recent advances and challenges in the field of soft tensegrity robotics.  Our ambition for this workshop is to use it as an opportunity to diversify and expand the community of those engaged in tensegrity research.   This workshop will provide participants from a wide variety of fields including engineering, computer science, mathematics, and architecture with an opportunity to present and discuss the current state of the art in tensegrity robotic research through invited talks, live robot demonstrations, breakout sessions to explore the Grand Challenges of the field, an interactive panel discussion, and a student-focused poster session. 
+Composed of rigid struts and compliant tendons, tensegrity robots boast a remarkable strength-to-weight ratio and demonstrate extraordinary shape morphability, stiffness tuning, and impact resistance. These favorable properties make tensegrity robots an attractive technology for the next generation of adaptive robots. However, tensegrity robots’ compliance, coupled dynamics, and many degrees of freedom pose challenges in modeling, sensing, and control. Demonstrations of tensegrity robots are typically confined to a controlled laboratory setting despite claims of tensegrity robots’ favorability for remote and unstructured environments. To solve this grand challenge, this workshop aims to rally the tensegrity robotics community to build field-capable, intelligent systems.  This workshop draws participation from tensegrity roboticists in industry as well as researchers and experts in complementary fields, including field robotics, robot learning, soft robot modeling and control, and bio-inspired robotics. The workshop will give participants an opportunity to present and discuss the current state of the art in tensegrity robotics through invited talks, live robot demonstrations, an interactive panel discussion, and a student-focused poster session.  The organizers will disseminate the results of the workshop discussions in a prospective article and summarize them on the tensegrity robotics website.  This workshop will attract and engage new participants in the field, encourage interactions between junior and senior researchers, and facilitate future collaborations.
 
-Tensegrities are relatively simple mechanical systems, consisting of a number of rigid elements (struts) joined at their endpoints by tensile elements (cables or springs), and kept stable through a synergistic interplay of pre-stress forces.  Beyond engineering, properties of tensegrity have been demonstrated at all scales of the natural world, ranging from the tendinous network of the human hand to the mechanotransduction of living cells.  At every scale, tensegrity structures have an impressive strength-to-weight ratio and demonstrate robustness and stability through deformation.  Moreover, tensegrity structures are inherently modular (consisting of only struts and springs).  This means that increasingly complex tensegrity structures can be constructed simply by increasing the number of struts and springs.   They are simple enough to be baby toys and complex enough to serve as the basis for the next generation of NASA's planetary rovers.
+## Content of the workshop and expected impact
+The core objective of this workshop is to transition tensegrity robotics from the realm of controlled laboratory demonstrations to robust, field-capable intelligent systems. By exploring the gap between structural compliance and autonomous control, we aim to identify how tensegrity, as a leading architecture, can lead to next-generation adaptive robots.
+The workshop will feature 20-minute presentations by emerging and established experts who are shaping this subfield. These sessions will specifically address the modeling, sensing, and control difficulties arising from the robots' coupled dynamics and many degrees of freedom. Furthermore, the event will embrace robotic subfields that are complementary to tensegrity, such as field robotics, robot learning, and bio-inspired robotics, to encourage multidisciplinary collaboration and expand the overall reach of the discipline. This integration is intended to result in a more robust research community and accelerate the growth of the tensegrity robotics subfield.
+Interaction and the exchange of ideas will be prioritized through an intentional engagement strategy involving an interactive panel discussion focused on closing the sim-to-lab-to-real-world gap. To promote active discussion between established experts and early-career researchers, the schedule includes student-focused lightning talks, a dedicated poster session, and live robot demonstrations. These live demos are particularly crucial for showcasing the physical capabilities of these robots in a tangible way. The organizers expect to solicit approximately 10 contributed posters and five live demos to provide a diverse range of technical perspectives.
+The expected impact of this event extends beyond the conference itself, as the organizers plan to coordinate a post-conference perspective piece for the IEEE Robotics & Automation Magazine (RA-M) regarding the grand challenges identified during the workshop. The team will also maintain a dedicated workshop website and take attendance to strengthen the community through continued follow-up after IROS 2026. By providing a platform for both pioneering talks and interactive activities, this workshop will significantly expand the originality and diversity of the IROS 2026 program while fostering long-term collaboration across the robotics community.
 
-Tensegrity structures are therefore a compelling and versatile platform with which to explore a wide range of topics and applications relevant to the broader IEEE-RAS community, including biomimetics, bio-inspired robots, soft material robotics, compliant joint/mechanisms, and tendon/wire mechanisms (to name just a few). The goal of this workshop is to provide a showcase for tensegrity researchers to present advances in the state of the art and to discuss ongoing challenges while simultaneously attracting and engaging new participants in the field.
+## Intended audience and expected attendance
+The intended audience for this workshop is the tensegrity robotics community plus roboticists in complementary fields so that we can learn from each other’s expertise, promote cross-disciplinary collaboration, and advance the state of the art.  Based on similar events we have organized in the past, we expect at least 40 attendees, mostly from the community associated with the RAS TC on Soft Robotics.  We expect many attendees to be students, and we will create opportunities for them to connect with researchers of different levels of seniority through a student-focused poster session, live robot demonstrations, and an interactive panel discussion.  We expect to solicit 10 contributed posters and five live robot demos.
 
-This will be the fifth workshop in a [series](https://tensegrity-robotics.github.io/prior_workshops) dating back to RoboSoft 2018 in Livorno, Italy.  This year, we are deviating from the traditional workshop  format to provide a more engaging forum for participants with the aim of  celebrating the interdisciplinary nature of tensegrity research and broadening participation in the field.
-
-## Call for Contributions \[DEADLINE EXTENDED\]
-
-We are calling for participants to contribute poster presentations and live demonstrations at the workshop. We encourage participants to present live demos if possible! Submissions do not need to specifically focus on tensegrity robots, but they should be of interest to the tensegrity robotics community. Those interested should submit a one-page abstract in IEEE conference format using [this form](https://forms.gle/uktxD1Uq1vh1HaVz6). Templates are available for download at the [IEEE Template Selector](https://template-selector.ieee.org/). You may also include a link to supplementary materials (e.g., videos). The submission deadline is Wednesday, April 9, 2025 AoE.  All participants will be invited to a future special issue on tensegrity robotics.
-
-Specific topics include (but are not limited to):
-
-* Tensegrity-based soft robots
-* Bioinspired tensegrity robots
-* Tensegrity Modular Robots
-* Multi-scale tensegrity robots
-* Biological modeling with tensegrity systems
-* Tensegrity models and simulators
-* Sensing, control, and actuation of tensegrity robots
-* Theory of tensegrity systems
-* Applications of tensegrity robots
-* Tensegrity structures in biological system
 
 ## Schedule
-(all times UTC+2)
+(all times EDT)
 
-* 09:00 - Opening Remarks
-* 09:15 - Invited Talks
-	* 09:20 - **Ryota Kobayashi** *Stretchable McKibben Muscles and Their Application to Tensegrity Robots*
-	* 09:40 - **David Herrmann** *Compliant tensegrity structures in soft robotics - selected applications*
-	* 10:00 - **Xiaonan Huang** *Towards Autonomous Tensegrity Robots*
-	* 10:20 - **Roxane Vimbert** *Tensegrity to explain the postural balance of birds*
-	* 10:40 - **Jan Petrs** *Tensegrity robotics: Challenges and visions for larger scales and walking robots*
-* 11:00 - Live Demos + Coffee Break
-* 11:30 - Breakout Discussion: Tensegrity Applications
-* 13:00 - Lunch
-* 14:00 - Scrum share-out from breakout discussion
-* 14:15 - Invited Talks
-	* 14:20 - **Patrick Meng** *Demonstrating an Open-source, Reproducible System for Tensegrity Navigation among Obstacles*
-	* 14:40 - **Luyang Zhao** *Soft Modular Robots: From Modular Tensegrity Structures to Bioinspired Robots*
-	* 15:00 - **Lauren Ervin** *Geometric Static Modeling Framework for Piecewise-Continuous Curved-Link Multi Point-of-Contact Tensegrity Robots*
-* 15:20 - Poster Session + Coffee Break at 15:30
-* 16:00 - Breakout Discussion: Grand Challenges
-* 17:00 - Panel Discussion
+* 08:30 - 08:40 Opening Remarks
+* 08:40 - Invited Talks
+	* 08:40 - **Shuhei Ikemoto** *Design and Data-Driven Control of Redundant Tensegrity Manipulators*
+	* 09:00 - **Robert Baines** *CLeaps and Bounds: Design and Control of Jumping Tensegrity Robots*
+	* 09:20 - **Luyang Zhao** *Toward Task-Adaptive Soft Modular Tensegrity Robots*
+	* 09:40 - **Hiroyuki Nabae** *TBD*
+	* 10:00 - **Cole Woods** *The Second Spine: From Research to Reality in Tensegrity Commercialization*
+* 10:20 - Student Spotlight Talks
+* 10:30 - Morning Coffee Break
+* 11:00 - Demo Session
+* 11:30 - **Xuesu Xiao** *Learning Extreme Off-Road Mobility* 
+* 11:50 - Panel Discussion
+* 12:20 Closing Remarks 
+* 12:30 End
 
-Direct all correspondence to John Rieffel (rieffelj@union.edu)
 
 ## Prior Workshops
 
