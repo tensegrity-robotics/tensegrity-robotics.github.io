@@ -40,7 +40,7 @@ The intended audience for this workshop is the tensegrity robotics community plu
 * 08:30 - 08:40 Opening Remarks
 * 08:40 - Invited Talks
 	* 08:40 - **Shuhei Ikemoto** *Design and Data-Driven Control of Redundant Tensegrity Manipulators*
-	* 09:00 - **Robert Baines** *CLeaps and Bounds: Design and Control of Jumping Tensegrity Robots*
+	* 09:00 - **Robert Baines** *Leaps and Bounds: Design and Control of Jumping Tensegrity Robots*
 	* 09:20 - **Luyang Zhao** *Toward Task-Adaptive Soft Modular Tensegrity Robots*
 	* 09:40 - **Hiroyuki Nabae** *TBD*
 	* 10:00 - **Cole Woods** *The Second Spine: From Research to Reality in Tensegrity Commercialization*
