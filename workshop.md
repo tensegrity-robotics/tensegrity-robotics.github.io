@@ -33,6 +33,11 @@ The expected impact of this event extends beyond the conference itself, as the o
 ## Intended audience and expected attendance
 The intended audience for this workshop is the tensegrity robotics community plus roboticists in complementary fields so that we can learn from each other’s expertise, promote cross-disciplinary collaboration, and advance the state of the art.  Based on similar events we have organized in the past, we expect at least 40 attendees, mostly from the community associated with the RAS TC on Soft Robotics.  We expect many attendees to be students, and we will create opportunities for them to connect with researchers of different levels of seniority through a student-focused poster session, live robot demonstrations, and an interactive panel discussion.  We expect to solicit 10 contributed posters and five live robot demos.
 
+## Structure of the workshop
+The Tensegrity Robotics workshop will be a combination of invited talks and interactive activities with attendees. This structure enables the dissemination of state-of-the-art research efforts as well as increased collaboration among members of the research community. The speakers will span pioneers in the field as well as impressive early-career researchers to include a wide variety of talks. An interactive panel of multidisciplinary researchers will open the floor for a discussion on bridging the reality gap with tensegrity robotics. 
+
+Special encouragement will be given to students and early-career researchers to showcase their work through lightning talks, interactive poster sessions, and live demos. Established experts will interact with the poster presentations and live demos given by early-career researchers by choosing a Best Poster Award and Best Demo Award. These aspects of the workshop structure are especially crucial for linking early-career researchers with established experts. The poster and demo presenters will receive insight and advice from the pioneers within the field of tensegrity robotics. Increased communication and collaboration between researchers at different stages of their academic careers are expected to occur from this workshop.
+
 
 ## Schedule
 (all times EDT)
