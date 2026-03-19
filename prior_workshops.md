@@ -1,6 +1,6 @@
 #  Tensegrity Workshop Series 
 
-An archive of the workshop series we've been running since 2018
+An archive of the workshop series we've been running since 2018.
 
 * [IROS 2023](https://www.eng.yale.edu/faboratory/tensegrityworkshop/)
 * [RoboSoft 2022](https://muse.union.edu/tensegrity/)
