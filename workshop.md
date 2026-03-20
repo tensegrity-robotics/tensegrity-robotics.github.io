@@ -54,8 +54,8 @@ Special encouragement will be given to students and early-career researchers to 
 * 11:00 - Demo Session
 * 11:30 - **Xuesu Xiao** *Learning Extreme Off-Road Mobility* 
 * 11:50 - Panel Discussion
-* 12:20 Closing Remarks 
-* 12:30 End
+* 12:20 - Closing Remarks 
+* 12:30 - End
 
 
 ## Prior Workshops
