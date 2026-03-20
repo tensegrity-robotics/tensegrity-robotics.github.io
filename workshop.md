@@ -40,7 +40,7 @@ Special encouragement will be given to students and early-career researchers to 
 
 
 ## Schedule
-(all times EDT)
+(all times in EDT)
 
 * 08:30 - 08:40 Opening Remarks
 * 08:40 - Invited Talks
