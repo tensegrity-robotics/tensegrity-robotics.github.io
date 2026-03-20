@@ -10,7 +10,7 @@
 * John Rieffel (Union College) 
 * Xiaonan (Sean) Huang (University of Michigan)
 * Kostas Bekris (Rutgers University)
-* Valter Boehm (OTH Regensburg)
+* Valter Böehm (OTH Regensburg)
 * Muhao Chen (University of Houston)
 * Lauren Ervin (Florida International University)
 * Rebecca Kramer-Bottiglio (Yale University)
