@@ -53,7 +53,7 @@ We want to specifically encourage participation from students, young researchers
 
 ## Prior Workshops
 
-![a group photo of the attendees at the tensegrity workshop 2025 in Lausanne, Switzerland](img/tensegrity_workshop_2025.jpg)
+<!-- ![a group photo of the attendees at the tensegrity workshop 2025 in Lausanne, Switzerland](img/tensegrity_workshop_2025.jpg) -->
 
 An archive of the workshop series we've been running since 2018.
 
