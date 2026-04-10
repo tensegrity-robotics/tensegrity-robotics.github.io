@@ -3,7 +3,8 @@
 
 # IROS 2026 - Pittsburgh, PA, USA 
 
-![Tensegrity robot video compilation](img/tensegrity_compilation.mp4)
+<video src="img/tensegrity_compilation.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 
 ## Organizers:
@@ -18,7 +19,7 @@
 * Rebecca Kramer-Bottiglio (Yale University)
 * Vishesh Vikas (University of Alabama)
 
-This will be the sixth in a series of Tensegrity Robotics workshops we’ve been organizing since 2018. Please address correspondence to Will Johnson (wjohnso3@swarthmore.edu).
+This will be the sixth in a series of Tensegrity Robotics workshops we’ve been organizing since 2018. Please address correspondence to Will Johnson at [wjohnso3@swarthmore.edu](mailto:wjohnso3@swarthmore.edu).
 
 
 ## Description 
