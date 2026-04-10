@@ -3,7 +3,7 @@
 
 # IROS 2026 - Pittsburgh, PA, USA 
 
-<video src="img/tensegrity_compilation.mp4" controls="controls" style="max-width: 730px;">
+<video autoplay loop muted width="100%" src="img/tensegrity_compilation.mp4" controls="controls">
 </video>
 
 
@@ -22,25 +22,8 @@
 This will be the sixth in a series of Tensegrity Robotics workshops we’ve been organizing since 2018. Please address correspondence to Will Johnson at [wjohnso3@swarthmore.edu](mailto:wjohnso3@swarthmore.edu).
 
 
-## Description 
+## Abstract 
 Composed of rigid struts and compliant tendons, tensegrity robots boast a remarkable strength-to-weight ratio and demonstrate extraordinary shape morphability, stiffness tuning, and impact resistance. These favorable properties make tensegrity robots an attractive technology for the next generation of adaptive robots. However, tensegrity robots’ compliance, coupled dynamics, and many degrees of freedom pose challenges in modeling, sensing, and control. Demonstrations of tensegrity robots are typically confined to a controlled laboratory setting despite claims of tensegrity robots’ favorability for remote and unstructured environments. To solve this grand challenge, this workshop aims to rally the tensegrity robotics community to build **field-capable, intelligent systems**.  This workshop draws participation from tensegrity roboticists in industry as well as researchers and experts in complementary fields, including field robotics, robot learning, soft robot modeling and control, and bio-inspired robotics. The workshop will give participants an opportunity to present and discuss the current state of the art in tensegrity robotics through invited talks, live robot demonstrations, an interactive panel discussion, and a student-focused poster session.  The organizers will disseminate the results of the workshop discussions in a prospective article and summarize them on the tensegrity robotics website.  This workshop will attract and engage new participants in the field, encourage interactions between junior and senior researchers, and facilitate future collaborations.
-
-## Content of the workshop and expected impact
-The core objective of this workshop is to transition tensegrity robotics from the realm of controlled laboratory demonstrations to robust, field-capable intelligent systems. By exploring the gap between structural compliance and autonomous control, we aim to identify how tensegrity, as a leading architecture, can lead to next-generation adaptive robots.
-
-The workshop will feature 20-minute presentations by emerging and established experts who are shaping this subfield. These sessions will specifically address the modeling, sensing, and control difficulties arising from the robots' coupled dynamics and many degrees of freedom. Furthermore, the event will embrace robotic subfields that are complementary to tensegrity, such as field robotics, robot learning, and bio-inspired robotics, to encourage multidisciplinary collaboration and expand the overall reach of the discipline. This integration is intended to result in a more robust research community and accelerate the growth of the tensegrity robotics subfield.
-Interaction and the exchange of ideas will be prioritized through an intentional engagement strategy involving an interactive panel discussion focused on closing the sim-to-lab-to-real-world gap. To promote active discussion between established experts and early-career researchers, the schedule includes student-focused lightning talks, a dedicated poster session, and live robot demonstrations. These live demos are particularly crucial for showcasing the physical capabilities of these robots in a tangible way. The organizers expect to solicit approximately 10 contributed posters and five live demos to provide a diverse range of technical perspectives.
-
-The expected impact of this event extends beyond the conference itself, as the organizers plan to coordinate a post-conference perspective piece for the IEEE Robotics & Automation Magazine (RA-M) regarding the grand challenges identified during the workshop. The team will also maintain a dedicated workshop website and take attendance to strengthen the community through continued follow-up after IROS 2026. By providing a platform for both pioneering talks and interactive activities, this workshop will significantly expand the originality and diversity of the IROS 2026 program while fostering long-term collaboration across the robotics community.
-
-## Intended audience and expected attendance
-The intended audience for this workshop is the tensegrity robotics community plus roboticists in complementary fields so that we can learn from each other’s expertise, promote cross-disciplinary collaboration, and advance the state of the art.  Based on similar events we have organized in the past, we expect at least 40 attendees, mostly from the community associated with the RAS TC on Soft Robotics.  We expect many attendees to be students, and we will create opportunities for them to connect with researchers of different levels of seniority through a student-focused poster session, live robot demonstrations, and an interactive panel discussion.  We expect to solicit 10 contributed posters and five live robot demos.
-
-## Structure of the workshop
-The Tensegrity Robotics workshop will be a combination of invited talks and interactive activities with attendees. This structure enables the dissemination of state-of-the-art research efforts as well as increased collaboration among members of the research community. The speakers will span pioneers in the field as well as impressive early-career researchers to include a wide variety of talks. An interactive panel of multidisciplinary researchers will open the floor for a discussion on bridging the reality gap with tensegrity robotics. 
-
-Special encouragement will be given to students and early-career researchers to showcase their work through lightning talks, interactive poster sessions, and live demos. Established experts will interact with the poster presentations and live demos given by early-career researchers by choosing a Best Poster Award and Best Demo Award. These aspects of the workshop structure are especially crucial for linking early-career researchers with established experts. The poster and demo presenters will receive insight and advice from the pioneers within the field of tensegrity robotics. Increased communication and collaboration between researchers at different stages of their academic careers are expected to occur from this workshop.
-
 
 ## Schedule
 (all times in EDT)
@@ -60,6 +43,13 @@ Special encouragement will be given to students and early-career researchers to 
 * 12:20 - Closing Remarks 
 * 12:30 - End
 
+## Contribute
+
+**Coming soon:** we will solicit contributions for posters and live demonstrations at the workshop.  We are looking for work in tensegrity robotics as well as complementary fields such as field robotics, robot learning, soft robot modeling and control, and bio-inspired robotics.
+
+## Inclusiveness
+
+You are welcome at this workshop 
 
 ## Prior Workshops
 
