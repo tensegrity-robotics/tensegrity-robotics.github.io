@@ -49,7 +49,7 @@ Composed of rigid struts and compliant tendons, tensegrity robots boast a remark
 
 ## Inclusiveness
 
-You are welcome at this workshop 
+We want to specifically encourage participation from students, young researchers, underrepresented groups, new conference attendees, and those who have not participated in a workshop before.  Once the solicitation opens, please submit your research so that it can enrich our workshop.  The poster session is meant to highlight the work of students and young researchers.  You are welcome as a contributor and/or as an attendee.
 
 ## Prior Workshops
 
