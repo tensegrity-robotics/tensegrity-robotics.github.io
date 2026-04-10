@@ -57,6 +57,7 @@ We want to specifically encourage participation from students, young researchers
 
 An archive of the workshop series we've been running since 2018.
 
+* [RoboSoft 2025](prior_workshops)
 * [IROS 2023](https://www.eng.yale.edu/faboratory/tensegrityworkshop/)
 * [RoboSoft 2022](https://muse.union.edu/tensegrity/)
 * [ICRA 2019](https://muse.union.edu/tensegrity/icra-2019/)
