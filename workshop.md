@@ -1,7 +1,9 @@
 #  Tensegrity Robotics: Toward Field-capable, Intelligent Systems
 
 
-# IROS 2026 - Pittsburgh, PA, USA 
+## IROS - Pittsburgh, PA, USA
+
+## September 27, 2026
 
 <video autoplay loop muted width="100%" src="img/tensegrity_compilation.mp4" controls="controls">
 </video>
@@ -30,10 +32,10 @@ Composed of rigid struts and compliant tendons, tensegrity robots boast a remark
 
 * 08:30 - 08:40 Opening Remarks
 * 08:40 - Invited Talks
-	* 08:40 - **Shuhei Ikemoto** *Design and Data-Driven Control of Redundant Tensegrity Manipulators*
+	* 08:40 - **Shuhei Ikemoto** *Design and Modeling of Redundant Tensegrity Manipulators*
 	* 09:00 - **Robert Baines** *Leaps and Bounds: Design and Control of Jumping Tensegrity Robots*
 	* 09:20 - **Luyang Zhao** *Toward Task-Adaptive Soft Modular Tensegrity Robots*
-	* 09:40 - **Hiroyuki Nabae** *TBD*
+	* 09:40 - **Hiroyuki Nabae** *Multi-modal Locomotion in Pneumatically Actuated Tensegrity Robots*
 	* 10:00 - **Cole Woods** *The Second Spine: From Research to Reality in Tensegrity Commercialization*
 * 10:20 - Student Spotlight Talks
 * 10:30 - Morning Coffee Break
