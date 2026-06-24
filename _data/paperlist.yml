@@ -1,6 +1,39 @@
 papers:
 
 - authors:
+  - Lauren Ervin
+  - Harish Bezawada
+  - Vishesh Vikas
+  bibtex: '@article{ervin2026, title={When Rolling Gets Weird: A Curved-Link Tensegrity Robot for Non-Intuitive Behavior}, author={Lauren Ervin and Harish Bezawada and Vishesh Vikas}, journal={arXiv preprint arXiv:2603.16503}, year={2026}, url={https://arxiv.org/abs/2603.16503}}'
+  pdfurl: https://arxiv.org/pdf/2603.16503
+  title: 'When Rolling Gets Weird: A Curved-Link Tensegrity Robot for Non-Intuitive Behavior'
+  year: 2026
+
+- authors:
+  - Zebing Mao
+  - Jianhui Wang
+  - Jianhua Zhang
+  - Junji Ohgi
+  - Yanqiu Zheng
+  - Yanhong Peng
+  - Luyang Zhao
+  - Qi Su
+  - Weidi Huang
+  - Bing Xu
+  bibtex: '@ARTICLE{mao2026, author={Mao, Zebing and Wang, Jianhui and Zhang, Jianhua and Ohgi, Junji and Zheng, Yanqiu and Peng, Yanhong and Zhao, Luyang and Su, Qi and Huang, Weidi and Xu, Bing}, journal={Microsystems & Nanoengineering}, title={Fine-tuned multimodal large language model for autonomous state cognition system of shape-recognition 6-bar tensegrity integrated with flexible sensors}, year={2026}, volume={12}, number={1}, doi={10.1038/s41378-026-01322-0}}'
+  pdfurl: https://doi.org/10.1038/s41378-026-01322-0
+  title: 'Fine-tuned multimodal large language model for autonomous state cognition system of shape-recognition 6-bar tensegrity integrated with flexible sensors'
+  year: 2026
+
+- authors:
+  - Lauren Ervin
+  - Vishesh Vikas
+  bibtex: '@ARTICLE{ervin2024, author={Ervin, Lauren and Vikas, Vishesh}, journal={IEEE Robotics and Automation Letters}, title={Geometric Static Modeling Framework for Piecewise-Continuous Curved-Link Multi Point-of-Contact Tensegrity Robots}, year={2024}, volume={9}, number={12}, pages={11066-11073}, doi={10.1109/LRA.2024.3486199}}'
+  pdfurl: https://doi.org/10.1109/LRA.2024.3486199
+  title: 'Geometric Static Modeling Framework for Piecewise-Continuous Curved-Link Multi Point-of-Contact Tensegrity Robots'
+  year: 2024
+  
+- authors:
   - Luyang Zhao
   - Yitao Jiang
   - Muhao Chen
