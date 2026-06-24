@@ -47,7 +47,14 @@ Composed of rigid struts and compliant tendons, tensegrity robots boast a remark
 
 ## Contribute
 
-**Coming soon:** we will solicit contributions for posters and live demonstrations at the workshop.  We are looking for work in tensegrity robotics as well as complementary fields such as field robotics, robot learning, soft robot modeling and control, and bio-inspired robotics.
+We are soliciting contributions for poster presentations and live demonstrations.  We especially encourage participants to present live demonstrations if possible.  Submissions do not need to specifically focus on tensegrity robots, but they should be of interest to the tensegrity robotics community. We welcome contributions from tensegrity robotics as well as complementary fields such as field robotics, robot learning, soft robot modeling and control, and autonomous systems.  Expert panelists will choose a **Best Demo Award** and **Best Poster Award**.
+
+Those interested should submit a one-page abstract in IEEE conference format using [this form](https://forms.gle/3Wy92WJYHbLB1YkJ9). Templates are available for download through the [IEEE Template Selector](https://template-selector.ieee.org/secure/templateSelector/publicationType). Authors may also include a link to supplementary materials, such as videos, project websites, or code repositories.
+
+The early-bird submission deadline is **Monday, July 20th, 2026 AoE**. Submissions received by this deadline will receive a decision before the IROS early registration deadline (July 24th). Regular submissions are due **Monday, August 17th, 2026 AoE**.  Regular submissions will receive a decision by Monday, August 24th, 2026.
+
+We especially encourage submissions from students, early-career researchers, underrepresented groups, new conference attendees, and researchers from adjacent fields who are interested in engaging with the tensegrity robotics community.
+
 
 ## Inclusiveness
 
