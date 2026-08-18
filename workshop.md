@@ -30,19 +30,18 @@ Composed of rigid struts and compliant tendons, tensegrity robots boast a remark
 ## Schedule
 (all times in EDT)
 
-* 08:30 - 08:40 Opening Remarks
-* 08:40 - Invited Talks
-	* 08:40 - **Shuhei Ikemoto** *Design and Modeling of Redundant Tensegrity Manipulators*
-	* 09:00 - **Robert Baines** *Leaps and Bounds: Design and Control of Jumping Tensegrity Robots*
-	* 09:20 - **Luyang Zhao** *Toward Task-Adaptive Soft Modular Tensegrity Robots*
-	* 09:40 - **Hiroyuki Nabae** *Multi-modal Locomotion in Pneumatically Actuated Tensegrity Robots*
-	* 10:00 - **Cole Woods** *The Second Spine: From Research to Reality in Tensegrity Commercialization*
-* 10:20 - Student Spotlight Talks
-* 10:30 - Morning Coffee Break
-* 11:00 - Live Demo Session
-* 11:30 - **Xuesu Xiao** *Learning Extreme Off-Road Mobility* 
-* 11:50 - Panel Discussion
-* 12:20 - Closing Remarks 
+* 08:30 - 08:35 Opening Remarks
+* 08:35 - Invited Talks
+	* 08:35- **Shuhei Ikemoto** *Design and Modeling of Redundant Tensegrity Manipulators*
+	* 08:55 - **Robert Baines** *Leaps and Bounds: Design and Control of Jumping Tensegrity Robots*
+	* 09:15 - **Luyang Zhao** *Toward Task-Adaptive Soft Modular Tensegrity Robots*
+	* 09:35 - **Hiroyuki Nabae** *Multi-modal Locomotion in Pneumatically Actuated Tensegrity Robots*
+	* 9:55 - **Cole Woods** *The Second Spine: From Research to Reality in Tensegrity Commercialization*
+* 10:15 - Morning Coffee Break
+* 11:15 - Live Demo Session
+* 11:45 - **Xuesu Xiao** *Learning Extreme Off-Road Mobility* 
+* 12:05 - **Vytas Sunspiral** *Elysium’s Synthetic Muscles and the Bio-Tensegrity Robots They Will Enable* 
+* 12:25 - Closing Remarks 
 * 12:30 - End
 
 ## Contribute
