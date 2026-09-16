@@ -5,6 +5,8 @@
 
 ## September 27, 2026
 
+## Room 412, David L. Lawrence Convention Center
+
 <video autoplay loop muted width="100%" src="img/tensegrity_compilation.mp4" controls="controls">
 </video>
 
