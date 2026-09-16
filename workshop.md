@@ -48,8 +48,8 @@ Composed of rigid struts and compliant tendons, tensegrity robots boast a remark
 
 ### Poster Presentations
 
- * **An Open-Source, Reproducible Tensegrity Robot that can Navigate Among Obstacles** by Patrick Meng, William R. Johnson III, Nelson Chen, Luca Cimatti, Augustin Vercoutere , Mridul Aanjaneya, Rebecca Kramer-Bottiglio, and Kostas E. Bekris.
- * **Shape Reconstruction of Tensegrity Manipulators from Strut Inclinations** by Tufail Ahmad Bhat and Shuhei Ikemoto.
+ * **An Open-Source, Reproducible Tensegrity Robot that can Navigate Among Obstacles** by Patrick Meng, William R. Johnson III, Nelson Chen, Luca Cimatti, Augustin Vercoutere , Mridul Aanjaneya, Rebecca Kramer-Bottiglio, and Kostas E. Bekris
+ * **Shape Reconstruction of Tensegrity Manipulators from Strut Inclinations** by Tufail Ahmad Bhat and Shuhei Ikemoto
  * **Design and Locomotion Strategies of Adaptable, Lightweight Tensegrity Snake Robot** by Christian Kazoleas, Lauren Ervin, Jiajun Zhang, Pacifique Uwajambo, and Sichen Yuan
  * **Development of a Rolling Spheroidal Tensegrity-Inspired Robot With a Cable-Slackening Deformable Outer Shell** by Hayate Tanaka, Takayuki Osa, and Shuhei Ikemoto
  * **Tendon-actuated Structural Modules for In-space Assembly Applications: Design Methodology and Experimental Validation** by Nate S. Osikowicz, John R. Cooper, Kenny Cheung, and Puneet Singla
@@ -66,7 +66,7 @@ Composed of rigid struts and compliant tendons, tensegrity robots boast a remark
 
 ### Live Demonstrations
 
- * **Shape Reconstruction of Tensegrity Manipulators from Strut Inclinations** by Tufail Ahmad Bhat and Shuhei Ikemoto.
+ * **Shape Reconstruction of Tensegrity Manipulators from Strut Inclinations** by Tufail Ahmad Bhat and Shuhei Ikemoto
  * **Design and Locomotion Strategies of Adaptable, Lightweight Tensegrity Snake Robot** by Christian Kazoleas, Lauren Ervin, Jiajun Zhang, Pacifique Uwajambo, and Sichen Yuan
  * **Development of a Rolling Spheroidal Tensegrity-Inspired Robot With a Cable-Slackening Deformable Outer Shell** by Hayate Tanaka, Takayuki Osa, and Shuhei Ikemoto
  * **ROSAIA: From Four-Arm Manipulation to a Portable Two-Arm Vision-Guided Demonstration** by Albin Bajrami, Marcel Gabriel Lahoud, Nahuel Jose, Yasir Mehmood, Lorenzo D’Acierno, Farshad Nozad Heravi, Gabriele Marchello, Orietta Lanciano, Agustina Scaro, and Ferdinando Cannella
