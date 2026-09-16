@@ -11,14 +11,14 @@
 
 ## Organizers:
 
-* Will Johnson (Yale University)
+* Will Johnson (Swarthmore College)
 * John Rieffel (Union College) 
 * Xiaonan (Sean) Huang (University of Michigan)
 * Kostas Bekris (Rutgers University)
 * Valter Böehm (OTH Regensburg)
 * Muhao Chen (University of Houston)
 * Lauren Ervin (Florida International University)
-* Rebecca Kramer-Bottiglio (Yale University)
+* Rebecca Kramer-Bottiglio (Princeton University)
 * Vishesh Vikas (University of Alabama)
 
 This will be the sixth in a series of Tensegrity Robotics workshops we’ve been organizing since 2018. Please address correspondence to Will Johnson at [wjohnso3@swarthmore.edu](mailto:wjohnso3@swarthmore.edu).
@@ -44,20 +44,52 @@ Composed of rigid struts and compliant tendons, tensegrity robots boast a remark
 * 12:25 - Closing Remarks 
 * 12:30 - End
 
-## Contribute
+## Contributions
 
-We are soliciting contributions for poster presentations and live demonstrations.  We especially encourage participants to present live demonstrations if possible.  Submissions do not need to specifically focus on tensegrity robots, but they should be of interest to the tensegrity robotics community. We welcome contributions from tensegrity robotics as well as complementary fields such as field robotics, robot learning, soft robot modeling and control, and autonomous systems.  Expert panelists will choose a **Best Demo Award** and **Best Poster Award**.
+### Poster Presentations
+
+ * **An Open-Source, Reproducible Tensegrity Robot that can Navigate Among Obstacles** by Patrick Meng, William R. Johnson III, Nelson Chen, Luca Cimatti, Augustin Vercoutere , Mridul Aanjaneya, Rebecca Kramer-Bottiglio, and Kostas E. Bekris.
+ * **Shape Reconstruction of Tensegrity Manipulators from Strut Inclinations** by Tufail Ahmad Bhat and Shuhei Ikemoto.
+ * **Design and Locomotion Strategies of Adaptable, Lightweight Tensegrity Snake Robot** by Christian Kazoleas, Lauren Ervin, Jiajun Zhang, Pacifique Uwajambo, and Sichen Yuan
+ * **Development of a Rolling Spheroidal Tensegrity-Inspired Robot With a Cable-Slackening Deformable Outer Shell** by Hayate Tanaka, Takayuki Osa, and Shuhei Ikemoto
+ * **Tendon-actuated Structural Modules for In-space Assembly Applications: Design Methodology and Experimental Validation** by Nate S. Osikowicz, John R. Cooper, Kenny Cheung, and Puneet Singla
+ * **Model Predictive Control of Tensegrity Robots via Contact-Aware Graph Neural Dynamics Model** by Nelson Chen, Patrick Meng, Charles Tang, Angelina Degay, Zachary Brei, Rebecca Kramer-Bottiglio, Kostas E. Bekris, and Mridul Aanjaneya
+ * **PCB-Based Vibrationally Actuated Tensegrity Robots** by Duy Hung Dang, Miraj Parekh, Viet Hoang Tran, Jackson Preskins, and John Rieffel
+ * **A Miniature Tensegrity Worm Robot for Multi-Terrain Locomotion and Payload Transport** by Christian Kazoleas, Jiajun Zhang, Pacifique Uwajambo, and Sichen Yuan
+ * **Bayesian Optimization Finds Repeatable Gaits in a Vibrational Tensegrity** by Miraj Parekh, Duy Hung Dang, and John Rieffel
+ * **Fabrication and System Design of a Mobile Base Tensegrity Continuum Manipulator** by Robbie Monke, Annette Martinez, Christopher Roussakies, and Vishesh Vikas
+ * **Geometric Modeling and Hybrid Dynamics of Curved-Link Tensegrity Locomotion** by Annette Martinez and Vishesh Vikas
+ * **A Magnetic Tactile Sensor for Tensegrity Robots** by Shiran Huang, Alvin Zheng, and William R. Johnson III
+ * **Tensegrity Locomotion under Partial Observability with Transformer-Based Latent Representations** by Russell Soo, Rory Lipkis, and Adrian Agogino
+ * **Morphology-Aware Graph Reinforcement Learning for Tensegrity Robot Locomotion** by Chi Zhang, Mingrui Li, Wenzhe Tong, and Xiaonan Huang
+ * **TeCoBot: A Compliant Tensegrity Continuum Robot for Field-Capable Manipulation and Locomotion** by Mahmud Hasan Saikot, Sydney Spiegel, Sudheera Akalanka Kariyawasam, Andrew Stefka, Josh Chrisler, and Jianguo Zhao
+
+### Live Demonstrations
+
+ * **Shape Reconstruction of Tensegrity Manipulators from Strut Inclinations** by Tufail Ahmad Bhat and Shuhei Ikemoto.
+ * **Design and Locomotion Strategies of Adaptable, Lightweight Tensegrity Snake Robot** by Christian Kazoleas, Lauren Ervin, Jiajun Zhang, Pacifique Uwajambo, and Sichen Yuan
+ * **Development of a Rolling Spheroidal Tensegrity-Inspired Robot With a Cable-Slackening Deformable Outer Shell** by Hayate Tanaka, Takayuki Osa, and Shuhei Ikemoto
+ * **ROSAIA: From Four-Arm Manipulation to a Portable Two-Arm Vision-Guided Demonstration** by Albin Bajrami, Marcel Gabriel Lahoud, Nahuel Jose, Yasir Mehmood, Lorenzo D’Acierno, Farshad Nozad Heravi, Gabriele Marchello, Orietta Lanciano, Agustina Scaro, and Ferdinando Cannella
+ * **GelFoot: Visuotactile Endcap Sensing for Contact-Aware Tensegrity Robots** by Wenzhe Tong, Jonathan Mi, Xili Mi, Nima Fazeli, and Xiaonan Huang
+ * **PCB-Based Vibrationally Actuated Tensegrity Robots** by Duy Hung Dang, Miraj Parekh, Viet Hoang Tran, Jackson Preskins, and John Rieffel
+ * **Bayesian Optimization Finds Repeatable Gaits in a Vibrational Tensegrity** by Miraj Parekh, Duy Hung Dang, and John Rieffel
+ * **Fabrication and System Design of a Mobile Base Tensegrity Continuum Manipulator** by Robbie Monke, Annette Martinez, Christopher Roussakies, and Vishesh Vikas
+ * **Geometric Modeling and Hybrid Dynamics of Curved-Link Tensegrity Locomotion** by Annette Martinez and Vishesh Vikas
+
+<!-- We are soliciting contributions for poster presentations and live demonstrations.  We especially encourage participants to present live demonstrations if possible.  Submissions do not need to specifically focus on tensegrity robots, but they should be of interest to the tensegrity robotics community. We welcome contributions from tensegrity robotics as well as complementary fields such as field robotics, robot learning, soft robot modeling and control, and autonomous systems.  Expert panelists will choose a **Best Demo Award** and **Best Poster Award**.
 
 Those interested should submit a one-page abstract in IEEE conference format using [this form](https://forms.gle/3Wy92WJYHbLB1YkJ9). Templates are available for download through the [IEEE Template Selector](https://template-selector.ieee.org/secure/templateSelector/publicationType). Authors may also include a link to supplementary materials, such as videos, project websites, or code repositories.
 
 The early-bird submission deadline is **Monday, July 20th, 2026 AoE**. Submissions received by this deadline will receive a decision before the IROS early registration deadline (July 24th). Regular submissions are due **Monday, August 17th, 2026 AoE**.  Regular submissions will receive a decision by Monday, August 24th, 2026.
 
-We especially encourage submissions from students, early-career researchers, underrepresented groups, new conference attendees, and researchers from adjacent fields who are interested in engaging with the tensegrity robotics community.
+We especially encourage submissions from students, early-career researchers, underrepresented groups, new conference attendees, and researchers from adjacent fields who are interested in engaging with the tensegrity robotics community. -->
 
 
 ## Inclusiveness
 
-We want to specifically encourage participation from students, young researchers, underrepresented groups, new conference attendees, and those who have not participated in a workshop before.  Once the solicitation opens, please submit your research so that it can enrich our workshop.  The poster session is meant to highlight the work of students and young researchers.  You are welcome as a contributor and/or as an attendee.
+We want to specifically encourage participation from students, young researchers, underrepresented groups, new conference attendees, and those who have not participated in a workshop before.
+<!-- Once the solicitation opens, please submit your research so that it can enrich our workshop. -->
+The poster session is meant to highlight the work of students and young researchers.  You are welcome as a contributor and/or as an attendee.
 
 ## Prior Workshops
 
